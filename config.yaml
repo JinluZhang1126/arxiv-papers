@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "jinluzhang1126"
-repo_name: "robotics-arxiv-daily"
+repo_name: "arxiv-papers"
 show_authors: True
 show_links: True
 show_badge: False
@@ -23,13 +23,15 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     # --------- My Keywords ---------
-    "Manipulation":
-        filters: ["Robot Manipulation", "Robotic Manipulation", "Robot Learning", "Imitation Learning"]
+    "Interaction":
+        filters: ["Human Scene Interaction", "Human Object Interaction","Human-Scene Interaction", "Human-Object Interaction"]
+    "World Model":
+        filters: ["World Model", "Interactive Video Generation", "Interactive World Model", "world foundation model", "Physical World Model"]
     "VLM":
         filters: ["Vision Language Model", "Vision Language Models", "Vision-Language Model", "Vision-Language Models"]
     "VLA":
         filters: ["Vision Language Action","Vision-Language-Action"]
     "Humanoid":
         filters: ["Humanoid Robot", "Humanoid"]
-    "Dexterous":
-        filters: ["Dexterous Manipulation", "Dexterous hand", "Dexterity", "Dexterous"]
+    "3DGS/NeRF":
+        filters: ["NeRF", "Gaussian Splatting"]
