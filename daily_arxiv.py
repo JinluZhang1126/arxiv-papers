@@ -146,14 +146,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
         # 根据是否有代码链接来生成 content
         if repo_url is not None:
             content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|**[link]({})**|\n".format(
-                   update_time,paper_title,paper_first_author+",..."+paper_last_author,paper_key,paper_url,repo_url)
+                   update_time, paper_title, str(paper_first_author) + ",..." + str(paper_last_author), paper_key, paper_url, repo_url)
             content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({}), Code: **[{}]({})**".format(
-                   update_time,paper_title,paper_first_author+",..."+paper_last_author,paper_url,paper_url,repo_url,repo_url)
+                   update_time, paper_title, str(paper_first_author) + ",..." + str(paper_last_author), paper_url, paper_url, repo_url, repo_url)
         else:
             content[paper_key] = "|**{}**|**{}**|{} Team|[{}]({})|null|\n".format(
-                   update_time,paper_title,paper_first_author+",..."+paper_last_author,paper_key,paper_url)
+                   update_time, paper_title, str(paper_first_author) + ",..." + str(paper_last_author), paper_key, paper_url)
             content_to_web[paper_key] = "- {}, **{}**, {} Team, Paper: [{}]({})".format(
-                   update_time,paper_title,paper_first_author+",..."+paper_last_author,paper_url,paper_url)
+                   update_time, paper_title, str(paper_first_author) + ",..." + str(paper_last_author), paper_url, paper_url)
 
         # TODO: select useful comments
         comments = None
