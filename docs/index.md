@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -51,7 +51,7 @@ layout: default
 |**2025-09-23**|**World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation**|Zhennan Jiang,...Dongbin Zhao|[2509.19080](http://arxiv.org/abs/2509.19080)|null|
 |**2025-09-23**|**Position: Human-Robot Interaction in Embodied Intelligence Demands a Shift From Static Privacy Controls to Dynamic Learning**|Shuning Zhang,...Hewu Li|[2509.19041](http://arxiv.org/abs/2509.19041)|null|
 |**2025-09-22**|**Latent Action Pretraining Through World Modeling**|Bahey Tharwat,...Ian Reid|[2509.18428](http://arxiv.org/abs/2509.18428)|null|
-|**2025-09-22**|**Remote Sensing-Oriented World Model**|Yuxi Lu,...Bin Liang|[2509.17808](http://arxiv.org/abs/2509.17808)|null|
+|**2025-09-27**|**Remote Sensing-Oriented World Model**|Yuxi Lu,...Bin Liang|[2509.17808](http://arxiv.org/abs/2509.17808)|null|
 |**2025-09-23**|**Program Synthesis via Test-Time Transduction**|Kang-il Lee,...Kyomin Jung|[2509.17393](http://arxiv.org/abs/2509.17393)|null|
 |**2025-09-19**|**Polarized Signatures of Variable Worlds: Modeling Heterogeneous Habitable Earth- and Early Mars-like (Exo)planets**|Kenneth E. Goodis Gordon,...Eric T. Wolf|[2509.16338](http://arxiv.org/abs/2509.16338)|null|
 |**2025-09-19**|**Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds**|Remo Sasso,...Paulo Rauber|[2509.15915](http://arxiv.org/abs/2509.15915)|null|
@@ -153,7 +153,7 @@ layout: default
 |**2025-09-23**|**Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning**|Zachary Olkin,...Aaron D. Ames|[2509.19573](http://arxiv.org/abs/2509.19573)|null|
 |**2025-09-23**|**RoMoCo: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots**|Min Dai,...Aaron D. Ames|[2509.19545](http://arxiv.org/abs/2509.19545)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Lars Ankile,...Anusha Nagabandi|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
-|**2025-09-23**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Haoyang Weng,...Guanya Shi|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
+|**2025-09-27**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Haoyang Weng,...Guanya Shi|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Jinrui Han,...Chenjia Bai|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
 |**2025-09-19**|**A Framework for Optimal Ankle Design of Humanoid Robots**|Guglielmo Cervettini,...Daniele Pucci|[2509.16469](http://arxiv.org/abs/2509.16469)|null|
 |**2025-09-19**|**A Matter of Height: The Impact of a Robotic Object on Human Compliance**|Michael Faber,...Hadas Erel|[2509.16032](http://arxiv.org/abs/2509.16032)|null|

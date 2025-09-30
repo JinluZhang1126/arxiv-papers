@@ -1,4 +1,4 @@
-## Updated on 2025.09.29
+## Updated on 2025.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -38,7 +38,7 @@
 |**2025-08-26**|**Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods**|Qinqian Lei,...Robby T. Tan|[2508.18753](http://arxiv.org/abs/2508.18753)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh,...Antonio Loquercio|[2508.18691](http://arxiv.org/abs/2508.18691)|**[link](https://hgaurav2k.github.io/trackr/)**|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## World Model
 
@@ -61,7 +61,7 @@
 |**2025-09-23**|**World4RL: Diffusion World Models for Policy Refinement with Reinforcement Learning for Robotic Manipulation**|Zhennan Jiang,...Dongbin Zhao|[2509.19080](http://arxiv.org/abs/2509.19080)|null|
 |**2025-09-23**|**Position: Human-Robot Interaction in Embodied Intelligence Demands a Shift From Static Privacy Controls to Dynamic Learning**|Shuning Zhang,...Hewu Li|[2509.19041](http://arxiv.org/abs/2509.19041)|null|
 |**2025-09-22**|**Latent Action Pretraining Through World Modeling**|Bahey Tharwat,...Ian Reid|[2509.18428](http://arxiv.org/abs/2509.18428)|null|
-|**2025-09-22**|**Remote Sensing-Oriented World Model**|Yuxi Lu,...Bin Liang|[2509.17808](http://arxiv.org/abs/2509.17808)|null|
+|**2025-09-27**|**Remote Sensing-Oriented World Model**|Yuxi Lu,...Bin Liang|[2509.17808](http://arxiv.org/abs/2509.17808)|null|
 |**2025-09-23**|**Program Synthesis via Test-Time Transduction**|Kang-il Lee,...Kyomin Jung|[2509.17393](http://arxiv.org/abs/2509.17393)|null|
 |**2025-09-19**|**Polarized Signatures of Variable Worlds: Modeling Heterogeneous Habitable Earth- and Early Mars-like (Exo)planets**|Kenneth E. Goodis Gordon,...Eric T. Wolf|[2509.16338](http://arxiv.org/abs/2509.16338)|null|
 |**2025-09-19**|**Foundation Models as World Models: A Foundational Study in Text-Based GridWorlds**|Remo Sasso,...Paulo Rauber|[2509.15915](http://arxiv.org/abs/2509.15915)|null|
@@ -73,7 +73,7 @@
 |**2025-09-16**|**A tree-based Polynomial Chaos expansion for surrogate modeling and sensitivity analysis of complex numerical models**|Faten Ben Said,...Fabrice Zaoui|[2509.13384](http://arxiv.org/abs/2509.13384)|null|
 |**2025-09-26**|**Empowering Multi-Robot Cooperation via Sequential World Models**|Zijie Zhao,...Dongbin Zhao|[2509.13095](http://arxiv.org/abs/2509.13095)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## VLM
 
@@ -120,7 +120,7 @@
 |**2025-09-25**|**Recov-Vision: Linking Street View Imagery and Vision-Language Models for Post-Disaster Recovery**|Yiming Xiao,...Ali Mostafavi|[2509.20628](http://arxiv.org/abs/2509.20628)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han,...Karim Bouyarmane|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## VLA
 
@@ -155,7 +155,7 @@
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Ran Yang,...Yiming Feng|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-22**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Ali Abouzeid,...Dezhen Song|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## Humanoid
 
@@ -169,7 +169,7 @@
 |**2025-09-23**|**Chasing Stability: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning**|Zachary Olkin,...Aaron D. Ames|[2509.19573](http://arxiv.org/abs/2509.19573)|null|
 |**2025-09-23**|**RoMoCo: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots**|Min Dai,...Aaron D. Ames|[2509.19545](http://arxiv.org/abs/2509.19545)|null|
 |**2025-09-25**|**Residual Off-Policy RL for Finetuning Behavior Cloning Policies**|Lars Ankile,...Anusha Nagabandi|[2509.19301](http://arxiv.org/abs/2509.19301)|**[link](https://residual-offpolicy-rl.github.io)**|
-|**2025-09-23**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Haoyang Weng,...Guanya Shi|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
+|**2025-09-27**|**HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos**|Haoyang Weng,...Guanya Shi|[2509.16757](http://arxiv.org/abs/2509.16757)|null|
 |**2025-09-20**|**KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control**|Jinrui Han,...Chenjia Bai|[2509.16638](http://arxiv.org/abs/2509.16638)|null|
 |**2025-09-19**|**A Framework for Optimal Ankle Design of Humanoid Robots**|Guglielmo Cervettini,...Daniele Pucci|[2509.16469](http://arxiv.org/abs/2509.16469)|null|
 |**2025-09-19**|**A Matter of Height: The Impact of a Robotic Object on Human Compliance**|Michael Faber,...Hadas Erel|[2509.16032](http://arxiv.org/abs/2509.16032)|null|
@@ -182,7 +182,7 @@
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou,...Zhizhong Su|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng,...Jun Ma|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -216,5 +216,5 @@
 |**2025-09-22**|**GaussianPSL: A novel framework based on Gaussian Splatting for exploring the Pareto frontier in multi-criteria optimization**|Phuong Mai Dinh,...Van-Nam Huynh|[2509.17889](http://arxiv.org/abs/2509.17889)|null|
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen,...Martin R. Oswald|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 
-<p align=right>(<a href=#updated-on-20250929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250930>back to top</a>)</p>
 
