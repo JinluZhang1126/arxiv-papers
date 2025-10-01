@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen,...Ming Lin|[2509.26621](http://arxiv.org/abs/2509.26621)|**[link](https://xiyichen.github.io/hart)**|
+|**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Nicola Messina,...Antonino Furnari|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
 |**2025-09-28**|**InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects**|Xinhao Cai,...Yang Liu|[2509.23612](http://arxiv.org/abs/2509.23612)|null|
 |**2025-09-23**|**Lang2Morph: Language-Driven Morphological Design of Robotic Hands**|Yanyuan Qiao,...Josie Hughes|[2509.18937](http://arxiv.org/abs/2509.18937)|null|
 |**2025-09-23**|**Live-E2T: Real-time Threat Monitoring in Video via Deduplicated Event Reasoning and Chain-of-Thought**|Yuhan Wang,...Weichao Wu|[2509.18571](http://arxiv.org/abs/2509.18571)|null|
@@ -35,6 +37,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Zhuoyang Liu,...Shanghang Zhang|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models**|Eric R. Damm,...Thomas M. Howard|[2509.26339](http://arxiv.org/abs/2509.26339)|null|
+|**2025-09-30**|**ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning**|Yichao Liang,...Kevin Ellis|[2509.26255](http://arxiv.org/abs/2509.26255)|null|
+|**2025-09-29**|**World Model for AI Autonomous Navigation in Mechanical Thrombectomy**|Harry Robertshaw,...Thomas C Booth|[2509.25518](http://arxiv.org/abs/2509.25518)|null|
+|**2025-09-29**|**From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models**|Chenyue Zhou,...Yike Guo|[2509.25373](http://arxiv.org/abs/2509.25373)|null|
+|**2025-09-29**|**Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments**|Jiexi Xu,...Su Liu|[2509.25282](http://arxiv.org/abs/2509.25282)|null|
+|**2025-09-29**|**Rolling Forcing: Autoregressive Long Video Diffusion in Real Time**|Kunhao Liu,...Shijian Lu|[2509.25161](http://arxiv.org/abs/2509.25161)|**[link](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/)**|
 |**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Junjin Xiao,...Qing Zhang|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
 |**2025-09-29**|**DyMoDreamer: World Modeling with Dynamic Modulation**|Boxuan Zhang,...Gang Wang|[2509.24804](http://arxiv.org/abs/2509.24804)|null|
 |**2025-09-29**|**PoseDiff: A Unified Diffusion Model Bridging Robot Pose Estimation and Video-to-Action Control**|Haozhuo Zhang,...Wei Pan|[2509.24591](http://arxiv.org/abs/2509.24591)|null|
@@ -81,6 +90,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Zhuoyang Liu,...Shanghang Zhang|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Query-Kontext: An Unified Multimodal Model for Image Generation and Editing**|Yuxin Song,...Jingdong Wang|[2509.26641](http://arxiv.org/abs/2509.26641)|null|
+|**2025-09-30**|**Clarification as Supervision: Reinforcement Learning for Vision-Language Interfaces**|John Gkountouras,...Ivan Titov|[2509.26594](http://arxiv.org/abs/2509.26594)|null|
+|**2025-09-30**|**The Invisible Mentor: Inferring User Actions from Screen Recordings to Recommend Better Workflows**|Litao Yan,...Emerson Murphy-Hill|[2509.26557](http://arxiv.org/abs/2509.26557)|null|
+|**2025-09-30**|**Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation**|Agneet Chatterjee,...Varun Jampani|[2509.26555](http://arxiv.org/abs/2509.26555)|**[link](https://stable-cinemetrics.github.io/)**|
+|**2025-09-30**|**Zero-Shot Decentralized Federated Learning**|Alessio Masano,...Giovanni Bellitto|[2509.26462](http://arxiv.org/abs/2509.26462)|**[link](https://github.com/perceivelab/ZeroDFL)**|
+|**2025-09-30**|**SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval**|Ren-Di Wu,...Huei-Fang Yang|[2509.26330](http://arxiv.org/abs/2509.26330)|null|
+|**2025-09-30**|**ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency Estimation**|Edoardo Bianchi,...Antonio Liotta|[2509.26278](http://arxiv.org/abs/2509.26278)|null|
+|**2025-09-30**|**Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document**|Adnan Ben Mansour,...David Naccache|[2509.26235](http://arxiv.org/abs/2509.26235)|null|
+|**2025-09-30**|**TSalV360: A Method and Dataset for Text-driven Saliency Detection in 360-Degrees Videos**|Ioannis Kontostathis,...Vasileios Mezaris|[2509.26208](http://arxiv.org/abs/2509.26208)|**[link](https://ieeexplore.ieee.org/)**|
+|**2025-09-30**|**SGS: Segmentation-Guided Scoring for Global Scene Inconsistencies**|Gagandeep Singh,...Xue Li|[2509.26039](http://arxiv.org/abs/2509.26039)|null|
+|**2025-09-30**|**AgenticIQA: An Agentic Framework for Adaptive and Interpretable Image Quality Assessment**|Hanwei Zhu,...Weisi Lin|[2509.26006](http://arxiv.org/abs/2509.26006)|null|
+|**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Nicola Messina,...Antonino Furnari|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
+|**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li,...Zhun Zhong|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
+|**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Yuan Gao,...Johannes Betz|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
+|**2025-09-30**|**VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs**|Peng Liu,...Tiancheng Zhao|[2509.25916](http://arxiv.org/abs/2509.25916)|null|
+|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang,...Yongjun Shen|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
+|**2025-09-30**|**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**|Chi Zhang,...Jing Zhang|[2509.25866](http://arxiv.org/abs/2509.25866)|null|
+|**2025-09-30**|**MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**|Junjie Zhou,...Daoqiang Zhang|[2509.25863](http://arxiv.org/abs/2509.25863)|null|
+|**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Zitong Bo,...Hao Chen|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
 |**2025-09-29**|**TemMed-Bench: Evaluating Temporal Medical Image Reasoning in Vision-Language Models**|Junyi Zhang,...Nanyun Peng|[2509.25143](http://arxiv.org/abs/2509.25143)|null|
 |**2025-09-29**|**Visual serial processing deficits explain divergences in human and VLM reasoning**|Nicholas Budny,...Thomas L. Griffiths|[2509.25142](http://arxiv.org/abs/2509.25142)|null|
 |**2025-09-29**|**GeoVLM-R1: Reinforcement Fine-Tuning for Improved Remote Sensing Reasoning**|Mustansar Fiaz,...Salman Khan|[2509.25026](http://arxiv.org/abs/2509.25026)|**[link](https://mustansarfiaz.github.io/GeoVLM-R1/)**|
@@ -146,6 +175,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Zhuoyang Liu,...Shanghang Zhang|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Peilong Han,...Jianye Hao|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
+|**2025-09-30**|**TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses**|Shuaijun Wang,...Yangwei You|[2509.25746](http://arxiv.org/abs/2509.25746)|null|
+|**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Si-Cheng Wang,...Zeng-Guang Hou|[2509.25718](http://arxiv.org/abs/2509.25718)|null|
+|**2025-09-30**|**dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought**|Junjie Wen,...Yi Xu|[2509.25681](http://arxiv.org/abs/2509.25681)|null|
 |**2025-09-29**|**AIRoA MoMa Dataset: A Large-Scale Hierarchical Dataset for Mobile Manipulation**|Ryosuke Takanami,...Tetsuya Ogata|[2509.25032](http://arxiv.org/abs/2509.25032)|null|
 |**2025-09-29**|**World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training**|Junjin Xiao,...Qing Zhang|[2509.24948](http://arxiv.org/abs/2509.24948)|null|
 |**2025-09-29**|**IA-VLA: Input Augmentation for Vision-Language-Action models in settings with semantically complex tasks**|Eric Hannus,...Ville Kyrki|[2509.24768](http://arxiv.org/abs/2509.24768)|null|
@@ -189,6 +223,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang,...Guanya Shi|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
+|**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Benjamin A. Richardson,...Katherine J. Kuchenbecker|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
+|**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Tianyi Jin,...Frank Kirchner|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
+|**2025-09-29**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He,...Yoshihiko Nakamura|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
 |**2025-09-29**|**Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering**|Evelyn D'Elia,...Daniele Pucci|[2509.24697](http://arxiv.org/abs/2509.24697)|null|
 |**2025-09-29**|**Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game**|Giulia Pusceddu,...Alessandra Sciutti|[2509.24530](http://arxiv.org/abs/2509.24530)|null|
 |**2025-09-29**|**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**|Wanming Yu,...Sethu Vijayakumar|[2509.24163](http://arxiv.org/abs/2509.24163)|null|
@@ -218,6 +256,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen,...Ming Lin|[2509.26621](http://arxiv.org/abs/2509.26621)|**[link](https://xiyichen.github.io/hart)**|
+|**2025-09-30**|**Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting**|Hanzhou Liu,...Peng Jiang|[2509.26455](http://arxiv.org/abs/2509.26455)|null|
+|**2025-09-30**|**GaussEdit: Adaptive 3D Scene Editing with Text and Image Prompts**|Zhenyu Shu,...Ligang Liu|[2509.26055](http://arxiv.org/abs/2509.26055)|null|
+|**2025-09-30**|**PFDepth: Heterogeneous Pinhole-Fisheye Joint Depth Estimation via Distortion-aware Gaussian-Splatted Volumetric Fusion**|Zhiwei Zhang,...Lizhuang Ma|[2509.26008](http://arxiv.org/abs/2509.26008)|null|
+|**2025-09-30**|**LLM-Powered Code Analysis and Optimization for Gaussian Splatting Kernels**|Yi Hu,...Huiyang Zhou|[2509.25626](http://arxiv.org/abs/2509.25626)|null|
+|**2025-09-29**|**GaussianLens: Localized High-Resolution Reconstruction via On-Demand Gaussian Densification**|Yijia Weng,...Leonidas J. Guibas|[2509.25603](http://arxiv.org/abs/2509.25603)|null|
 |**2025-09-29**|**Triangle Splatting+: Differentiable Rendering with Opaque Triangles**|Jan Held,...Andrea Tagliasacchi|[2509.25122](http://arxiv.org/abs/2509.25122)|null|
 |**2025-09-29**|**GEM: 3D Gaussian Splatting for Efficient and Accurate Cryo-EM Reconstruction**|Huaizhi Qu,...Tianlong Chen|[2509.25075](http://arxiv.org/abs/2509.25075)|null|
 |**2025-09-29**|**LVT: Large-Scale Scene Reconstruction via Local View Transformers**|Tooba Imtiaz,...John Flynn|[2509.25001](http://arxiv.org/abs/2509.25001)|**[link](https://toobaimt.github.io/lvt/)**|
