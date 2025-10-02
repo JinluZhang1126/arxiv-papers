@@ -190,6 +190,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Zhuoyang Liu,...Shanghang Zhang|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
+|**2025-09-30**|**Seeing Space and Motion: Enhancing Latent Actions with Spatial and Dynamic Awareness for VLA**|Zhejia Cai,...Ruqi Huang|[2509.26251](http://arxiv.org/abs/2509.26251)|null|
 |**2025-09-30**|**MUVLA: Learning to Explore Object Navigation via Map Understanding**|Peilong Han,...Jianye Hao|[2509.25966](http://arxiv.org/abs/2509.25966)|null|
 |**2025-09-30**|**TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses**|Shuaijun Wang,...Yangwei You|[2509.25746](http://arxiv.org/abs/2509.25746)|null|
 |**2025-09-30**|**VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning**|Si-Cheng Wang,...Zeng-Guang Hou|[2509.25718](http://arxiv.org/abs/2509.25718)|null|
