@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.02
+## Updated on 2025.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -40,7 +40,7 @@ layout: default
 |**2025-09-30**|**MLA: A Multisensory Language-Action Model for Multimodal Understanding and Forecasting in Robotic Manipulation**|Zhuoyang Liu,...Shanghang Zhang|[2509.26642](http://arxiv.org/abs/2509.26642)|null|
 |**2025-09-30**|**Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models**|Eric R. Damm,...Thomas M. Howard|[2509.26339](http://arxiv.org/abs/2509.26339)|null|
 |**2025-10-01**|**ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning**|Yichao Liang,...Kevin Ellis|[2509.26255](http://arxiv.org/abs/2509.26255)|null|
-|**2025-09-29**|**World Model for AI Autonomous Navigation in Mechanical Thrombectomy**|Harry Robertshaw,...Thomas C Booth|[2509.25518](http://arxiv.org/abs/2509.25518)|null|
+|**2025-10-02**|**World Model for AI Autonomous Navigation in Mechanical Thrombectomy**|Harry Robertshaw,...Thomas C Booth|[2509.25518](http://arxiv.org/abs/2509.25518)|null|
 |**2025-09-29**|**From Perception to Cognition: A Survey of Vision-Language Interactive Reasoning in Multimodal Large Language Models**|Chenyue Zhou,...Yike Guo|[2509.25373](http://arxiv.org/abs/2509.25373)|null|
 |**2025-09-29**|**Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments**|Jiexi Xu,...Su Liu|[2509.25282](http://arxiv.org/abs/2509.25282)|null|
 |**2025-09-29**|**Rolling Forcing: Autoregressive Long Video Diffusion in Real Time**|Kunhao Liu,...Shijian Lu|[2509.25161](http://arxiv.org/abs/2509.25161)|**[link](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/)**|
@@ -106,7 +106,7 @@ layout: default
 |**2025-09-30**|**Towards Unified Multimodal Misinformation Detection in Social Media: A Benchmark Dataset and Baseline**|Haiyang Li,...Zhun Zhong|[2509.25991](http://arxiv.org/abs/2509.25991)|null|
 |**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Yuan Gao,...Johannes Betz|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
 |**2025-09-30**|**VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained Perception in VLMs**|Peng Liu,...Tiancheng Zhao|[2509.25916](http://arxiv.org/abs/2509.25916)|null|
-|**2025-09-30**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang,...Yongjun Shen|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
+|**2025-10-01**|**LLaVAShield: Safeguarding Multimodal Multi-Turn Dialogues in Vision-Language Models**|Guolei Huang,...Yongjun Shen|[2509.25896](http://arxiv.org/abs/2509.25896)|null|
 |**2025-09-30**|**DeepSketcher: Internalizing Visual Manipulation for Multimodal Reasoning**|Chi Zhang,...Jing Zhang|[2509.25866](http://arxiv.org/abs/2509.25866)|null|
 |**2025-09-30**|**MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification**|Junjie Zhou,...Daoqiang Zhang|[2509.25863](http://arxiv.org/abs/2509.25863)|null|
 |**2025-09-30**|**Reinforced Embodied Planning with Verifiable Reward for Real-World Robotic Manipulation**|Zitong Bo,...Hao Chen|[2509.25852](http://arxiv.org/abs/2509.25852)|null|
