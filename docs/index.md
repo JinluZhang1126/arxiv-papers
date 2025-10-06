@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.05
+## Updated on 2025.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -18,7 +18,7 @@ layout: default
 |**2025-09-22**|**Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training**|Divya Mereddy,...Benjamin Goldberg|[2509.17888](http://arxiv.org/abs/2509.17888)|null|
 |**2025-09-20**|**Person Identification from Egocentric Human-Object Interactions using 3D Hand Pose**|Muhammad Hamza,...Muhammad Tahir Akram|[2509.16557](http://arxiv.org/abs/2509.16557)|null|
 |**2025-09-19**|**Dynamic Objects Relocalization in Changing Environments with Flow Matching**|Francesco Argenziano,...Liam Paull|[2509.16398](http://arxiv.org/abs/2509.16398)|null|
-|**2025-09-16**|**Modeling the Multivariate Relationship with Contextualized Representations for Effective Human-Object Interaction Detection**|Zhehao Li,...Jiafei Wu|[2509.12784](http://arxiv.org/abs/2509.12784)|null|
+|**2025-10-03**|**Contextualized Representation Learning for Effective Human-Object Interaction Detection**|Zhehao Li,...Jiafei Wu|[2509.12784](http://arxiv.org/abs/2509.12784)|null|
 |**2025-09-16**|**Explicit Multimodal Graph Modeling for Human-Object Interaction Detection**|Wenxuan Ji,...Xiao-Yu zhang|[2509.12554](http://arxiv.org/abs/2509.12554)|null|
 |**2025-09-12**|**OnlineHOI: Towards Online Human-Object Interaction Generation and Perception**|Yihong Ji,...Fei Yu|[2509.12250](http://arxiv.org/abs/2509.12250)|null|
 |**2025-09-11**|**InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation**|Sirui Xu,...Liang-Yan Gui|[2509.09555](http://arxiv.org/abs/2509.09555)|null|
@@ -113,7 +113,7 @@ layout: default
 |**2025-10-02**|**Source-Free Cross-Domain Continual Learning**|Muhammad Tanzil Furqon,...Kutluyil Dogancay|[2510.01649](http://arxiv.org/abs/2510.01649)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Zijun Lin,...Bihan Wen|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
 |**2025-10-02**|**ImageNet-Think-250K: A Large-Scale Synthetic Dataset for Multimodal Reasoning for Vision Language Models**|Krishna Teja Chitty-Venkata,...Murali Emani|[2510.01582](http://arxiv.org/abs/2510.01582)|null|
-|**2025-10-01**|**Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed**|Isha Gupta,...Sanmi Koyejo|[2510.01494](http://arxiv.org/abs/2510.01494)|null|
+|**2025-10-03**|**Understanding Adversarial Transfer: Why Representation-Space Attacks Fail Where Data-Space Attacks Succeed**|Isha Gupta,...Sanmi Koyejo|[2510.01494](http://arxiv.org/abs/2510.01494)|null|
 |**2025-10-01**|**VL-KnG: Visual Scene Understanding for Navigation Goal Identification using Spatiotemporal Knowledge Graphs**|Mohamad Al Mdfaa,...Gonzalo Ferrer|[2510.01483](http://arxiv.org/abs/2510.01483)|null|
 |**2025-10-01**|**Data Selection for Fine-tuning Vision Language Models via Cross Modal Alignment Trajectories**|Nilay Naharas,...Baharan Mirzasoleiman|[2510.01454](http://arxiv.org/abs/2510.01454)|**[link](https://bigml-cs-ucla.github.io/XMAS-project-page/)**|
 |**2025-10-01**|**GeoSURGE: Geo-localization using Semantic Fusion with Hierarchy of Geographic Embeddings**|Angel Daruna,...Rakesh Kumar|[2510.01448](http://arxiv.org/abs/2510.01448)|null|
