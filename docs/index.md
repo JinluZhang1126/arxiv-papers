@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li,...Laura Sevilla-Lara|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou,...Jing Zhang|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen,...Ming Lin|[2509.26621](http://arxiv.org/abs/2509.26621)|**[link](https://xiyichen.github.io/hart)**|
 |**2025-09-30**|**Learning Egocentric In-Hand Object Segmentation through Weak Supervision from Human Narrations**|Nicola Messina,...Antonino Furnari|[2509.26004](http://arxiv.org/abs/2509.26004)|null|
@@ -38,6 +39,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft**|Junchao Huang,...Li Jiang|[2510.03198](http://arxiv.org/abs/2510.03198)|null|
+|**2025-10-02**|**A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models**|Yilin Wang,...Hao Su|[2510.02538](http://arxiv.org/abs/2510.02538)|null|
+|**2025-09-30**|**CWM: An Open-Weights LLM for Research on Code Generation with World Models**|FAIR CodeGen team,...Gabriel Synnaeve|[2510.02387](http://arxiv.org/abs/2510.02387)|null|
 |**2025-10-02**|**MultiModal Action Conditioned Video Generation**|Yichen Li,...Antonio Torralba|[2510.02287](http://arxiv.org/abs/2510.02287)|null|
 |**2025-10-02**|**SoundReactor: Frame-level Online Video-to-Audio Generation**|Koichi Saito,...Yuki Mitsufuji|[2510.02110](http://arxiv.org/abs/2510.02110)|null|
 |**2025-10-02**|**FideDiff: Efficient Diffusion Model for High-Fidelity Image Motion Deblurring**|Xiaoyang Liu,...Yulun Zhang|[2510.01641](http://arxiv.org/abs/2510.01641)|null|
@@ -100,6 +104,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning**|Yilun Hao,...Yang Zhang|[2510.03182](http://arxiv.org/abs/2510.03182)|null|
+|**2025-10-03**|**SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus**|Ming Zhao,...Caifeng Shan|[2510.03160](http://arxiv.org/abs/2510.03160)|null|
+|**2025-10-03**|**Multimodal Carotid Risk Stratification with Large Vision-Language Models: Benchmarking, Fine-Tuning, and Clinical Insights**|Daphne Tsolissou,...Konstantina Nikita|[2510.02922](http://arxiv.org/abs/2510.02922)|null|
+|**2025-10-03**|**Zero-Shot Robustness of Vision Language Models Via Confidence-Aware Weighting**|Nikoo Naghavian,...Mostafa Tavassolipour|[2510.02913](http://arxiv.org/abs/2510.02913)|null|
+|**2025-10-03**|**Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis**|Feng Yuan,...Xin Gao|[2510.02815](http://arxiv.org/abs/2510.02815)|null|
+|**2025-10-03**|**MaskCD: Mitigating LVLM Hallucinations by Image Head Masked Contrastive Decoding**|Jingyuan Deng,...Yujiu Yang|[2510.02790](http://arxiv.org/abs/2510.02790)|null|
+|**2025-10-03**|**OTR: Synthesizing Overlay Text Dataset for Text Removal**|Jan Zdenek,...Kota Yamaguchi|[2510.02787](http://arxiv.org/abs/2510.02787)|**[link](https://doi.org/10.1145/3746027.3758297)**|
+|**2025-10-03**|**Reasoning Riddles: How Explainability Reveals Cognitive Limits in Vision-Language Models**|Prahitha Movva,...Prahitha Movva|[2510.02780](http://arxiv.org/abs/2510.02780)|null|
+|**2025-10-03**|**AdaRD-key: Adaptive Relevance-Diversity Keyframe Sampling for Long-form Video understanding**|Xian Zhang,...Mohammed Bennamoun|[2510.02778](http://arxiv.org/abs/2510.02778)|null|
+|**2025-10-03**|**Bayesian Test-time Adaptation for Object Recognition and Detection with Vision-language Models**|Lihua Zhou,...Zhen Lei|[2510.02750](http://arxiv.org/abs/2510.02750)|null|
+|**2025-10-03**|**Team Xiaomi EV-AD VLA: Caption-Guided Retrieval System for Cross-Modal Drone Navigation -- Technical Report for IROS 2025 RoboSense Challenge Track 4**|Lingfeng Zhang,...Xiaoshuai Hao|[2510.02728](http://arxiv.org/abs/2510.02728)|null|
+|**2025-10-03**|**ARMs: Adaptive Red-Teaming Agent against Multimodal Models with Plug-and-Play Attacks**|Zhaorun Chen,...Bo Li|[2510.02677](http://arxiv.org/abs/2510.02677)|null|
+|**2025-10-02**|**Exploring OCR-augmented Generation for Bilingual VQA**|JoonHo Lee,...Sunho Park|[2510.02543](http://arxiv.org/abs/2510.02543)|null|
+|**2025-10-02**|**Multimodal Function Vectors for Spatial Relations**|Shuhao Fu,...Hongjing Lu|[2510.02528](http://arxiv.org/abs/2510.02528)|null|
 |**2025-10-02**|**From Behavioral Performance to Internal Competence: Interpreting Vision-Language Models with VLM-Lens**|Hala Sheta,...Freda Shi|[2510.02292](http://arxiv.org/abs/2510.02292)|**[link](https://github.com/compling-wat/vlm-lens)**|
 |**2025-10-02**|**microCLIP: Unsupervised CLIP Adaptation via Coarse-Fine Token Fusion for Fine-Grained Image Classification**|Sathira Silva,...Muhammad Haris Khan|[2510.02270](http://arxiv.org/abs/2510.02270)|null|
 |**2025-10-02**|**Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents**|Lingzhong Dong,...Zhuosheng Zhang|[2510.02204](http://arxiv.org/abs/2510.02204)|null|
@@ -205,6 +223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning**|Tianyu Xu,...He Wang|[2510.03142](http://arxiv.org/abs/2510.03142)|**[link](https://pku-epic.github.io/MM-Nav-Web/)**|
 |**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Taeyoung Kim,...Jinwoo Shin|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Zijun Lin,...Bihan Wen|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
 |**2025-10-02**|**VLA-R1: Enhancing Reasoning in Vision-Language-Action Models**|Angen Ye,...Zheng Zhu|[2510.01623](http://arxiv.org/abs/2510.01623)|null|
@@ -262,6 +281,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot**|Guiliang Liu,...Kui Jia|[2510.03081](http://arxiv.org/abs/2510.03081)|null|
+|**2025-10-03**|**HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton**|Rui Zhong,...Yi Xu|[2510.03022](http://arxiv.org/abs/2510.03022)|null|
 |**2025-10-02**|**Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking**|Joao Pedro Araujo,...C. Karen Liu|[2510.02252](http://arxiv.org/abs/2510.02252)|null|
 |**2025-10-02**|**Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control**|Philip Reichenberg,...Tim Laue|[2510.02129](http://arxiv.org/abs/2510.02129)|null|
 |**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|Wanyue Li,...Peng Lu|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
@@ -299,6 +320,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei,...Anirudha Majumdar|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
+|**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang,...Yanyong Zhang|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
+|**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen,...Yucheng Zhang|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
+|**2025-10-03**|**FSFSplatter: Build Surface and Novel Views with Sparse-Views within 3min**|Yibin Zhao,...Jianjun Yi|[2510.02691](http://arxiv.org/abs/2510.02691)|null|
+|**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park,...Ziran Wang|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
 |**2025-10-02**|**StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided Illusions**|Bo-Hsu Ke,...Wei-Chen Chiu|[2510.02314](http://arxiv.org/abs/2510.02314)|**[link](https://hentci.github.io/stealthattack/)**|
 |**2025-10-02**|**Performance-Guided Refinement for Visual Aerial Navigation using Editable Gaussian Splatting in FalconGym 2.0**|Yan Miao,...Sayan Mitra|[2510.02248](http://arxiv.org/abs/2510.02248)|null|
 |**2025-10-02**|**Spec-Gloss Surfels and Normal-Diffuse Priors for Relightable Glossy Objects**|Georgios Kouros,...Tinne Tuytelaars|[2510.02069](http://arxiv.org/abs/2510.02069)|null|
