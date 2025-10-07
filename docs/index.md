@@ -39,6 +39,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation**|Mingyu Liu,...Chunhua Shen|[2510.05057](http://arxiv.org/abs/2510.05057)|null|
+|**2025-10-06**|**Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI**|Kun Xiang,...Xiaodan Liang|[2510.04978](http://arxiv.org/abs/2510.04978)|null|
+|**2025-10-06**|**Code World Models for General Game Playing**|Wolfgang Lehrach,...Kevin P. Murphy|[2510.04542](http://arxiv.org/abs/2510.04542)|null|
+|**2025-10-05**|**Internal World Models as Imagination Networks in Cognitive Agents**|Saurabh Ranjan,...Brian Odegaard|[2510.04391](http://arxiv.org/abs/2510.04391)|null|
+|**2025-10-05**|**MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator**|Xuehai He,...Xin Eric Wang|[2510.04390](http://arxiv.org/abs/2510.04390)|null|
+|**2025-10-05**|**GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks**|Tejal Patwardhan,...Jerry Tworek|[2510.04374](http://arxiv.org/abs/2510.04374)|null|
+|**2025-10-05**|**Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models**|Hao Wu,...Xiaomeng Huang|[2510.04020](http://arxiv.org/abs/2510.04020)|null|
+|**2025-10-04**|**Bridging the Gap Between Multimodal Foundation Models and World Models**|Xuehai He,...Xuehai He|[2510.03727](http://arxiv.org/abs/2510.03727)|null|
+|**2025-10-03**|**A Generalized Second-Order Positivity-Preserving Numerical Method for Non-Autonomous Dynamical Systems with Applications**|Manh Tuan Hoang,...Matthias Ehrhardt|[2510.03420](http://arxiv.org/abs/2510.03420)|null|
 |**2025-10-03**|**Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft**|Junchao Huang,...Li Jiang|[2510.03198](http://arxiv.org/abs/2510.03198)|null|
 |**2025-10-02**|**A Recipe for Efficient Sim-to-Real Transfer in Manipulation with Online Imitation-Pretrained World Models**|Yilin Wang,...Hao Su|[2510.02538](http://arxiv.org/abs/2510.02538)|null|
 |**2025-09-30**|**CWM: An Open-Weights LLM for Research on Code Generation with World Models**|FAIR CodeGen team,...Gabriel Synnaeve|[2510.02387](http://arxiv.org/abs/2510.02387)|null|
@@ -104,6 +113,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization**|Omri Uzan,...Ariel Gera|[2510.05038](http://arxiv.org/abs/2510.05038)|null|
+|**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz,...J. P. How|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
+|**2025-10-06**|**ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts**|Zexin Wang,...Dan Pei|[2510.04710](http://arxiv.org/abs/2510.04710)|null|
+|**2025-10-06**|**Conditional Representation Learning for Customized Tasks**|Honglin Liu,...Xi Peng|[2510.04564](http://arxiv.org/abs/2510.04564)|null|
+|**2025-10-06**|**More Than Meets the Eye? Uncovering the Reasoning-Planning Disconnect in Training Vision-Language Driving Models**|Xurui Song,...Jun Luo|[2510.04532](http://arxiv.org/abs/2510.04532)|null|
+|**2025-10-06**|**VaseVQA-3D: Benchmarking 3D VLMs on Ancient Greek Pottery**|Nonghai Zhang,...Hao Tang|[2510.04479](http://arxiv.org/abs/2510.04479)|null|
+|**2025-10-06**|**MedCLM: Learning to Localize and Reason via a CoT-Curriculum in Medical Vision-Language Models**|Soo Yong Kim,...Gyeongyeon Hwang|[2510.04477](http://arxiv.org/abs/2510.04477)|null|
+|**2025-10-06**|**A.I.R.: Enabling Adaptive, Iterative, and Reasoning-based Frame Selection For Video Question Answering**|Yuanhao Zou,...Chen Chen|[2510.04428](http://arxiv.org/abs/2510.04428)|null|
+|**2025-10-06**|**Your Vision-Language Model Can't Even Count to 20: Exposing the Failures of VLMs in Compositional Counting**|Xuyang Guo,...Jiahao Zhang|[2510.04401](http://arxiv.org/abs/2510.04401)|null|
+|**2025-10-05**|**AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents**|Yanjie Li,...Bin Xiao|[2510.04257](http://arxiv.org/abs/2510.04257)|null|
+|**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Huiwon Jang,...Jinwoo Shin|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
+|**2025-10-05**|**Zoom-In to Sort AI-Generated Images Out**|Yikun Ji,...Jianfu Zhang|[2510.04225](http://arxiv.org/abs/2510.04225)|null|
+|**2025-10-05**|**Automating construction safety inspections using a multi-modal vision-language RAG framework**|Chenxin Wang,...Daniel Dias-da-Costa|[2510.04145](http://arxiv.org/abs/2510.04145)|null|
+|**2025-10-05**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|Bo Yang,...Shijian Li|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
+|**2025-10-04**|**No Tokens Wasted: Leveraging Long Context in Biomedical Vision-Language Models**|Min Woo Sun,...Serena Yeung-Levy|[2510.03978](http://arxiv.org/abs/2510.03978)|null|
+|**2025-10-04**|**Zero-Shot Fine-Grained Image Classification Using Large Vision-Language Models**|Md. Atabuzzaman,...Chris Thomas|[2510.03903](http://arxiv.org/abs/2510.03903)|null|
+|**2025-10-04**|**Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert**|Mingyu Liu,...Chunhua Shen|[2510.03896](http://arxiv.org/abs/2510.03896)|null|
+|**2025-10-04**|**Mirage: Unveiling Hidden Artifacts in Synthetic Images with Large Vision-Language Models**|Pranav Sharma,...Durga Toshniwal|[2510.03840](http://arxiv.org/abs/2510.03840)|null|
+|**2025-10-04**|**Person-Centric Annotations of LAION-400M: Auditing Bias and Its Transfer to Models**|Leander Girrbach,...Zeynep Akata|[2510.03721](http://arxiv.org/abs/2510.03721)|null|
+|**2025-10-04**|**MonitorVLM:A Vision Language Framework for Safety Violation Detection in Mining Operations**|Jiang Wu,...Jingliang Duan|[2510.03666](http://arxiv.org/abs/2510.03666)|null|
 |**2025-10-03**|**Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning**|Yilun Hao,...Yang Zhang|[2510.03182](http://arxiv.org/abs/2510.03182)|null|
 |**2025-10-03**|**SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus**|Ming Zhao,...Caifeng Shan|[2510.03160](http://arxiv.org/abs/2510.03160)|null|
 |**2025-10-03**|**Multimodal Carotid Risk Stratification with Large Vision-Language Models: Benchmarking, Fine-Tuning, and Clinical Insights**|Daphne Tsolissou,...Konstantina Nikita|[2510.02922](http://arxiv.org/abs/2510.02922)|null|
@@ -223,6 +252,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks**|Zheng Xiong,...Shimon Whiteson|[2510.04898](http://arxiv.org/abs/2510.04898)|null|
+|**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Huiwon Jang,...Jinwoo Shin|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
+|**2025-10-05**|**SITCOM: Scaling Inference-Time COMpute for VLAs**|Ayudh Saxena,...Esha Pahwa|[2510.04041](http://arxiv.org/abs/2510.04041)|null|
+|**2025-10-04**|**Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert**|Mingyu Liu,...Chunhua Shen|[2510.03896](http://arxiv.org/abs/2510.03896)|null|
+|**2025-10-04**|**NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation**|Zheng Huang,...Chunhua Shen|[2510.03895](http://arxiv.org/abs/2510.03895)|null|
+|**2025-10-04**|**LIBERO-PRO: Towards Robust and Fair Evaluation of Vision-Language-Action Models Beyond Memorization**|Xueyang Zhou,...Lichao Sun|[2510.03827](http://arxiv.org/abs/2510.03827)|null|
+|**2025-10-02**|**Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer**|Abbas Abdolmaleki,...Yuxiang Zhou|[2510.03342](http://arxiv.org/abs/2510.03342)|null|
 |**2025-10-03**|**MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning**|Tianyu Xu,...He Wang|[2510.03142](http://arxiv.org/abs/2510.03142)|**[link](https://pku-epic.github.io/MM-Nav-Web/)**|
 |**2025-10-02**|**Contrastive Representation Regularization for Vision-Language-Action Models**|Taeyoung Kim,...Jinwoo Shin|[2510.01711](http://arxiv.org/abs/2510.01711)|null|
 |**2025-10-02**|**FailSafe: Reasoning and Recovery from Failures in Vision-Language-Action Models**|Zijun Lin,...Bihan Wen|[2510.01642](http://arxiv.org/abs/2510.01642)|**[link](https://jimntu.github.io/FailSafe/)**|
@@ -281,6 +317,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Aditya Sripada,...Abhishek Warrier|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
+|**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Stephen McCrory,...Robert Griffin|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
+|**2025-10-03**|**LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy**|Zekai Liang,...Michael C. Yip|[2510.03529](http://arxiv.org/abs/2510.03529)|null|
 |**2025-10-03**|**Embracing Evolution: A Call for Body-Control Co-Design in Embodied Humanoid Robot**|Guiliang Liu,...Kui Jia|[2510.03081](http://arxiv.org/abs/2510.03081)|null|
 |**2025-10-03**|**HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton**|Rui Zhong,...Yi Xu|[2510.03022](http://arxiv.org/abs/2510.03022)|null|
 |**2025-10-02**|**Retargeting Matters: General Motion Retargeting for Humanoid Motion Tracking**|Joao Pedro Araujo,...C. Karen Liu|[2510.02252](http://arxiv.org/abs/2510.02252)|null|
@@ -320,6 +359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee,...Eunbyung Park|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
+|**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius,...Mac Schwager|[2510.03545](http://arxiv.org/abs/2510.03545)|**[link](https://github.com/sixnor/SketchPlan)**|
+|**2025-09-30**|**Universal Beta Splatting**|Rong Liu,...Ziyan Wu|[2510.03312](http://arxiv.org/abs/2510.03312)|null|
 |**2025-10-03**|**Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields**|Zhiting Mei,...Anirudha Majumdar|[2510.03104](http://arxiv.org/abs/2510.03104)|null|
 |**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang,...Yanyong Zhang|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
 |**2025-10-03**|**From Tokens to Nodes: Semantic-Guided Motion Control for Dynamic 3D Gaussian Splatting**|Jianing Chen,...Yucheng Zhang|[2510.02732](http://arxiv.org/abs/2510.02732)|null|
