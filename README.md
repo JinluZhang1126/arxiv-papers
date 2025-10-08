@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection**|Junwen Chen,...Keiji Yanai|[2510.05609](http://arxiv.org/abs/2510.05609)|null|
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li,...Laura Sevilla-Lara|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou,...Jing Zhang|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
 |**2025-09-30**|**HART: Human Aligned Reconstruction Transformer**|Xiyi Chen,...Ming Lin|[2509.26621](http://arxiv.org/abs/2509.26621)|**[link](https://xiyichen.github.io/hart)**|
@@ -49,6 +50,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models**|Jiahao Wang,...Chiyu Max Jiang|[2510.06209](http://arxiv.org/abs/2510.06209)|null|
+|**2025-10-07**|**The Safety Challenge of World Models for Embodied AI Agents: A Review**|Lorenzo Baraldi,...Lorenzo Baraldi|[2510.05865](http://arxiv.org/abs/2510.05865)|null|
 |**2025-10-06**|**StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact State Representation**|Mingyu Liu,...Chunhua Shen|[2510.05057](http://arxiv.org/abs/2510.05057)|null|
 |**2025-10-06**|**Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI**|Kun Xiang,...Xiaodan Liang|[2510.04978](http://arxiv.org/abs/2510.04978)|null|
 |**2025-10-06**|**Code World Models for General Game Playing**|Wolfgang Lehrach,...Kevin P. Murphy|[2510.04542](http://arxiv.org/abs/2510.04542)|null|
@@ -125,6 +128,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Reasoning under Vision: Understanding Visual-Spatial Cognition in Vision-Language Models for CAPTCHA**|Python Song,...Junfeng Yang|[2510.06067](http://arxiv.org/abs/2510.06067)|null|
+|**2025-10-07**|**Medical Vision Language Models as Policies for Robotic Surgery**|Akshay Muppidi,...Martin Radfar|[2510.06064](http://arxiv.org/abs/2510.06064)|null|
+|**2025-10-07**|**Data Factory with Minimal Human Effort Using VLMs**|Jiaojiao Ye,...Andrew Markham|[2510.05722](http://arxiv.org/abs/2510.05722)|null|
+|**2025-10-07**|**Activation-Informed Pareto-Guided Low-Rank Compression for Efficient LLM/VLM**|Ryan Solgi,...Zheng Zhang|[2510.05544](http://arxiv.org/abs/2510.05544)|null|
 |**2025-10-06**|**Guided Query Refinement: Multimodal Hybrid Retrieval with Test-Time Optimization**|Omri Uzan,...Ariel Gera|[2510.05038](http://arxiv.org/abs/2510.05038)|null|
 |**2025-10-06**|**Efficient Navigation in Unknown Indoor Environments with Vision-Language Models**|D. Schwartz,...J. P. How|[2510.04991](http://arxiv.org/abs/2510.04991)|null|
 |**2025-10-06**|**ViTs: Teaching Machines to See Time Series Anomalies Like Human Experts**|Zexin Wang,...Dan Pei|[2510.04710](http://arxiv.org/abs/2510.04710)|null|
@@ -266,6 +273,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**EmbodiedCoder: Parameterized Embodied Mobile Manipulation via Modern Coding Model**|Zefu Lin,...Zhaoxiang Zhang|[2510.06207](http://arxiv.org/abs/2510.06207)|**[link](https://anonymous.4open.science/w/Embodied-Coder/)**|
+|**2025-10-07**|**Verifier-free Test-Time Sampling for Vision Language Action Models**|Suhyeok Jang,...Jinwoo Shin|[2510.05681](http://arxiv.org/abs/2510.05681)|null|
+|**2025-10-07**|**MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption**|Chen Li,...Marios Savvides|[2510.05580](http://arxiv.org/abs/2510.05580)|null|
 |**2025-10-06**|**HyperVLA: Efficient Inference in Vision-Language-Action Models via Hypernetworks**|Zheng Xiong,...Shimon Whiteson|[2510.04898](http://arxiv.org/abs/2510.04898)|null|
 |**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Huiwon Jang,...Jinwoo Shin|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
 |**2025-10-05**|**SITCOM: Scaling Inference-Time COMpute for VLAs**|Ayudh Saxena,...Esha Pahwa|[2510.04041](http://arxiv.org/abs/2510.04041)|null|
@@ -333,6 +343,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Aman Singh,...Shishir Kolathaya|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Aditya Sripada,...Abhishek Warrier|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Stephen McCrory,...Robert Griffin|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
 |**2025-10-03**|**LapSurgie: Humanoid Robots Performing Surgery via Teleoperated Handheld Laparoscopy**|Zekai Liang,...Michael C. Yip|[2510.03529](http://arxiv.org/abs/2510.03529)|null|
@@ -377,6 +388,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan,...Shan Du|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee,...Eunbyung Park|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
 |**2025-10-03**|**SketchPlan: Diffusion Based Drone Planning From Human Sketches**|Sixten Norelius,...Mac Schwager|[2510.03545](http://arxiv.org/abs/2510.03545)|**[link](https://github.com/sixnor/SketchPlan)**|
 |**2025-09-30**|**Universal Beta Splatting**|Rong Liu,...Ziyan Wu|[2510.03312](http://arxiv.org/abs/2510.03312)|null|
