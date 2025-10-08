@@ -1,4 +1,4 @@
-## Updated on 2025.10.07
+## Updated on 2025.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -43,7 +43,7 @@
 |**2025-09-29**|**Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods**|Qinqian Lei,...Robby T. Tan|[2508.18753](http://arxiv.org/abs/2508.18753)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh,...Antonio Loquercio|[2508.18691](http://arxiv.org/abs/2508.18691)|**[link](https://hgaurav2k.github.io/trackr/)**|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## World Model
 
@@ -119,7 +119,7 @@
 |**2025-09-16**|**A tree-based Polynomial Chaos expansion for surrogate modeling and sensitivity analysis of complex numerical models**|Faten Ben Said,...Fabrice Zaoui|[2509.13384](http://arxiv.org/abs/2509.13384)|null|
 |**2025-09-26**|**Empowering Multi-Robot Cooperation via Sequential World Models**|Zijie Zhao,...Dongbin Zhao|[2509.13095](http://arxiv.org/abs/2509.13095)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## VLM
 
@@ -138,7 +138,7 @@
 |**2025-10-05**|**ContextVLA: Vision-Language-Action Model with Amortized Multi-Frame Context**|Huiwon Jang,...Jinwoo Shin|[2510.04246](http://arxiv.org/abs/2510.04246)|**[link](https://huiwon-jang.github.io/contextvla)**|
 |**2025-10-05**|**Zoom-In to Sort AI-Generated Images Out**|Yikun Ji,...Jianfu Zhang|[2510.04225](http://arxiv.org/abs/2510.04225)|null|
 |**2025-10-05**|**Automating construction safety inspections using a multi-modal vision-language RAG framework**|Chenxin Wang,...Daniel Dias-da-Costa|[2510.04145](http://arxiv.org/abs/2510.04145)|null|
-|**2025-10-05**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|Bo Yang,...Shijian Li|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
+|**2025-10-07**|**AgriGPT-VL: Agricultural Vision-Language Understanding Suite**|Bo Yang,...Shijian Li|[2510.04002](http://arxiv.org/abs/2510.04002)|null|
 |**2025-10-04**|**No Tokens Wasted: Leveraging Long Context in Biomedical Vision-Language Models**|Min Woo Sun,...Serena Yeung-Levy|[2510.03978](http://arxiv.org/abs/2510.03978)|null|
 |**2025-10-04**|**Zero-Shot Fine-Grained Image Classification Using Large Vision-Language Models**|Md. Atabuzzaman,...Chris Thomas|[2510.03903](http://arxiv.org/abs/2510.03903)|null|
 |**2025-10-04**|**Bridge Thinking and Acting: Unleashing Physical Potential of VLM with Generalizable Action Expert**|Mingyu Liu,...Chunhua Shen|[2510.03896](http://arxiv.org/abs/2510.03896)|null|
@@ -260,7 +260,7 @@
 |**2025-09-25**|**Recov-Vision: Linking Street View Imagery and Vision-Language Models for Post-Disaster Recovery**|Yiming Xiao,...Ali Mostafavi|[2509.20628](http://arxiv.org/abs/2509.20628)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han,...Karim Bouyarmane|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## VLA
 
@@ -327,7 +327,7 @@
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Ran Yang,...Yiming Feng|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-22**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Ali Abouzeid,...Dezhen Song|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## Humanoid
 
@@ -345,7 +345,7 @@
 |**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang,...Guanya Shi|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Benjamin A. Richardson,...Katherine J. Kuchenbecker|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Tianyi Jin,...Frank Kirchner|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
-|**2025-09-29**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He,...Yoshihiko Nakamura|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
+|**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He,...Yoshihiko Nakamura|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
 |**2025-09-29**|**Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering**|Evelyn D'Elia,...Daniele Pucci|[2509.24697](http://arxiv.org/abs/2509.24697)|null|
 |**2025-09-29**|**Game Theory to Study Cooperation in Human-Robot Mixed Groups: Exploring the Potential of the Public Good Game**|Giulia Pusceddu,...Alessandra Sciutti|[2509.24530](http://arxiv.org/abs/2509.24530)|null|
 |**2025-09-29**|**Preference-Based Long-Horizon Robotic Stacking with Multimodal Large Language Models**|Wanming Yu,...Sethu Vijayakumar|[2509.24163](http://arxiv.org/abs/2509.24163)|null|
@@ -371,7 +371,7 @@
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou,...Zhizhong Su|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng,...Jun Ma|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -441,5 +441,5 @@
 |**2025-09-22**|**GaussianPSL: A novel framework based on Gaussian Splatting for exploring the Pareto frontier in multi-criteria optimization**|Phuong Mai Dinh,...Van-Nam Huynh|[2509.17889](http://arxiv.org/abs/2509.17889)|null|
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen,...Martin R. Oswald|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 
-<p align=right>(<a href=#updated-on-20251007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251008>back to top</a>)</p>
 
