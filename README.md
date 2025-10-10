@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi,...Meng-Yu Jennifer Kuo|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
 |**2025-10-07**|**HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection**|Junwen Chen,...Keiji Yanai|[2510.05609](http://arxiv.org/abs/2510.05609)|null|
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li,...Laura Sevilla-Lara|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou,...Jing Zhang|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
@@ -50,6 +51,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Agent Learning via Early Experience**|Kai Zhang,...Yifan Wu|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
+|**2025-10-09**|**Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation**|Yunzhe Xu,...Zhe Liu|[2510.08553](http://arxiv.org/abs/2510.08553)|null|
+|**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Zeqing Wang,...Lei Zhang|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
+|**2025-10-09**|**Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning**|Jialu Du,...Weiming Lu|[2510.07974](http://arxiv.org/abs/2510.07974)|null|
+|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang,...Zehuan Wu|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
+|**2025-10-08**|**ExpertAgent: Enhancing Personalized Education through Dynamic Planning and Retrieval-Augmented Long-Chain Reasoning**|Binrong Zhu,...Nina Jiang|[2510.07456](http://arxiv.org/abs/2510.07456)|null|
+|**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera,...David Handelman|[2510.07417](http://arxiv.org/abs/2510.07417)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian,...Shanghang Zhang|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
 |**2025-10-08**|**Generative World Modelling for Humanoids: 1X World Model Challenge Technical Report**|Riccardo Mereu,...Paul Chang|[2510.07092](http://arxiv.org/abs/2510.07092)|null|
 |**2025-10-07**|**What You Don't Know Can Hurt You: How Well do Latent Safety Filters Understand Partially Observable Safety Constraints?**|Matthew Kim,...Andrea Bajcsy|[2510.06492](http://arxiv.org/abs/2510.06492)|null|
@@ -132,7 +140,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-08**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Yi Han,...Shanghang Zhang|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
+|**2025-10-09**|**MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning**|Tajamul Ashraf,...Salman Khan|[2510.08567](http://arxiv.org/abs/2510.08567)|null|
+|**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Hongxing Li,...Yueting Zhuang|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
+|**2025-10-09**|**To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models**|Jiayun Luo,...Leonid Sigal|[2510.08510](http://arxiv.org/abs/2510.08510)|**[link](https://davidhalladay.github.io/diysink_demo)**|
+|**2025-10-09**|**MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration**|Lu Liu,...Guangtao Zhai|[2510.08508](http://arxiv.org/abs/2510.08508)|null|
+|**2025-10-09**|**The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form-Meaning Mapping**|Onur Keleş,...Esam Ghaleb|[2510.08482](http://arxiv.org/abs/2510.08482)|null|
+|**2025-10-09**|**Looking to Learn: Token-wise Dynamic Gating for Low-Resource Vision-Language Modelling**|Bianca-Mihaela Ganescu,...Paula Buttery|[2510.08470](http://arxiv.org/abs/2510.08470)|null|
+|**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Zeqing Wang,...Lei Zhang|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
+|**2025-10-09**|**Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception**|Nikos Theodoridis,...Ciaran Eising|[2510.08352](http://arxiv.org/abs/2510.08352)|null|
+|**2025-10-09**|**Chain-of-Trigger: An Agentic Backdoor that Paradoxically Enhances Agentic Robustness**|Jiyang Qiu,...Hai Zhao|[2510.08238](http://arxiv.org/abs/2510.08238)|null|
+|**2025-10-09**|**Approximate Domain Unlearning for Vision-Language Models**|Kodai Kawamura,...Go Irie|[2510.08132](http://arxiv.org/abs/2510.08132)|null|
+|**2025-10-09**|**CIR-CoT: Towards Interpretable Composed Image Retrieval via End-to-End Chain-of-Thought Reasoning**|Weihuang Lin,...Rongrong Ji|[2510.08003](http://arxiv.org/abs/2510.08003)|null|
+|**2025-10-09**|**Executable Analytic Concepts as the Missing Link Between VLM Insight and Precise Manipulation**|Mingyang Sun,...Jianhua Sun|[2510.07975](http://arxiv.org/abs/2510.07975)|null|
+|**2025-10-09**|**Effective and Stealthy One-Shot Jailbreaks on Deployed Mobile Vision-Language Agents**|Renhua Ding,...Jun Zhu|[2510.07809](http://arxiv.org/abs/2510.07809)|null|
+|**2025-10-09**|**GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models**|Qinghongbing Xie,...Long Zeng|[2510.07791](http://arxiv.org/abs/2510.07791)|null|
+|**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Yandu Chen,...Liqiang Nie|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
+|**2025-10-09**|**Multimodal Safety Evaluation in Generative Agent Social Simulations**|Alhim Vera,...Bernard Ghanem|[2510.07709](http://arxiv.org/abs/2510.07709)|null|
+|**2025-10-09**|**Test-Time Matching: Unlocking Compositional Reasoning in Multimodal Models**|Yinglun Zhu,...Fuzhi Tang|[2510.07632](http://arxiv.org/abs/2510.07632)|null|
+|**2025-10-08**|**Cross-Modal Attention Guided Unlearning in Vision-Language Models**|Karuna Bhaila,...Xintao Wu|[2510.07567](http://arxiv.org/abs/2510.07567)|null|
+|**2025-10-08**|**Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices**|Md Tahmid Rahman Laskar,...Jimmy Huang|[2510.07545](http://arxiv.org/abs/2510.07545)|null|
+|**2025-10-09**|**TIGeR: Tool-Integrated Geometric Reasoning in Vision-Language Models for Robotics**|Yi Han,...Shanghang Zhang|[2510.07181](http://arxiv.org/abs/2510.07181)|null|
 |**2025-10-08**|**Few-Shot Adaptation Benchmark for Remote Sensing Vision-Language Models**|Karim El Khoury,...Benoit Macq|[2510.07135](http://arxiv.org/abs/2510.07135)|null|
 |**2025-10-08**|**TALENT: Table VQA via Augmented Language-Enhanced Natural-text Transcription**|Guo Yutong,...Haoyu Wang|[2510.07098](http://arxiv.org/abs/2510.07098)|null|
 |**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Kento Kawaharazuka,...Yuke Zhu|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
@@ -288,6 +315,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Jason Jabbour,...Shayegan Omidshafiei|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
+|**2025-10-09**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Junwen Gu,...Zhengxing Wu|[2510.07869](http://arxiv.org/abs/2510.07869)|null|
+|**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Yandu Chen,...Liqiang Nie|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
+|**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Changyeon Kim,...Yuke Zhu|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|Jiahang Liu,...He Wang|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
 |**2025-10-08**|**Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications**|Kento Kawaharazuka,...Yuke Zhu|[2510.07077](http://arxiv.org/abs/2510.07077)|**[link](https://vla-survey.github.io)**|
 |**2025-10-08**|**Bring the Apple, Not the Sofa: Impact of Irrelevant Context in Embodied AI Commands on VLA Models**|Daria Pugacheva,...Elena Tutubalina|[2510.07067](http://arxiv.org/abs/2510.07067)|null|
@@ -362,6 +393,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Jhen Hsieh,...Tsung-Wei Ke|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
+|**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Filip Bečanović,...Vincent Bonnet|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
+|**2025-10-09**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Boyu Li,...Zongqing Lu|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
 |**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Jingkai Sun,...Qiang Zhang|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Aman Singh,...Shishir Kolathaya|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Aditya Sripada,...Abhishek Warrier|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
@@ -408,6 +442,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**ReSplat: Learning Recurrent Gaussian Splats**|Haofei Xu,...Marc Pollefeys|[2510.08575](http://arxiv.org/abs/2510.08575)|**[link](https://haofeixu.github.io/resplat/)**|
+|**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song,...Lu Qi|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
+|**2025-10-09**|**Splat the Net: Radiance Fields with Splattable Neural Primitives**|Xilong Zhou,...Christian Theobalt|[2510.08491](http://arxiv.org/abs/2510.08491)|null|
+|**2025-10-09**|**Efficient Label Refinement for Face Parsing Under Extreme Poses Using 3D Gaussian Splatting**|Ankit Gahlawat,...Dinesh Babu Jayagopi|[2510.08096](http://arxiv.org/abs/2510.08096)|null|
+|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang,...Zehuan Wu|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
+|**2025-10-09**|**PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting**|Houqiang Zhong,...Qiang Hu|[2510.07830](http://arxiv.org/abs/2510.07830)|null|
+|**2025-10-09**|**DEGS: Deformable Event-based 3D Gaussian Splatting from RGB and Event Stream**|Junhao He,...Renjing Xu|[2510.07752](http://arxiv.org/abs/2510.07752)|null|
+|**2025-10-09**|**ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes**|Jian Gao,...Yao Yao|[2510.07729](http://arxiv.org/abs/2510.07729)|null|
 |**2025-10-08**|**Generating Surface for Text-to-3D using 2D Gaussian Splatting**|Huanning Dong,...Jianwen Min|[2510.06967](http://arxiv.org/abs/2510.06967)|null|
 |**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov,...Sergey Gorinsky|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
 |**2025-10-08**|**SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis**|Jipeng Lyu,...Yu-Xiong Wang|[2510.06694](http://arxiv.org/abs/2510.06694)|null|
