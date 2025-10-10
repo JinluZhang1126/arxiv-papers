@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.09
+## Updated on 2025.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -52,7 +52,7 @@ layout: default
 |**2025-10-05**|**Internal World Models as Imagination Networks in Cognitive Agents**|Saurabh Ranjan,...Brian Odegaard|[2510.04391](http://arxiv.org/abs/2510.04391)|null|
 |**2025-10-05**|**MorphoSim: An Interactive, Controllable, and Editable Language-guided 4D World Simulator**|Xuehai He,...Xin Eric Wang|[2510.04390](http://arxiv.org/abs/2510.04390)|null|
 |**2025-10-05**|**GDPval: Evaluating AI Model Performance on Real-World Economically Valuable Tasks**|Tejal Patwardhan,...Jerry Tworek|[2510.04374](http://arxiv.org/abs/2510.04374)|null|
-|**2025-10-05**|**Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models**|Hao Wu,...Xiaomeng Huang|[2510.04020](http://arxiv.org/abs/2510.04020)|null|
+|**2025-10-09**|**Spatiotemporal Forecasting as Planning: A Model-Based Reinforcement Learning Approach with Generative World Models**|Hao Wu,...Xiaomeng Huang|[2510.04020](http://arxiv.org/abs/2510.04020)|null|
 |**2025-10-04**|**Bridging the Gap Between Multimodal Foundation Models and World Models**|Xuehai He,...Xuehai He|[2510.03727](http://arxiv.org/abs/2510.03727)|null|
 |**2025-10-03**|**A Generalized Second-Order Positivity-Preserving Numerical Method for Non-Autonomous Dynamical Systems with Applications**|Manh Tuan Hoang,...Matthias Ehrhardt|[2510.03420](http://arxiv.org/abs/2510.03420)|null|
 |**2025-10-03**|**Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft**|Junchao Huang,...Li Jiang|[2510.03198](http://arxiv.org/abs/2510.03198)|null|
@@ -357,7 +357,7 @@ layout: default
 |**2025-10-02**|**Stand Up, NAO! Increasing the Reliability of Stand-Up Motions Through Error Compensation in Position Control**|Philip Reichenberg,...Tim Laue|[2510.02129](http://arxiv.org/abs/2510.02129)|null|
 |**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|Wanyue Li,...Peng Lu|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
 |**2025-09-30**|**Learning Human Reaching Optimality Principles from Minimal Observation Inverse Reinforcement Learning**|Sarmad Mehrdad,...Ludovic Righetti|[2510.00329](http://arxiv.org/abs/2510.00329)|null|
-|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang,...Guanya Shi|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
+|**2025-10-08**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang,...Guanya Shi|[2509.26633](http://arxiv.org/abs/2509.26633)|**[link](https://omniretarget.github.io)**|
 |**2025-09-30**|**ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm**|Benjamin A. Richardson,...Katherine J. Kuchenbecker|[2509.26236](http://arxiv.org/abs/2509.26236)|null|
 |**2025-09-30**|**Evolutionary Continuous Adaptive RL-Powered Co-Design for Humanoid Chin-Up Performance**|Tianyi Jin,...Frank Kirchner|[2509.26082](http://arxiv.org/abs/2509.26082)|null|
 |**2025-10-06**|**CoTaP: Compliant Task Pipeline and Reinforcement Learning of Its Controller with Compliance Modulation**|Zewen He,...Yoshihiko Nakamura|[2509.25443](http://arxiv.org/abs/2509.25443)|null|
@@ -393,7 +393,7 @@ layout: default
 |**2025-10-08**|**Generating Surface for Text-to-3D using 2D Gaussian Splatting**|Huanning Dong,...Jianwen Min|[2510.06967](http://arxiv.org/abs/2510.06967)|null|
 |**2025-10-08**|**Capture and Interact: Rapid 3D Object Acquisition and Rendering with Gaussian Splatting in Unity**|Islomjon Shukhratov,...Sergey Gorinsky|[2510.06802](http://arxiv.org/abs/2510.06802)|null|
 |**2025-10-08**|**SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis**|Jipeng Lyu,...Yu-Xiong Wang|[2510.06694](http://arxiv.org/abs/2510.06694)|null|
-|**2025-10-08**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li,...Zhao|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
+|**2025-10-09**|**RTGS: Real-Time 3D Gaussian Splatting SLAM via Multi-Level Redundancy Reduction**|Leshu Li,...Yang Katie Zhao|[2510.06644](http://arxiv.org/abs/2510.06644)|null|
 |**2025-10-07**|**Active Next-Best-View Optimization for Risk-Averse Path Planning**|Amirhossein Mollaei Khass,...Nader Motee|[2510.06481](http://arxiv.org/abs/2510.06481)|null|
 |**2025-10-07**|**ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars**|Peizhi Yan,...Shan Du|[2510.05488](http://arxiv.org/abs/2510.05488)|null|
 |**2025-10-04**|**Optimized Minimal 4D Gaussian Splatting**|Minseo Lee,...Eunbyung Park|[2510.03857](http://arxiv.org/abs/2510.03857)|null|
