@@ -51,6 +51,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**|Chuanrui Zhang,...Ziwei Wang|[2510.09036](http://arxiv.org/abs/2510.09036)|null|
+|**2025-10-09**|**Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation**|Yifei Dong,...Alexander G Hauptmann|[2510.08713](http://arxiv.org/abs/2510.08713)|**[link](https://github.com/F1y1113/UniWM)**|
 |**2025-10-09**|**Agent Learning via Early Experience**|Kai Zhang,...Yifan Wu|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
 |**2025-10-09**|**Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation**|Yunzhe Xu,...Zhe Liu|[2510.08553](http://arxiv.org/abs/2510.08553)|null|
 |**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Zeqing Wang,...Lei Zhang|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
@@ -140,6 +142,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**StreamingVLM: Real-Time Understanding for Infinite Video Streams**|Ruyi Xu,...Song Han|[2510.09608](http://arxiv.org/abs/2510.09608)|null|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Shaoqi Dong,...Caifeng Shan|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin,...Fengming Lin|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
+|**2025-10-10**|**D-TPT: Dimensional Entropy Maximization for Calibrating Test-Time Prompt Tuning in Vision-Language Models**|Jisu Han,...Wonjun Hwang|[2510.09473](http://arxiv.org/abs/2510.09473)|null|
+|**2025-10-10**|**Boosting Multi-modal Keyphrase Prediction with Dynamic Chain-of-Thought in Vision-Language Models**|Qihang Ma,...Jiao Ran|[2510.09358](http://arxiv.org/abs/2510.09358)|**[link](https://github.com/bytedance/DynamicCoT)**|
+|**2025-10-10**|**Spotlight on Token Perception for Multimodal Reinforcement Learning**|Siyuan Huang,...Yu Cheng|[2510.09285](http://arxiv.org/abs/2510.09285)|**[link](https://github.com/huaixuheqing/VPPO-RL)**|
+|**2025-10-10**|**Hallucination Filtering in Radiology Vision-Language Models Using Discrete Semantic Entropy**|Patrick Wienholt,...Daniel Truhn|[2510.09256](http://arxiv.org/abs/2510.09256)|**[link](https://github.com/TruhnLab/VisionSemanticEntropy)**|
+|**2025-10-10**|**Zero-shot image privacy classification with Vision-Language Models**|Alina Elena Baia,...Andrea Cavallaro|[2510.09253](http://arxiv.org/abs/2510.09253)|null|
+|**2025-10-10**|**Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation**|Vijay M. Galshetwar,...Subrahmanyam Murala|[2510.09228](http://arxiv.org/abs/2510.09228)|null|
+|**2025-10-10**|**MCMC: Bridging Rendering, Optimization and Generative AI**|Gurprit Singh,...Wenzel Jakob|[2510.09078](http://arxiv.org/abs/2510.09078)|null|
+|**2025-10-10**|**On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in Large Vision-Language Models**|Hoigi Seo,...Se Young Chun|[2510.09008](http://arxiv.org/abs/2510.09008)|null|
+|**2025-10-10**|**Unleashing Perception-Time Scaling to Multimodal Reasoning Models**|Yifan Li,...Minghui Qiu|[2510.08964](http://arxiv.org/abs/2510.08964)|null|
+|**2025-10-10**|**PHyCLIP: $\ell_1$ -Product of Hyperbolic Factors Unifies Hierarchy and Compositionality in Vision-Language Representation Learning**|Daiki Yoshikawa,...Takashi Matsubara|[2510.08919](http://arxiv.org/abs/2510.08919)|null|
+|**2025-10-09**|**CDE: Concept-Driven Exploration for Reinforcement Learning**|Le Mao,...Joseph Campbell|[2510.08851](http://arxiv.org/abs/2510.08851)|null|
+|**2025-10-09**|**FOLK: Fast Open-Vocabulary 3D Instance Segmentation via Label-guided Knowledge Distillation**|Hongrui Wu,...Zhihua Wei|[2510.08849](http://arxiv.org/abs/2510.08849)|null|
+|**2025-10-09**|**D-CoDe: Scaling Image-Pretrained VLMs to Video via Dynamic Compression and Question Decomposition**|Yiyang Huang,...Yun Fu|[2510.08818](http://arxiv.org/abs/2510.08818)|null|
+|**2025-10-09**|**Q-Router: Agentic Video Quality Assessment with Expert Model Routing and Artifact Localization**|Shuo Xing,...Zhengzhong Tu|[2510.08789](http://arxiv.org/abs/2510.08789)|null|
 |**2025-10-09**|**MATRIX: Multimodal Agent Tuning for Robust Tool-Use Reasoning**|Tajamul Ashraf,...Salman Khan|[2510.08567](http://arxiv.org/abs/2510.08567)|null|
 |**2025-10-09**|**SpatialLadder: Progressive Training for Spatial Reasoning in Vision-Language Models**|Hongxing Li,...Yueting Zhuang|[2510.08531](http://arxiv.org/abs/2510.08531)|**[link](https://zju-real.github.io/SpatialLadder/)**|
 |**2025-10-09**|**To Sink or Not to Sink: Visual Information Pathways in Large Vision-Language Models**|Jiayun Luo,...Leonid Sigal|[2510.08510](http://arxiv.org/abs/2510.08510)|**[link](https://davidhalladay.github.io/diysink_demo)**|
@@ -315,8 +334,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation**|Shaoqi Dong,...Caifeng Shan|[2510.09607](http://arxiv.org/abs/2510.09607)|**[link](https://ltbai.github.io/VITA-VLA/)**|
+|**2025-10-10**|**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**|Zixin Zhang,...Ying-Cong Chen|[2510.09507](http://arxiv.org/abs/2510.09507)|null|
+|**2025-10-10**|**Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects**|Zirun Zhou,...Jingfeng Zhang|[2510.09269](http://arxiv.org/abs/2510.09269)|null|
 |**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Jason Jabbour,...Shayegan Omidshafiei|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
-|**2025-10-09**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Junwen Gu,...Zhengxing Wu|[2510.07869](http://arxiv.org/abs/2510.07869)|null|
+|**2025-10-10**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Junwen Gu,...Zhengxing Wu|[2510.07869](http://arxiv.org/abs/2510.07869)|**[link](https://vincentgu2000.github.io/u0project/)**|
 |**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Yandu Chen,...Liqiang Nie|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
 |**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Changyeon Kim,...Yuke Zhu|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|Jiahang Liu,...He Wang|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
@@ -393,10 +415,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**|Zhenyu Zhao,...Yue Wang|[2510.08807](http://arxiv.org/abs/2510.08807)|null|
 |**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Jhen Hsieh,...Tsung-Wei Ke|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
 |**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Filip Bečanović,...Vincent Bonnet|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
 |**2025-10-09**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Boyu Li,...Zongqing Lu|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
-|**2025-10-08**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Jingkai Sun,...Qiang Zhang|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
+|**2025-10-10**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Jingkai Sun,...Qiang Zhang|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Aman Singh,...Shishir Kolathaya|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Aditya Sripada,...Abhishek Warrier|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
 |**2025-10-05**|**Stability-Aware Retargeting for Humanoid Multi-Contact Teleoperation**|Stephen McCrory,...Robert Griffin|[2510.04353](http://arxiv.org/abs/2510.04353)|null|
@@ -442,6 +465,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Vision Language Models: A Survey of 26K Papers**|Fengming Lin,...Fengming Lin|[2510.09586](http://arxiv.org/abs/2510.09586)|null|
+|**2025-10-10**|**FLOWING: Implicit Neural Flows for Structure-Preserving Morphing**|Arthur Bizzi,...Tiago Novello|[2510.09537](http://arxiv.org/abs/2510.09537)|null|
+|**2025-10-10**|**Two-Stage Gaussian Splatting Optimization for Outdoor Scene Reconstruction**|Deborah Pintani,...Andrea Giachetti|[2510.09489](http://arxiv.org/abs/2510.09489)|null|
+|**2025-10-10**|**Visibility-Aware Densification for 3D Gaussian Splatting in Dynamic Urban Scenes**|Yikang Zhang,...Rui Fan|[2510.09364](http://arxiv.org/abs/2510.09364)|null|
 |**2025-10-09**|**ReSplat: Learning Recurrent Gaussian Splats**|Haofei Xu,...Marc Pollefeys|[2510.08575](http://arxiv.org/abs/2510.08575)|**[link](https://haofeixu.github.io/resplat/)**|
 |**2025-10-09**|**D $^2$ GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction**|Meixi Song,...Lu Qi|[2510.08566](http://arxiv.org/abs/2510.08566)|null|
 |**2025-10-09**|**Splat the Net: Radiance Fields with Splattable Neural Primitives**|Xilong Zhou,...Christian Theobalt|[2510.08491](http://arxiv.org/abs/2510.08491)|null|
