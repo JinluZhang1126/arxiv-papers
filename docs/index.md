@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-09**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi,...Meng-Yu Jennifer Kuo|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
+|**2025-10-11**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi,...Meng-Yu Jennifer Kuo|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
 |**2025-10-07**|**HOI-R1: Exploring the Potential of Multimodal Large Language Models for Human-Object Interaction Detection**|Junwen Chen,...Keiji Yanai|[2510.05609](http://arxiv.org/abs/2510.05609)|null|
 |**2025-10-03**|**Mask2IV: Interaction-Centric Video Generation via Mask Trajectories**|Gen Li,...Laura Sevilla-Lara|[2510.03135](http://arxiv.org/abs/2510.03135)|**[link](https://reagan1311.github.io/mask2iv)**|
 |**2025-10-02**|**Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting**|Shu Zou,...Jing Zhang|[2510.02155](http://arxiv.org/abs/2510.02155)|null|
@@ -46,7 +46,7 @@ layout: default
 |**2025-10-09**|**Agent Learning via Early Experience**|Kai Zhang,...Yifan Wu|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
 |**2025-10-09**|**Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation**|Yunzhe Xu,...Zhe Liu|[2510.08553](http://arxiv.org/abs/2510.08553)|null|
 |**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Zeqing Wang,...Lei Zhang|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
-|**2025-10-09**|**Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning**|Jialu Du,...Weiming Lu|[2510.07974](http://arxiv.org/abs/2510.07974)|null|
+|**2025-10-11**|**Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning**|Jialu Du,...Weiming Lu|[2510.07974](http://arxiv.org/abs/2510.07974)|null|
 |**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang,...Zehuan Wu|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
 |**2025-10-08**|**ExpertAgent: Enhancing Personalized Education through Dynamic Planning and Retrieval-Augmented Long-Chain Reasoning**|Binrong Zhu,...Nina Jiang|[2510.07456](http://arxiv.org/abs/2510.07456)|null|
 |**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera,...David Handelman|[2510.07417](http://arxiv.org/abs/2510.07417)|null|
