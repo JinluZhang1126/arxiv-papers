@@ -52,6 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji,...Hengshuang Zhao|[2510.13809](http://arxiv.org/abs/2510.13809)|**[link](https://sihuiji.github.io/PhysMaster-Page/)**|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang,...Yujiu Yang|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
+|**2025-10-15**|**Agency cannot be a purely quantum phenomenon**|Emily C. Adlam,...Mordecai Waegell|[2510.13247](http://arxiv.org/abs/2510.13247)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li,...Zhaoxiang Zhang|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in Latent World Models for Autonomous Driving**|Xiaoji Zheng,...Jiangtao Gong|[2510.12560](http://arxiv.org/abs/2510.12560)|null|
 |**2025-10-14**|**Deep SPI: Safe Policy Improvement via World Models**|Florent Delgrange,...Willem Röpke|[2510.12312](http://arxiv.org/abs/2510.12312)|null|
@@ -153,6 +156,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models**|Dominick Reilly,...Srijan Das|[2510.13808](http://arxiv.org/abs/2510.13808)|null|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang,...Yujiu Yang|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
+|**2025-10-15**|**Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models**|Xinmiao Huang,...Xiaowei Huang|[2510.13394](http://arxiv.org/abs/2510.13394)|null|
+|**2025-10-15**|**DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning**|Tianyuan Yuan,...Hang Zhao|[2510.13375](http://arxiv.org/abs/2510.13375)|null|
+|**2025-10-15**|**Language as a Label: Zero-Shot Multimodal Classification of Everyday Postures under Data Scarcity**|MingZe Tang,...Jubal Chandy Jacob|[2510.13364](http://arxiv.org/abs/2510.13364)|null|
+|**2025-10-15**|**Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models**|Yuki Yada,...Andre Rusli|[2510.13359](http://arxiv.org/abs/2510.13359)|null|
+|**2025-10-15**|**Self-Augmented Visual Contrastive Decoding**|Eun Woo Im,...Vivek Gupta|[2510.13315](http://arxiv.org/abs/2510.13315)|null|
+|**2025-10-15**|**MMLongCite: A Benchmark for Evaluating Fidelity of Long-Context Vision-Language Models**|Keyan Zhou,...Min Zhang|[2510.13276](http://arxiv.org/abs/2510.13276)|null|
+|**2025-10-15**|**Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs**|Minji Kim,...Bohyung Han|[2510.13251](http://arxiv.org/abs/2510.13251)|null|
+|**2025-10-15**|**What "Not" to Detect: Negation-Aware VLMs via Structured Reasoning and Token Merging**|Inha Kang,...Hyunjung Shim|[2510.13232](http://arxiv.org/abs/2510.13232)|null|
+|**2025-10-15**|**SHIELD: Classifier-Guided Prompting for Robust and Safer LVLMs**|Juan Ren,...Usman Naseem|[2510.13190](http://arxiv.org/abs/2510.13190)|null|
+|**2025-10-15**|**DriveCritic: Towards Context-Aware, Human-Aligned Evaluation for Autonomous Driving with Vision-Language Models**|Jingyu Song,...Jose M. Alvarez|[2510.13108](http://arxiv.org/abs/2510.13108)|null|
+|**2025-10-15**|**VLA-0: Building State-of-the-Art VLAs with Zero Modification**|Ankit Goyal,...Fabio Ramos|[2510.13054](http://arxiv.org/abs/2510.13054)|null|
+|**2025-10-14**|**SVAG-Bench: A Large-Scale Benchmark for Multi-Instance Spatio-temporal Video Action Grounding**|Tanveer Hannan,...Thomas Seidl|[2510.13016](http://arxiv.org/abs/2510.13016)|null|
+|**2025-10-14**|**UNCAP: Uncertainty-Guided Planning Using Natural Language Communication for Cooperative Autonomous Vehicles**|Neel P. Bhatt,...Ufuk Topcu|[2510.12992](http://arxiv.org/abs/2510.12992)|null|
+|**2025-10-14**|**Scope: Selective Cross-modal Orchestration of Visual Perception Experts**|Tianyu Zhang,...Perouz Taslakian|[2510.12974](http://arxiv.org/abs/2510.12974)|null|
+|**2025-10-14**|**Epistemic-aware Vision-Language Foundation Model for Fetal Ultrasound Interpretation**|Xiao He,...Bo Du|[2510.12953](http://arxiv.org/abs/2510.12953)|null|
+|**2025-10-14**|**Unifying Vision-Language Latents for Zero-label Image Caption Enhancement**|Sanghyun Byun,...Woo Seong Chung|[2510.12931](http://arxiv.org/abs/2510.12931)|null|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li,...Ajinkya Kale|[2510.12789](http://arxiv.org/abs/2510.12789)|**[link](https://thekevinli.github.io/unifusion/)**|
 |**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|Lin Lin,...Chao Feng|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning**|Hanyang Chen,...Tong Zhang|[2510.12693](http://arxiv.org/abs/2510.12693)|null|
@@ -380,6 +401,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy**|Xinyi Chen,...Yangkun Zhu|[2510.13778](http://arxiv.org/abs/2510.13778)|null|
+|**2025-10-15**|**LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models**|Senyu Fei,...Xipeng Qiu|[2510.13626](http://arxiv.org/abs/2510.13626)|null|
+|**2025-10-15**|**DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning**|Tianyuan Yuan,...Hang Zhao|[2510.13375](http://arxiv.org/abs/2510.13375)|null|
+|**2025-10-15**|**Model-agnostic Adversarial Attack and Defense for Vision-Language-Action Models**|Haochuan Xu,...Jingfeng Zhang|[2510.13237](http://arxiv.org/abs/2510.13237)|null|
+|**2025-10-15**|**VLA-0: Building State-of-the-Art VLAs with Zero Modification**|Ankit Goyal,...Fabio Ramos|[2510.13054](http://arxiv.org/abs/2510.13054)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li,...Zhaoxiang Zhang|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**Reflection-Based Task Adaptation for Self-Improving VLA**|Baicheng Li,...Hongbin Zha|[2510.12710](http://arxiv.org/abs/2510.12710)|null|
 |**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li,...Haoang Li|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
@@ -395,7 +421,7 @@
 |**2025-10-10**|**PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs**|Zixin Zhang,...Ying-Cong Chen|[2510.09507](http://arxiv.org/abs/2510.09507)|null|
 |**2025-10-10**|**Goal-oriented Backdoor Attack against Vision-Language-Action Models via Physical Objects**|Zirun Zhou,...Jingfeng Zhang|[2510.09269](http://arxiv.org/abs/2510.09269)|null|
 |**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Jason Jabbour,...Shayegan Omidshafiei|[2510.08464](http://arxiv.org/abs/2510.08464)|null|
-|**2025-10-10**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Junwen Gu,...Zhengxing Wu|[2510.07869](http://arxiv.org/abs/2510.07869)|**[link](https://vincentgu2000.github.io/u0project/)**|
+|**2025-10-15**|**USIM and U0: A Vision-Language-Action Dataset and Model for General Underwater Robots**|Junwen Gu,...Zhengxing Wu|[2510.07869](http://arxiv.org/abs/2510.07869)|**[link](https://vincentgu2000.github.io/u0project/)**|
 |**2025-10-09**|**IntentionVLA: Generalizable and Efficient Embodied Intention Reasoning for Human-Robot Interaction**|Yandu Chen,...Liqiang Nie|[2510.07778](http://arxiv.org/abs/2510.07778)|null|
 |**2025-10-09**|**DEAS: DEtached value learning with Action Sequence for Scalable Offline RL**|Changyeon Kim,...Yuke Zhu|[2510.07730](http://arxiv.org/abs/2510.07730)|**[link](https://changyeon.site/deas)**|
 |**2025-10-08**|**TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking**|Jiahang Liu,...He Wang|[2510.07134](http://arxiv.org/abs/2510.07134)|**[link](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)**|
@@ -472,6 +498,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Nicolas Pottier,...Meng Cheng Lau|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
+|**2025-10-15**|**Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots**|Austin Barret,...Meng Cheng Lau|[2510.13594](http://arxiv.org/abs/2510.13594)|null|
 |**2025-10-14**|**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**|Bingquan Li,...Yucong Wu|[2510.12346](http://arxiv.org/abs/2510.12346)|null|
 |**2025-10-13**|**Ego-Vision World Model for Humanoid Contact Planning**|Hang Liu,...Koushil Sreenath|[2510.11682](http://arxiv.org/abs/2510.11682)|null|
 |**2025-10-13**|**Simultaneous Calibration of Noise Covariance and Kinematics for State Estimation of Legged Robots via Bi-level Optimization**|Denglin Cheng,...Xiaobin Xiong|[2510.11539](http://arxiv.org/abs/2510.11539)|null|
@@ -531,6 +559,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go,...Konrad Schindler|[2510.13454](http://arxiv.org/abs/2510.13454)|**[link](https://gohyojun15.github.io/VIST3A/)**|
+|**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani,...Muhammad Haris Khan|[2510.13381](http://arxiv.org/abs/2510.13381)|**[link](https://dynamic-ugsdf.github.io/)**|
+|**2025-10-15**|**STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control**|Zhen Li,...Chengzhong Xu|[2510.13186](http://arxiv.org/abs/2510.13186)|null|
 |**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo,...Cheng Zhang|[2510.12768](http://arxiv.org/abs/2510.12768)|**[link](https://tamu-visual-ai.github.io/usplat4d/)**|
 |**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao,...Mingqiang Wei|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
 |**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran,...Amirhossein Habibian|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
