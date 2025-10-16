@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.15
+## Updated on 2025.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -51,7 +51,7 @@ layout: default
 |**2025-10-13**|**Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving**|Dong Hu,...Chao Huang|[2510.10960](http://arxiv.org/abs/2510.10960)|null|
 |**2025-10-12**|**AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning in 4D Scenes**|Yu Li,...Yujiu Yang|[2510.10670](http://arxiv.org/abs/2510.10670)|null|
 |**2025-10-11**|**KG-MAS: Knowledge Graph-Enhanced Multi-Agent Infrastructure for coupling physical and digital robotic environments**|Walid Abdela,...Walid Abdela|[2510.10325](http://arxiv.org/abs/2510.10325)|null|
-|**2025-10-11**|**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**|Yanjiang Guo,...Chelsea Finn|[2510.10125](http://arxiv.org/abs/2510.10125)|null|
+|**2025-10-15**|**Ctrl-World: A Controllable Generative World Model for Robot Manipulation**|Yanjiang Guo,...Chelsea Finn|[2510.10125](http://arxiv.org/abs/2510.10125)|null|
 |**2025-10-10**|**iMoWM: Taming Interactive Multi-Modal World Model for Robotic Manipulation**|Chuanrui Zhang,...Ziwei Wang|[2510.09036](http://arxiv.org/abs/2510.09036)|null|
 |**2025-10-09**|**Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation**|Yifei Dong,...Alexander G Hauptmann|[2510.08713](http://arxiv.org/abs/2510.08713)|**[link](https://github.com/F1y1113/UniWM)**|
 |**2025-10-13**|**Agent Learning via Early Experience**|Kai Zhang,...Yifan Wu|[2510.08558](http://arxiv.org/abs/2510.08558)|null|
@@ -142,7 +142,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-14**|**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**|Kevin Li,...Ajinkya Kale|[2510.12789](http://arxiv.org/abs/2510.12789)|**[link](https://thekevinli.github.io/unifusion/)**|
-|**2025-10-14**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|Lin Lin,...Chao Feng|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
+|**2025-10-15**|**SAIL-Embedding Technical Report: Omni-modal Embedding Foundation Model**|Lin Lin,...Chao Feng|[2510.12709](http://arxiv.org/abs/2510.12709)|null|
 |**2025-10-14**|**ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning and Online Reinforcement Learning**|Hanyang Chen,...Tong Zhang|[2510.12693](http://arxiv.org/abs/2510.12693)|null|
 |**2025-10-14**|**VISaGE: Understanding Visual Generics and Exceptions**|Stella Frank,...Emily Allaway|[2510.12548](http://arxiv.org/abs/2510.12548)|null|
 |**2025-10-14**|**A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation**|Shaoyang Zhou,...Luping Zhou|[2510.12444](http://arxiv.org/abs/2510.12444)|null|
@@ -468,7 +468,7 @@ layout: default
 |**2025-10-09**|**Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation**|Zhenyu Zhao,...Yue Wang|[2510.08807](http://arxiv.org/abs/2510.08807)|null|
 |**2025-10-09**|**DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos**|Jhen Hsieh,...Tsung-Wei Ke|[2510.08475](http://arxiv.org/abs/2510.08475)|**[link](https://embodiedai-ntu.github.io/dexman/index.html)**|
 |**2025-10-09**|**Reliability of Single-Level Equality-Constrained Inverse Optimal Control**|Filip Bečanović,...Vincent Bonnet|[2510.08406](http://arxiv.org/abs/2510.08406)|null|
-|**2025-10-09**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Boyu Li,...Zongqing Lu|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
+|**2025-10-15**|**Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots**|Boyu Li,...Zongqing Lu|[2510.07882](http://arxiv.org/abs/2510.07882)|null|
 |**2025-10-10**|**DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction**|Jingkai Sun,...Qiang Zhang|[2510.07152](http://arxiv.org/abs/2510.07152)|null|
 |**2025-10-07**|**A Co-Design Framework for Energy-Aware Monoped Jumping with Detailed Actuator Modeling**|Aman Singh,...Shishir Kolathaya|[2510.05923](http://arxiv.org/abs/2510.05923)|null|
 |**2025-10-06**|**Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot**|Aditya Sripada,...Abhishek Warrier|[2510.05001](http://arxiv.org/abs/2510.05001)|null|
