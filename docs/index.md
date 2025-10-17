@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.16
+## Updated on 2025.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -61,7 +61,7 @@ layout: default
 |**2025-10-09**|**Dream to Recall: Imagination-Guided Experience Retrieval for Memory-Persistent Vision-and-Language Navigation**|Yunzhe Xu,...Zhe Liu|[2510.08553](http://arxiv.org/abs/2510.08553)|null|
 |**2025-10-09**|**VideoVerse: How Far is Your T2V Generator from a World Model?**|Zeqing Wang,...Lei Zhang|[2510.08398](http://arxiv.org/abs/2510.08398)|null|
 |**2025-10-11**|**Active Confusion Expression in Large Language Models: Leveraging World Models toward Better Social Reasoning**|Jialu Du,...Weiming Lu|[2510.07974](http://arxiv.org/abs/2510.07974)|null|
-|**2025-10-09**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang,...Zehuan Wu|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
+|**2025-10-16**|**CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal Reconstruction Model for Autonomous Driving**|Tianrui Zhang,...Zehuan Wu|[2510.07944](http://arxiv.org/abs/2510.07944)|null|
 |**2025-10-08**|**ExpertAgent: Enhancing Personalized Education through Dynamic Planning and Retrieval-Augmented Long-Chain Reasoning**|Binrong Zhu,...Nina Jiang|[2510.07456](http://arxiv.org/abs/2510.07456)|null|
 |**2025-10-08**|**FLEET: Formal Language-Grounded Scheduling for Heterogeneous Robot Teams**|Corban Rivera,...David Handelman|[2510.07417](http://arxiv.org/abs/2510.07417)|null|
 |**2025-10-08**|**WristWorld: Generating Wrist-Views via 4D World Models for Robotic Manipulation**|Zezhong Qian,...Shanghang Zhang|[2510.07313](http://arxiv.org/abs/2510.07313)|null|
