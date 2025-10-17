@@ -52,6 +52,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang,...Jiwen Lu|[2510.14977](http://arxiv.org/abs/2510.14977)|**[link](https://huang-yh.github.io/terra/)**|
+|**2025-10-16**|**SkyDreamer: Interpretable End-to-End Vision-Based Drone Racing with Model-Based Reinforcement Learning**|Aderik Verraest,...Christophe De Wagter|[2510.14783](http://arxiv.org/abs/2510.14783)|null|
 |**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji,...Hengshuang Zhao|[2510.13809](http://arxiv.org/abs/2510.13809)|**[link](https://sihuiji.github.io/PhysMaster-Page/)**|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang,...Yujiu Yang|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**Agency cannot be a purely quantum phenomenon**|Emily C. Adlam,...Mordecai Waegell|[2510.13247](http://arxiv.org/abs/2510.13247)|null|
@@ -156,6 +158,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**From Pixels to Words -- Towards Native Vision-Language Primitives at Scale**|Haiwen Diao,...Ziwei Liu|[2510.14979](http://arxiv.org/abs/2510.14979)|null|
+|**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari,...Xun Huang|[2510.14978](http://arxiv.org/abs/2510.14978)|**[link](https://nupurkmr9.github.io/npedit/)**|
+|**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Mingxuan Yan,...Jiachen Li|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
+|**2025-10-16**|**RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning**|Jinrui Liu,...Haoran Li|[2510.14828](http://arxiv.org/abs/2510.14828)|null|
+|**2025-10-16**|**CoT-PL: Visual Chain-of-Thought Reasoning Meets Pseudo-Labeling for Open-Vocabulary Object Detection**|Hojun Choi,...Hyunjung Shim|[2510.14792](http://arxiv.org/abs/2510.14792)|null|
+|**2025-10-16**|**Free-Grained Hierarchical Recognition**|Seulki Park,...Stella X. Yu|[2510.14737](http://arxiv.org/abs/2510.14737)|null|
+|**2025-10-16**|**Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference**|Natan Bagrov,...Andrew Tao|[2510.14624](http://arxiv.org/abs/2510.14624)|null|
+|**2025-10-16**|**Talking Points: Describing and Localizing Pixels**|Matan Rusanovsky,...Shai Avidan|[2510.14583](http://arxiv.org/abs/2510.14583)|null|
+|**2025-10-16**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang,...Long Chen|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
+|**2025-10-16**|**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model**|Cheng Cui,...Yanjun Ma|[2510.14528](http://arxiv.org/abs/2510.14528)|null|
+|**2025-10-16**|**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models**|Yunze Tong,...Ziyu Zhao|[2510.14526](http://arxiv.org/abs/2510.14526)|null|
+|**2025-10-16**|**Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control**|Zhe Wu,...Yuanchun Shi|[2510.14388](http://arxiv.org/abs/2510.14388)|null|
+|**2025-10-16**|**Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding**|Kyungryul Back,...Jinkyu Kim|[2510.14304](http://arxiv.org/abs/2510.14304)|**[link](https://github.com/KR-0822/TCD)**|
+|**2025-10-15**|**Efficient Few-Shot Learning in Remote Sensing: Fusing Vision and Vision-Language Models**|Jia Yun Chua,...Miguel Arana-Catania|[2510.13993](http://arxiv.org/abs/2510.13993)|null|
 |**2025-10-15**|**VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models**|Dominick Reilly,...Srijan Das|[2510.13808](http://arxiv.org/abs/2510.13808)|null|
 |**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang,...Yujiu Yang|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models**|Xinmiao Huang,...Xiaowei Huang|[2510.13394](http://arxiv.org/abs/2510.13394)|null|
@@ -401,6 +417,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Mingxuan Yan,...Jiachen Li|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
+|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-16**|**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**|Han Zhao,...Donglin Wang|[2510.14902](http://arxiv.org/abs/2510.14902)|null|
+|**2025-10-16**|**QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models**|Yixuan Li,...Haoran Li|[2510.14836](http://arxiv.org/abs/2510.14836)|null|
+|**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen,...Yao Mu|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
 |**2025-10-15**|**InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy**|Xinyi Chen,...Yangkun Zhu|[2510.13778](http://arxiv.org/abs/2510.13778)|null|
 |**2025-10-15**|**LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models**|Senyu Fei,...Xipeng Qiu|[2510.13626](http://arxiv.org/abs/2510.13626)|null|
 |**2025-10-15**|**DepthVLA: Enhancing Vision-Language-Action Models with Depth-Aware Spatial Reasoning**|Tianyuan Yuan,...Hang Zhao|[2510.13375](http://arxiv.org/abs/2510.13375)|null|
@@ -498,6 +519,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Lizhi Yang,...Massimiliano de Sa Aaron D. Ames|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
+|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-16**|**Towards Adaptable Humanoid Control via Adaptive Motion Tracking**|Tao Huang,...Jiangmiao Pang|[2510.14454](http://arxiv.org/abs/2510.14454)|null|
 |**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Nicolas Pottier,...Meng Cheng Lau|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
 |**2025-10-15**|**Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots**|Austin Barret,...Meng Cheng Lau|[2510.13594](http://arxiv.org/abs/2510.13594)|null|
 |**2025-10-14**|**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**|Bingquan Li,...Yucong Wu|[2510.12346](http://arxiv.org/abs/2510.12346)|null|
@@ -559,6 +583,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin,...Sunghyun Cho|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
+|**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu,...Guohao Dai|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
+|**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde,...Hongyun Wang|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
+|**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu,...Ning Yu|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
+|**2025-10-15**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin,...Shunsuke Saito|[2510.14081](http://arxiv.org/abs/2510.14081)|null|
+|**2025-10-15**|**Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications**|Naruya Kondo,...Yoichi Ochiai|[2510.13978](http://arxiv.org/abs/2510.13978)|null|
 |**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go,...Konrad Schindler|[2510.13454](http://arxiv.org/abs/2510.13454)|**[link](https://gohyojun15.github.io/VIST3A/)**|
 |**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani,...Muhammad Haris Khan|[2510.13381](http://arxiv.org/abs/2510.13381)|**[link](https://dynamic-ugsdf.github.io/)**|
 |**2025-10-15**|**STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control**|Zhen Li,...Chengzhong Xu|[2510.13186](http://arxiv.org/abs/2510.13186)|null|
