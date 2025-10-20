@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -155,7 +155,7 @@ layout: default
 |**2025-10-16**|**Efficient Video Sampling: Pruning Temporally Redundant Tokens for Faster VLM Inference**|Natan Bagrov,...Andrew Tao|[2510.14624](http://arxiv.org/abs/2510.14624)|null|
 |**2025-10-16**|**Talking Points: Describing and Localizing Pixels**|Matan Rusanovsky,...Shai Avidan|[2510.14583](http://arxiv.org/abs/2510.14583)|null|
 |**2025-10-16**|**Exploring Cross-Modal Flows for Few-Shot Learning**|Ziqi Jiang,...Long Chen|[2510.14543](http://arxiv.org/abs/2510.14543)|null|
-|**2025-10-16**|**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model**|Cheng Cui,...Yanjun Ma|[2510.14528](http://arxiv.org/abs/2510.14528)|null|
+|**2025-10-17**|**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B Ultra-Compact Vision-Language Model**|Cheng Cui,...Yanjun Ma|[2510.14528](http://arxiv.org/abs/2510.14528)|**[link](https://github.com/PaddlePaddle/PaddleOCR)**|
 |**2025-10-16**|**Noise Projection: Closing the Prompt-Agnostic Gap Behind Text-to-Image Misalignment in Diffusion Models**|Yunze Tong,...Ziyu Zhao|[2510.14526](http://arxiv.org/abs/2510.14526)|null|
 |**2025-10-16**|**Hi-Agent: Hierarchical Vision-Language Agents for Mobile Device Control**|Zhe Wu,...Yuanchun Shi|[2510.14388](http://arxiv.org/abs/2510.14388)|null|
 |**2025-10-16**|**Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding**|Kyungryul Back,...Jinkyu Kim|[2510.14304](http://arxiv.org/abs/2510.14304)|**[link](https://github.com/KR-0822/TCD)**|
@@ -415,7 +415,7 @@ layout: default
 |**2025-10-15**|**VLA-0: Building State-of-the-Art VLAs with Zero Modification**|Ankit Goyal,...Fabio Ramos|[2510.13054](http://arxiv.org/abs/2510.13054)|null|
 |**2025-10-14**|**DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving**|Yingyan Li,...Zhaoxiang Zhang|[2510.12796](http://arxiv.org/abs/2510.12796)|null|
 |**2025-10-14**|**Reflection-Based Task Adaptation for Self-Improving VLA**|Baicheng Li,...Hongbin Zha|[2510.12710](http://arxiv.org/abs/2510.12710)|null|
-|**2025-10-14**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li,...Haoang Li|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
+|**2025-10-17**|**Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model**|Fuhao Li,...Haoang Li|[2510.12276](http://arxiv.org/abs/2510.12276)|null|
 |**2025-10-14**|**ManiAgent: An Agentic Framework for General Robotic Manipulation**|Yi Yang,...Xudong Liu|[2510.11660](http://arxiv.org/abs/2510.11660)|null|
 |**2025-10-13**|**Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning**|Ganlin Yang,...Zhi Hou|[2510.11027](http://arxiv.org/abs/2510.11027)|null|
 |**2025-10-14**|**RoVer: Robot Reward Model as Test-Time Verifier for Vision-Language-Action Model**|Mingtong Dai,...Xinyu Wu|[2510.10975](http://arxiv.org/abs/2510.10975)|null|
@@ -504,7 +504,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-16**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Lizhi Yang,...Massimiliano de Sa Aaron D. Ames|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
-|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
 |**2025-10-16**|**Towards Adaptable Humanoid Control via Adaptive Motion Tracking**|Tao Huang,...Jiangmiao Pang|[2510.14454](http://arxiv.org/abs/2510.14454)|null|
 |**2025-10-15**|**A Modular Object Detection System for Humanoid Robots Using YOLO**|Nicolas Pottier,...Meng Cheng Lau|[2510.13625](http://arxiv.org/abs/2510.13625)|null|
 |**2025-10-15**|**Development of an Intuitive GUI for Non-Expert Teleoperation of Humanoid Robots**|Austin Barret,...Meng Cheng Lau|[2510.13594](http://arxiv.org/abs/2510.13594)|null|
@@ -569,13 +569,13 @@ layout: default
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu,...Guohao Dai|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde,...Hongyun Wang|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
 |**2025-10-16**|**Virtually Being: Customizing Camera-Controllable Video Diffusion Models with Multi-View Performance Captures**|Yuancheng Xu,...Ning Yu|[2510.14179](http://arxiv.org/abs/2510.14179)|null|
-|**2025-10-15**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin,...Shunsuke Saito|[2510.14081](http://arxiv.org/abs/2510.14081)|null|
+|**2025-10-17**|**Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images**|Emanuel Garbin,...Shunsuke Saito|[2510.14081](http://arxiv.org/abs/2510.14081)|null|
 |**2025-10-15**|**Instant Skinned Gaussian Avatars for Web, Mobile and VR Applications**|Naruya Kondo,...Yoichi Ochiai|[2510.13978](http://arxiv.org/abs/2510.13978)|null|
 |**2025-10-15**|**VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a Video Generator**|Hyojun Go,...Konrad Schindler|[2510.13454](http://arxiv.org/abs/2510.13454)|**[link](https://gohyojun15.github.io/VIST3A/)**|
 |**2025-10-15**|**Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering**|Siddharth Tourani,...Muhammad Haris Khan|[2510.13381](http://arxiv.org/abs/2510.13381)|**[link](https://dynamic-ugsdf.github.io/)**|
 |**2025-10-15**|**STT-GS: Sample-Then-Transmit Edge Gaussian Splatting with Joint Client Selection and Power Control**|Zhen Li,...Chengzhong Xu|[2510.13186](http://arxiv.org/abs/2510.13186)|null|
 |**2025-10-14**|**Uncertainty Matters in Dynamic Gaussian Splatting for Monocular 4D Reconstruction**|Fengzhi Guo,...Cheng Zhang|[2510.12768](http://arxiv.org/abs/2510.12768)|**[link](https://tamu-visual-ai.github.io/usplat4d/)**|
-|**2025-10-14**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao,...Mingqiang Wei|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
+|**2025-10-17**|**BSGS: Bi-stage 3D Gaussian Splatting for Camera Motion Deblurring**|An Zhao,...Mingqiang Wei|[2510.12493](http://arxiv.org/abs/2510.12493)|null|
 |**2025-10-14**|**Hybrid Gaussian Splatting for Novel Urban View Synthesis**|Mohamed Omran,...Amirhossein Habibian|[2510.12308](http://arxiv.org/abs/2510.12308)|null|
 |**2025-10-14**|**PAGS: Priority-Adaptive Gaussian Splatting for Dynamic Driving Scenes**|Ying A,...Jianxun Cui|[2510.12282](http://arxiv.org/abs/2510.12282)|null|
 |**2025-10-14**|**UniGS: Unified Geometry-Aware Gaussian Splatting for Multimodal Rendering**|Yusen Xie,...Jun Ma|[2510.12174](http://arxiv.org/abs/2510.12174)|null|
