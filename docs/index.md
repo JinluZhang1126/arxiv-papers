@@ -42,6 +42,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**Information Theory in Open-world Machine Learning Foundations, Frameworks, and Future Direction**|Lin Wang,...Lin Wang|[2510.15422](http://arxiv.org/abs/2510.15422)|null|
+|**2025-10-16**|**HugAgent: Evaluating LLMs in Simulating Human-Like Individual Reasoning on Open-Ended Tasks**|Chance Jiajie Li,...Kent Larson|[2510.15144](http://arxiv.org/abs/2510.15144)|null|
+|**2025-10-16**|**Internalizing World Models via Self-Play Finetuning for Agentic RL**|Shiqi Chen,...Manling Li|[2510.15047](http://arxiv.org/abs/2510.15047)|null|
+|**2025-10-16**|**Generalized Dynamics Generation towards Scannable Physical World Model**|Yichen Li,...Antonio Torralba|[2510.15041](http://arxiv.org/abs/2510.15041)|null|
 |**2025-10-16**|**Terra: Explorable Native 3D World Model with Point Latents**|Yuanhui Huang,...Jiwen Lu|[2510.14977](http://arxiv.org/abs/2510.14977)|**[link](https://huang-yh.github.io/terra/)**|
 |**2025-10-16**|**SkyDreamer: Interpretable End-to-End Vision-Based Drone Racing with Model-Based Reinforcement Learning**|Aderik Verraest,...Christophe De Wagter|[2510.14783](http://arxiv.org/abs/2510.14783)|null|
 |**2025-10-15**|**PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning**|Sihui Ji,...Hengshuang Zhao|[2510.13809](http://arxiv.org/abs/2510.13809)|**[link](https://sihuiji.github.io/PhysMaster-Page/)**|
@@ -146,6 +150,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**BiomedXPro: Prompt Optimization for Explainable Diagnosis with Biomedical Vision Language Models**|Kaushitha Silva,...Damayanthi Herath|[2510.15866](http://arxiv.org/abs/2510.15866)|null|
+|**2025-10-17**|**Neuro-Symbolic Spatial Reasoning in Segmentation**|Jiayi Lin,...Shaogang Gong|[2510.15841](http://arxiv.org/abs/2510.15841)|null|
+|**2025-10-17**|**Learning to Detect Unknown Jailbreak Attacks in Large Vision-Language Models**|Shuang Liang,...Xiting Wang|[2510.15430](http://arxiv.org/abs/2510.15430)|null|
+|**2025-10-17**|**Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs**|Lee Qi Zun,...Goh Man Fye|[2510.15418](http://arxiv.org/abs/2510.15418)|null|
+|**2025-10-17**|**Infinity Parser: Layout Aware Reinforcement Learning for Scanned Document Parsing**|Baode Wang,...Yuan Qi|[2510.15349](http://arxiv.org/abs/2510.15349)|null|
 |**2025-10-16**|**From Pixels to Words -- Towards Native Vision-Language Primitives at Scale**|Haiwen Diao,...Ziwei Liu|[2510.14979](http://arxiv.org/abs/2510.14979)|null|
 |**2025-10-16**|**Learning an Image Editing Model without Image Editing Pairs**|Nupur Kumari,...Xun Huang|[2510.14978](http://arxiv.org/abs/2510.14978)|**[link](https://nupurkmr9.github.io/npedit/)**|
 |**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Mingxuan Yan,...Jiachen Li|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
@@ -403,8 +412,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving**|Ziang Guo,...Zufeng Zhang|[2510.15446](http://arxiv.org/abs/2510.15446)|null|
 |**2025-10-16**|**RDD: Retrieval-Based Demonstration Decomposer for Planner Alignment in Long-Horizon Tasks**|Mingxuan Yan,...Jiachen Li|[2510.14968](http://arxiv.org/abs/2510.14968)|null|
-|**2025-10-16**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
+|**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
 |**2025-10-16**|**VLA^2: Empowering Vision-Language-Action Models with an Agentic Framework for Unseen Concept Manipulation**|Han Zhao,...Donglin Wang|[2510.14902](http://arxiv.org/abs/2510.14902)|null|
 |**2025-10-16**|**QDepth-VLA: Quantized Depth Prediction as Auxiliary Supervision for Vision-Language-Action Models**|Yixuan Li,...Haoran Li|[2510.14836](http://arxiv.org/abs/2510.14836)|null|
 |**2025-10-16**|**Expertise need not monopolize: Action-Specialized Mixture of Experts for Vision-Language-Action Learning**|Weijie Shen,...Yao Mu|[2510.14300](http://arxiv.org/abs/2510.14300)|null|
@@ -565,6 +575,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-17**|**PFGS: Pose-Fused 3D Gaussian Splatting for Complete Multi-Pose Object Reconstruction**|Ting-Yu Yen,...Hung-Kuo Chu|[2510.15386](http://arxiv.org/abs/2510.15386)|null|
+|**2025-10-17**|**GaussGym: An open-source real-to-sim framework for learning locomotion from pixels**|Alejandro Escontrela,...Pieter Abbeel|[2510.15352](http://arxiv.org/abs/2510.15352)|null|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo,...Yun-Hui Liu|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
 |**2025-10-16**|**Leveraging Learned Image Prior for 3D Gaussian Compression**|Seungjoo Shin,...Sunghyun Cho|[2510.14705](http://arxiv.org/abs/2510.14705)|null|
 |**2025-10-16**|**BalanceGS: Algorithm-System Co-design for Efficient 3D Gaussian Splatting Training on GPU**|Junyi Wu,...Guohao Dai|[2510.14564](http://arxiv.org/abs/2510.14564)|null|
 |**2025-10-16**|**GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering**|Alexander Valverde,...Hongyun Wang|[2510.14270](http://arxiv.org/abs/2510.14270)|null|
