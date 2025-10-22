@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Learning Human-Object Interaction as Groups**|Jiajun Hong,...Wenguan Wang|[2510.18357](http://arxiv.org/abs/2510.18357)|null|
 |**2025-10-17**|**Proactive Scene Decomposition and Reconstruction**|Baicheng Li,...Hongbin Zha|[2510.16272](http://arxiv.org/abs/2510.16272)|null|
 |**2025-10-13**|**PhySIC: Physically Plausible 3D Human-Scene Interaction and Contact from a Single Image**|Pradyumna Yalandur Muralidhar,...Gerard Pons-Moll|[2510.11649](http://arxiv.org/abs/2510.11649)|**[link](https://yuxuan-xue.com/physic)**|
 |**2025-10-11**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi,...Meng-Yu Jennifer Kuo|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
@@ -53,6 +54,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task**|Brady Bhalla,...Tony Yue YU|[2510.18315](http://arxiv.org/abs/2510.18315)|null|
+|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
+|**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang,...Jieneng Chen|[2510.18135](http://arxiv.org/abs/2510.18135)|**[link](https://github.com/World-In-World/world-in-world)**|
 |**2025-10-20**|**Can Image-To-Video Models Simulate Pedestrian Dynamics?**|Aaron Appelle,...Jerome P. Lynch|[2510.17731](http://arxiv.org/abs/2510.17731)|**[link](https://physical-world-modeling.github.io/)**|
 |**2025-10-20**|**SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries**|Chenxu Dang,...Yan Wang|[2510.17482](http://arxiv.org/abs/2510.17482)|null|
 |**2025-10-19**|**VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents**|Kangrui Wang,...Manling Li|[2510.16907](http://arxiv.org/abs/2510.16907)|null|
@@ -172,7 +176,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-20**|**Glyph: Scaling Context Windows via Visual-Text Compression**|Jiale Cheng,...Minlie Huang|[2510.17800](http://arxiv.org/abs/2510.17800)|null|
+|**2025-10-21**|**DSI-Bench: A Benchmark for Dynamic Spatial Intelligence**|Ziang Zhang,...Zhou Zhao|[2510.18873](http://arxiv.org/abs/2510.18873)|null|
+|**2025-10-21**|**FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning**|Yubin Zheng,...Jagath C. Rajapakse|[2510.18837](http://arxiv.org/abs/2510.18837)|null|
+|**2025-10-21**|**Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation**|Patterson Hsieh,...Elvis Hsieh|[2510.18751](http://arxiv.org/abs/2510.18751)|null|
+|**2025-10-21**|**Exploring a Unified Vision-Centric Contrastive Alternatives on Multi-Modal Web Documents**|Yiqi Lin,...Mike Zheng Shou|[2510.18703](http://arxiv.org/abs/2510.18703)|**[link](https://linyq17.github.io/VC2L/)**|
+|**2025-10-21**|**Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views**|Zhangquan Chen,...Ruqi Huang|[2510.18632](http://arxiv.org/abs/2510.18632)|null|
+|**2025-10-21**|**CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent**|Haojia Lin,...Xing Sun|[2510.18596](http://arxiv.org/abs/2510.18596)|null|
+|**2025-10-21**|**CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder**|Yongmin Lee,...Hye Won Chung|[2510.18583](http://arxiv.org/abs/2510.18583)|null|
+|**2025-10-21**|**Zero-Shot Vehicle Model Recognition via Text-Based Retrieval-Augmented Generation**|Wei-Chia Chang,...Yan-Ann Chen|[2510.18502](http://arxiv.org/abs/2510.18502)|null|
+|**2025-10-21**|**StarBench: A Turn-Based RPG Benchmark for Agentic Multimodal Decision-Making and Information Seeking**|Haoran Zhang,...Donglin Yu|[2510.18483](http://arxiv.org/abs/2510.18483)|null|
+|**2025-10-21**|**Grounding or Guessing? Visual Signals for Detecting Hallucinations in Sign Language Translation**|Yasser Hamidullah,...Cristina España-Bonet|[2510.18439](http://arxiv.org/abs/2510.18439)|null|
+|**2025-10-21**|**ImageGem: In-the-wild Generative Image Interaction Dataset for Generative Model Personalization**|Yuanhe Guo,...Hongyi Wen|[2510.18433](http://arxiv.org/abs/2510.18433)|null|
+|**2025-10-21**|**Beyond Single Models: Mitigating Multimodal Hallucinations via Adaptive Token Ensemble Decoding**|Jinlin Li,...Xian Wu|[2510.18321](http://arxiv.org/abs/2510.18321)|null|
+|**2025-10-21**|**StreamingTOM: Streaming Token Compression for Efficient Video Understanding**|Xueyi Chen,...Huan Wang|[2510.18269](http://arxiv.org/abs/2510.18269)|null|
+|**2025-10-21**|**UWBench: A Comprehensive Vision-Language Benchmark for Underwater Understanding**|Da Zhang,...Xuelong Li|[2510.18262](http://arxiv.org/abs/2510.18262)|null|
+|**2025-10-21**|**RadDiagSeg-M: A Vision Language Model for Joint Diagnosis and Multi-Target Segmentation in Radiology**|Chengrun Li,...Bjoern Menze|[2510.18188](http://arxiv.org/abs/2510.18188)|null|
+|**2025-10-20**|**Online In-Context Distillation for Low-Resource Vision Language Models**|Zhiqi Kang,...Karteek Alahari|[2510.18117](http://arxiv.org/abs/2510.18117)|null|
+|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Ata Çelen,...Iro Armeni|[2510.18054](http://arxiv.org/abs/2510.18054)|null|
+|**2025-10-20**|**SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection**|Roberto Brusnicki,...Johannes Betz|[2510.18034](http://arxiv.org/abs/2510.18034)|null|
+|**2025-10-21**|**Glyph: Scaling Context Windows via Visual-Text Compression**|Jiale Cheng,...Minlie Huang|[2510.17800](http://arxiv.org/abs/2510.17800)|null|
 |**2025-10-20**|**SparseVILA: Decoupling Visual Sparsity for Efficient VLM Inference**|Samir Khaki,...Zhijian Liu|[2510.17777](http://arxiv.org/abs/2510.17777)|null|
 |**2025-10-20**|**Seeing but Not Believing: Probing the Disconnect Between Visual Attention and Answer Correctness in VLMs**|Zhining Liu,...Hanghang Tong|[2510.17771](http://arxiv.org/abs/2510.17771)|null|
 |**2025-10-20**|**VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models**|Qilin Liao,...Ruqi Zhang|[2510.17759](http://arxiv.org/abs/2510.17759)|null|
@@ -456,6 +478,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
@@ -568,6 +591,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou,...Yueyue Dai|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
+|**2025-10-20**|**Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints**|Junli Ren,...Jiangmiao Pang|[2510.18002](http://arxiv.org/abs/2510.18002)|null|
 |**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis,...Pulkit Agrawal|[2510.17792](http://arxiv.org/abs/2510.17792)|**[link](https://gmargo11.github.io/softmimic/)**|
 |**2025-10-19**|**CBF-RL: Safety Filtering Reinforcement Learning in Training with Control Barrier Functions**|Lizhi Yang,...Aaron D. Ames|[2510.14959](http://arxiv.org/abs/2510.14959)|null|
 |**2025-10-17**|**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**|Zhe Li,...Chang Xu|[2510.14952](http://arxiv.org/abs/2510.14952)|null|
@@ -633,6 +658,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-21**|**Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting**|Hao Wang,...Zhiwei Wang|[2510.18739](http://arxiv.org/abs/2510.18739)|null|
+|**2025-10-21**|**Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos**|Jinfeng Liu,...Dan Xu|[2510.18489](http://arxiv.org/abs/2510.18489)|**[link](https://liujf1226.github.io/Mono4DGS-HDR/)**|
+|**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang,...Tongliang Liu|[2510.18253](http://arxiv.org/abs/2510.18253)|null|
+|**2025-10-20**|**From Volume Rendering to 3D Gaussian Splatting: Theory and Applications**|Vitor Pereira Matias,...Tiago Novello|[2510.18101](http://arxiv.org/abs/2510.18101)|null|
+|**2025-10-20**|**HouseTour: A Virtual Real Estate A(I)gent**|Ata Çelen,...Iro Armeni|[2510.18054](http://arxiv.org/abs/2510.18054)|null|
 |**2025-10-20**|**Botany-Bot: Digital Twin Monitoring of Occluded and Underleaf Plant Structures with Gaussian Splats**|Simeon Adebola,...Ken Goldberg|[2510.17783](http://arxiv.org/abs/2510.17783)|null|
 |**2025-10-20**|**Raindrop GS: A Benchmark for 3D Gaussian Splatting under Raindrop Conditions**|Zhiqiang Teng,...Shunli Zhang|[2510.17719](http://arxiv.org/abs/2510.17719)|null|
 |**2025-10-20**|**Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS**|Feng Zhou,...Jianqin Yin|[2510.17479](http://arxiv.org/abs/2510.17479)|null|
