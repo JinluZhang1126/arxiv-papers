@@ -44,6 +44,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
+|**2025-10-22**|**Benchmarking World-Model Learning**|Archana Warrier,...Zenna Tavares|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
+|**2025-10-22**|**From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction**|Zhida Zhao,...Huchuan Lu|[2510.19654](http://arxiv.org/abs/2510.19654)|null|
+|**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
+|**2025-10-22**|**ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling**|Golnaz Raja,...Reza Ghabcheloo|[2510.19364](http://arxiv.org/abs/2510.19364)|null|
+|**2025-10-22**|**Social World Model-Augmented Mechanism Design Policy Learning**|Xiaoyuan Zhang,...Xue Feng|[2510.19270](http://arxiv.org/abs/2510.19270)|null|
+|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng,...Wentao Zhang|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-21**|**Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task**|Brady Bhalla,...Tony Yue YU|[2510.18315](http://arxiv.org/abs/2510.18315)|null|
 |**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
 |**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang,...Jieneng Chen|[2510.18135](http://arxiv.org/abs/2510.18135)|**[link](https://github.com/World-In-World/world-in-world)**|
@@ -164,6 +171,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
+|**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Jake Poznanski,...Kyle Lo|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
+|**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xiaozhen Qiao,...Xuelong Li|[2510.19802](http://arxiv.org/abs/2510.19802)|null|
+|**2025-10-22**|**MedReason-R1: Learning to Reason for CT Diagnosis with Reinforcement Learning and Local Zoom**|Yifan Li,...Shaohua Kevin Zhou|[2510.19626](http://arxiv.org/abs/2510.19626)|**[link](https://github.com/Leevan001/MedReason-R1)**|
+|**2025-10-22**|**XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography**|Haozhe Luo,...Mauricio Reyes|[2510.19599](http://arxiv.org/abs/2510.19599)|null|
+|**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi,...Qiben Yan|[2510.19574](http://arxiv.org/abs/2510.19574)|null|
+|**2025-10-22**|**A Matter of Time: Revealing the Structure of Time in Vision-Language Models**|Nidham Tekaya,...Matthias Zeppelzauer|[2510.19559](http://arxiv.org/abs/2510.19559)|null|
+|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Simone Alghisi,...Giuseppe Riccardi|[2510.19555](http://arxiv.org/abs/2510.19555)|null|
+|**2025-10-22**|**CARES: Context-Aware Resolution Selector for VLMs**|Moshe Kimhi,...Eli Schwartz|[2510.19496](http://arxiv.org/abs/2510.19496)|null|
+|**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
+|**2025-10-22**|**A Training-Free Framework for Open-Vocabulary Image Segmentation and Recognition with EfficientNet and CLIP**|Ying Dai,...Wei Yu Chen|[2510.19333](http://arxiv.org/abs/2510.19333)|null|
+|**2025-10-22**|**Unified Reinforcement and Imitation Learning for Vision-Language Models**|Byung-Kwan Lee,...Yueh-Hua Wu|[2510.19307](http://arxiv.org/abs/2510.19307)|**[link](https://byungkwanlee.github.io/RIL-page)**|
+|**2025-10-22**|**Hierarchical DLO Routing with Reinforcement Learning and In-Context Vision-language Models**|Mingen Li,...Changhyun Choi|[2510.19268](http://arxiv.org/abs/2510.19268)|null|
+|**2025-10-22**|**Preliminary Use of Vision Language Model Driven Extraction of Mouse Behavior Towards Understanding Fear Expression**|Paimon Goulart,...Evangelos E. Papalexakis|[2510.19160](http://arxiv.org/abs/2510.19160)|null|
+|**2025-10-21**|**PoSh: Using Scene Graphs To Guide LLMs-as-a-Judge For Detailed Image Descriptions**|Amith Ananthram,...Kathleen McKeown|[2510.19060](http://arxiv.org/abs/2510.19060)|**[link](https://github.com/amith-ananthram/posh)**|
+|**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu,...Hyunjung Shim|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 |**2025-10-21**|**DSI-Bench: A Benchmark for Dynamic Spatial Intelligence**|Ziang Zhang,...Zhou Zhao|[2510.18873](http://arxiv.org/abs/2510.18873)|null|
 |**2025-10-21**|**FedDEAP: Adaptive Dual-Prompt Tuning for Multi-Domain Federated Learning**|Yubin Zheng,...Jagath C. Rajapakse|[2510.18837](http://arxiv.org/abs/2510.18837)|null|
 |**2025-10-21**|**Seg the HAB: Language-Guided Geospatial Algae Bloom Reasoning and Segmentation**|Patterson Hsieh,...Elvis Hsieh|[2510.18751](http://arxiv.org/abs/2510.18751)|null|
@@ -464,12 +487,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Ameesh Shah,...Sergey Levine|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
+|**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
+|**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
 |**2025-10-21**|**DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment**|Yu Gao,...Wang Jijun|[2510.17148](http://arxiv.org/abs/2510.17148)|null|
-|**2025-10-20**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Weifan Guan,...Jian Cheng|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
+|**2025-10-22**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Weifan Guan,...Jian Cheng|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
 |**2025-10-18**|**MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation**|Ruihan Zhao,...Ufuk Topcu|[2510.16617](http://arxiv.org/abs/2510.16617)|null|
 |**2025-10-18**|**Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification**|Yilin Wu,...Claudia P'erez-D'Arpino|[2510.16281](http://arxiv.org/abs/2510.16281)|null|
 |**2025-10-21**|**NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?**|Jierui Peng,...Yu Yin|[2510.16263](http://arxiv.org/abs/2510.16263)|**[link](https://vulab-ai.github.io/NEBULA-Alpha/)**|
@@ -640,6 +666,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-21**|**Re-Activating Frozen Primitives for 3D Gaussian Splatting**|Yuxin Cheng,...Ngai Wong|[2510.19653](http://arxiv.org/abs/2510.19653)|null|
+|**2025-10-22**|**VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction**|Junhong Lin,...Wei Gao|[2510.19578](http://arxiv.org/abs/2510.19578)|null|
+|**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao,...Hao Zhang|[2510.19255](http://arxiv.org/abs/2510.19255)|**[link](https://mingrui-zhao.github.io/4DRep-GMI/)**|
+|**2025-10-22**|**MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting**|In-Hwan Jin,...Kyeongbo Kong|[2510.19210](http://arxiv.org/abs/2510.19210)|null|
+|**2025-10-22**|**GRASPLAT: Enabling dexterous grasping through novel view synthesis**|Matteo Bortolon,...Alessio Del Bue|[2510.19200](http://arxiv.org/abs/2510.19200)|null|
 |**2025-10-21**|**Moving Light Adaptive Colonoscopy Reconstruction via Illumination-Attenuation-Aware 3D Gaussian Splatting**|Hao Wang,...Zhiwei Wang|[2510.18739](http://arxiv.org/abs/2510.18739)|null|
 |**2025-10-21**|**Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos**|Jinfeng Liu,...Dan Xu|[2510.18489](http://arxiv.org/abs/2510.18489)|**[link](https://liujf1226.github.io/Mono4DGS-HDR/)**|
 |**2025-10-21**|**OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion**|Tianyu Huang,...Tongliang Liu|[2510.18253](http://arxiv.org/abs/2510.18253)|null|
