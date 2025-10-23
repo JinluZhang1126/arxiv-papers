@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.22
+## Updated on 2025.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -45,10 +45,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-21**|**Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task**|Brady Bhalla,...Tony Yue YU|[2510.18315](http://arxiv.org/abs/2510.18315)|null|
-|**2025-10-21**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
+|**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
 |**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang,...Jieneng Chen|[2510.18135](http://arxiv.org/abs/2510.18135)|**[link](https://github.com/World-In-World/world-in-world)**|
 |**2025-10-20**|**Can Image-To-Video Models Simulate Pedestrian Dynamics?**|Aaron Appelle,...Jerome P. Lynch|[2510.17731](http://arxiv.org/abs/2510.17731)|**[link](https://physical-world-modeling.github.io/)**|
-|**2025-10-20**|**SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries**|Chenxu Dang,...Yan Wang|[2510.17482](http://arxiv.org/abs/2510.17482)|null|
+|**2025-10-22**|**SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries**|Chenxu Dang,...Yan Wang|[2510.17482](http://arxiv.org/abs/2510.17482)|null|
 |**2025-10-19**|**VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents**|Kangrui Wang,...Manling Li|[2510.16907](http://arxiv.org/abs/2510.16907)|null|
 |**2025-10-19**|**A Comprehensive Survey on World Models for Embodied AI**|Xinqing Li,...Yun Liu|[2510.16732](http://arxiv.org/abs/2510.16732)|**[link](https://github.com/Li-Zn-H/AwesomeWorldModels)**|
 |**2025-10-19**|**Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models**|Jianbiao Mei,...Yong Liu|[2510.16729](http://arxiv.org/abs/2510.16729)|null|
@@ -464,7 +464,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-21**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
