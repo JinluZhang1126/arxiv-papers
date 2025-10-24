@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.23
+## Updated on 2025.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -45,7 +45,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
-|**2025-10-22**|**Benchmarking World-Model Learning**|Archana Warrier,...Zenna Tavares|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
+|**2025-10-23**|**Benchmarking World-Model Learning**|Archana Warrier,...Zenna Tavares|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
 |**2025-10-22**|**From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction**|Zhida Zhao,...Huchuan Lu|[2510.19654](http://arxiv.org/abs/2510.19654)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling**|Golnaz Raja,...Reza Ghabcheloo|[2510.19364](http://arxiv.org/abs/2510.19364)|null|
@@ -490,7 +490,7 @@ layout: default
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Ameesh Shah,...Sergey Levine|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
-|**2025-10-22**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
+|**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
 |**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
