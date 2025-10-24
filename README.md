@@ -54,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**From Masks to Worlds: A Hitchhiker's Guide to World Models**|Jinbin Bai,...Ming-Hsuan Yang|[2510.20668](http://arxiv.org/abs/2510.20668)|**[link](https://github.com/M-E-AGI-Lab/Awesome-World-Models)**|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-23**|**Benchmarking World-Model Learning**|Archana Warrier,...Zenna Tavares|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
 |**2025-10-22**|**From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction**|Zhida Zhao,...Huchuan Lu|[2510.19654](http://arxiv.org/abs/2510.19654)|null|
@@ -183,6 +184,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu,...Shengjie Wang|[2510.20812](http://arxiv.org/abs/2510.20812)|null|
+|**2025-10-23**|**Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models**|Xuyang Liu,...Linfeng Zhang|[2510.20707](http://arxiv.org/abs/2510.20707)|**[link](https://github.com/xuyang-liu16/MixKV)**|
+|**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi,...Chenliang Xu|[2510.20696](http://arxiv.org/abs/2510.20696)|null|
+|**2025-10-23**|**Better Tokens for Better 3D: Advancing Vision-Language Modeling in 3D Medical Imaging**|Ibrahim Ethem Hamamci,...Bjoern Menze|[2510.20639](http://arxiv.org/abs/2510.20639)|null|
+|**2025-10-23**|**Bi-CoG: Bi-Consistency-Guided Self-Training for Vision-Language Models**|Rui Zhu,...Lan-Zhe Guo|[2510.20477](http://arxiv.org/abs/2510.20477)|null|
+|**2025-10-23**|**GhostEI-Bench: Do Mobile Agents Resilience to Environmental Injection in Dynamic On-Device Environments?**|Chiyu Chen,...Yingchun Wang|[2510.20333](http://arxiv.org/abs/2510.20333)|null|
+|**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Sauptik Dhar,...Michelle Munson|[2510.20287](http://arxiv.org/abs/2510.20287)|null|
+|**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Minseok Kang,...Sangyoun Lee|[2510.20244](http://arxiv.org/abs/2510.20244)|null|
+|**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Ge Zheng,...Sibei Yang|[2510.20229](http://arxiv.org/abs/2510.20229)|null|
+|**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Mathieu Andreux,...Jevgenij Zubovskij|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Jake Poznanski,...Kyle Lo|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xiaozhen Qiao,...Xuelong Li|[2510.19802](http://arxiv.org/abs/2510.19802)|null|
@@ -501,6 +512,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation**|Mateo Guaman Castro,...Abhishek Gupta|[2510.20818](http://arxiv.org/abs/2510.20818)|null|
+|**2025-10-23**|**MemER: Scaling Up Memory for Robot Control via Experience Retrieval**|Ajay Sridhar,...Chelsea Finn|[2510.20328](http://arxiv.org/abs/2510.20328)|**[link](https://jen-pan.github.io/memer/)**|
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Ameesh Shah,...Sergey Levine|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
@@ -509,7 +522,7 @@
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
 |**2025-10-21**|**DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment**|Yu Gao,...Wang Jijun|[2510.17148](http://arxiv.org/abs/2510.17148)|null|
-|**2025-10-22**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Weifan Guan,...Jian Cheng|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
+|**2025-10-23**|**Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey**|Weifan Guan,...Jian Cheng|[2510.17111](http://arxiv.org/abs/2510.17111)|null|
 |**2025-10-18**|**MoS-VLA: A Vision-Language-Action Model with One-Shot Skill Adaptation**|Ruihan Zhao,...Ufuk Topcu|[2510.16617](http://arxiv.org/abs/2510.16617)|null|
 |**2025-10-18**|**Do What You Say: Steering Vision-Language-Action Models via Runtime Reasoning-Action Alignment Verification**|Yilin Wu,...Claudia P'erez-D'Arpino|[2510.16281](http://arxiv.org/abs/2510.16281)|null|
 |**2025-10-21**|**NEBULA: Do We Evaluate Vision-Language-Action Agents Correctly?**|Jierui Peng,...Yu Yin|[2510.16263](http://arxiv.org/abs/2510.16263)|**[link](https://vulab-ai.github.io/NEBULA-Alpha/)**|
@@ -684,6 +697,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Guangqi Jiang,...Xiaolong Wang|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
+|**2025-10-23**|**Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking**|Zixuan Wu,...Liu Ren|[2510.20335](http://arxiv.org/abs/2510.20335)|**[link](https://github.com/ChampagneAndfragrance/Dino_Diffusion_Parking_Official)**|
+|**2025-10-23**|**COS3D: Collaborative Open-Vocabulary 3D Segmentation**|Runsong Zhu,...Chi-Wing Fu|[2510.20238](http://arxiv.org/abs/2510.20238)|**[link](https://github.com/Runsong123/COS3D}{https://github.com/Runsong123/COS3D})**|
+|**2025-10-22**|**Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses**|Damian Bowness,...Charalambos Poullis|[2510.20027](http://arxiv.org/abs/2510.20027)|null|
 |**2025-10-21**|**Re-Activating Frozen Primitives for 3D Gaussian Splatting**|Yuxin Cheng,...Ngai Wong|[2510.19653](http://arxiv.org/abs/2510.19653)|null|
 |**2025-10-22**|**VGD: Visual Geometry Gaussian Splatting for Feed-Forward Surround-view Driving Reconstruction**|Junhong Lin,...Wei Gao|[2510.19578](http://arxiv.org/abs/2510.19578)|null|
 |**2025-10-22**|**Advances in 4D Representation: Geometry, Motion, and Interaction**|Mingrui Zhao,...Hao Zhang|[2510.19255](http://arxiv.org/abs/2510.19255)|**[link](https://mingrui-zhao.github.io/4DRep-GMI/)**|
