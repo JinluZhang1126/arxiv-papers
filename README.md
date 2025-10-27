@@ -1,4 +1,4 @@
-## Updated on 2025.10.26
+## Updated on 2025.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -48,7 +48,7 @@
 |**2025-09-29**|**Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods**|Qinqian Lei,...Robby T. Tan|[2508.18753](http://arxiv.org/abs/2508.18753)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh,...Antonio Loquercio|[2508.18691](http://arxiv.org/abs/2508.18691)|**[link](https://hgaurav2k.github.io/trackr/)**|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## World Model
 
@@ -61,9 +61,9 @@
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**ProTerrain: Probabilistic Physics-Informed Rough Terrain World Modeling**|Golnaz Raja,...Reza Ghabcheloo|[2510.19364](http://arxiv.org/abs/2510.19364)|null|
 |**2025-10-22**|**Social World Model-Augmented Mechanism Design Policy Learning**|Xiaoyuan Zhang,...Xue Feng|[2510.19270](http://arxiv.org/abs/2510.19270)|null|
-|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng,...Wentao Zhang|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
+|**2025-10-24**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng,...Wentao Zhang|[2510.19195](http://arxiv.org/abs/2510.19195)|null|
 |**2025-10-21**|**Higher Embedding Dimension Creates a Stronger World Model for a Simple Sorting Task**|Brady Bhalla,...Tony Yue YU|[2510.18315](http://arxiv.org/abs/2510.18315)|null|
-|**2025-10-22**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
+|**2025-10-24**|**OmniNWM: Omniscient Driving Navigation World Models**|Bohan Li,...Xin Jin|[2510.18313](http://arxiv.org/abs/2510.18313)|**[link](https://arlo0o.github.io/OmniNWM/)**|
 |**2025-10-20**|**World-in-World: World Models in a Closed-Loop World**|Jiahan Zhang,...Jieneng Chen|[2510.18135](http://arxiv.org/abs/2510.18135)|**[link](https://github.com/World-In-World/world-in-world)**|
 |**2025-10-20**|**Can Image-To-Video Models Simulate Pedestrian Dynamics?**|Aaron Appelle,...Jerome P. Lynch|[2510.17731](http://arxiv.org/abs/2510.17731)|**[link](https://physical-world-modeling.github.io/)**|
 |**2025-10-22**|**SparseWorld: A Flexible, Adaptive, and Efficient 4D Occupancy World Model Powered by Sparse and Dynamic Queries**|Chenxu Dang,...Yan Wang|[2510.17482](http://arxiv.org/abs/2510.17482)|null|
@@ -178,7 +178,7 @@
 |**2025-09-16**|**A tree-based Polynomial Chaos expansion for surrogate modeling and sensitivity analysis of complex numerical models**|Faten Ben Said,...Fabrice Zaoui|[2509.13384](http://arxiv.org/abs/2509.13384)|null|
 |**2025-09-26**|**Empowering Multi-Robot Cooperation via Sequential World Models**|Zijie Zhao,...Dongbin Zhao|[2509.13095](http://arxiv.org/abs/2509.13095)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## VLM
 
@@ -193,7 +193,7 @@
 |**2025-10-23**|**Breakdance Video classification in the age of Generative AI**|Sauptik Dhar,...Michelle Munson|[2510.20287](http://arxiv.org/abs/2510.20287)|null|
 |**2025-10-23**|**Empower Words: DualGround for Structured Phrase and Sentence-Level Temporal Grounding**|Minseok Kang,...Sangyoun Lee|[2510.20244](http://arxiv.org/abs/2510.20244)|null|
 |**2025-10-23**|**Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context**|Ge Zheng,...Sibei Yang|[2510.20229](http://arxiv.org/abs/2510.20229)|null|
-|**2025-10-22**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Mathieu Andreux,...Jevgenij Zubovskij|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
+|**2025-10-24**|**Surfer 2: The Next Generation of Cross-Platform Computer Use Agents**|Mathieu Andreux,...Jevgenij Zubovskij|[2510.19949](http://arxiv.org/abs/2510.19949)|null|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-22**|**olmOCR 2: Unit Test Rewards for Document OCR**|Jake Poznanski,...Kyle Lo|[2510.19817](http://arxiv.org/abs/2510.19817)|**[link](https://olmocr.allen.ai/)**|
 |**2025-10-22**|**Class-Aware Prototype Learning with Negative Contrast for Test-Time Adaptation of Vision-Language Models**|Xiaozhen Qiao,...Xuelong Li|[2510.19802](http://arxiv.org/abs/2510.19802)|null|
@@ -506,7 +506,7 @@
 |**2025-09-25**|**Recov-Vision: Linking Street View Imagery and Vision-Language Models for Post-Disaster Recovery**|Yiming Xiao,...Ali Mostafavi|[2509.20628](http://arxiv.org/abs/2509.20628)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han,...Karim Bouyarmane|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## VLA
 
@@ -624,7 +624,7 @@
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Ran Yang,...Yiming Feng|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-22**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Ali Abouzeid,...Dezhen Song|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## Humanoid
 
@@ -691,7 +691,7 @@
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou,...Zhizhong Su|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng,...Jun Ma|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -835,5 +835,5 @@
 |**2025-09-22**|**GaussianPSL: A novel framework based on Gaussian Splatting for exploring the Pareto frontier in multi-criteria optimization**|Phuong Mai Dinh,...Van-Nam Huynh|[2509.17889](http://arxiv.org/abs/2509.17889)|null|
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen,...Martin R. Oswald|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 
-<p align=right>(<a href=#updated-on-20251026>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
 
