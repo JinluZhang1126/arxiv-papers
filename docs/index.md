@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -44,6 +44,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**WorldGrow: Generating Infinite 3D World**|Sikuang Li,...Qi Tian|[2510.21682](http://arxiv.org/abs/2510.21682)|**[link](https://world-grow.github.io/)**|
+|**2025-10-24**|**PhysWorld: From Real Videos to World Models of Deformable Objects via Physics-Aware Demonstration Synthesis**|Yu Yang,...Wangmeng Zuo|[2510.21447](http://arxiv.org/abs/2510.21447)|null|
+|**2025-10-24**|**DreamerV3-XP: Optimizing exploration through uncertainty estimation**|Lukas Bierling,...Kiki Van Gerwen|[2510.21418](http://arxiv.org/abs/2510.21418)|null|
+|**2025-10-24**|**How Hard is it to Confuse a World Model?**|Waris Radji,...Odalric-Ambrym Maillard|[2510.21232](http://arxiv.org/abs/2510.21232)|null|
+|**2025-10-24**|**World Models Should Prioritize the Unification of Physical and Social Dynamics**|Xiaoyuan Zhang,...Yaodong Yang|[2510.21219](http://arxiv.org/abs/2510.21219)|null|
+|**2025-10-23**|**ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning**|Pranamya Kulkarni,...Ali Tajer|[2510.20884](http://arxiv.org/abs/2510.20884)|null|
 |**2025-10-23**|**From Masks to Worlds: A Hitchhiker's Guide to World Models**|Jinbin Bai,...Ming-Hsuan Yang|[2510.20668](http://arxiv.org/abs/2510.20668)|**[link](https://github.com/M-E-AGI-Lab/Awesome-World-Models)**|
 |**2025-10-22**|**Semantic World Models**|Jacob Berg,...Abhishek Gupta|[2510.19818](http://arxiv.org/abs/2510.19818)|null|
 |**2025-10-23**|**Benchmarking World-Model Learning**|Archana Warrier,...Zenna Tavares|[2510.19788](http://arxiv.org/abs/2510.19788)|null|
@@ -172,6 +178,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**A Multimodal Benchmark for Framing of Oil & Gas Advertising and Potential Greenwashing Detection**|Gaku Morio,...Peter Henderson|[2510.21679](http://arxiv.org/abs/2510.21679)|null|
+|**2025-10-24**|**Modest-Align: Data-Efficient Alignment for Vision-Language Models**|Jiaxiang Liu,...Zuozhu Liu|[2510.21606](http://arxiv.org/abs/2510.21606)|null|
+|**2025-10-24**|**Head Pursuit: Probing Attention Specialization in Multimodal Transformers**|Lorenzo Basile,...Alberto Cazzaniga|[2510.21518](http://arxiv.org/abs/2510.21518)|null|
+|**2025-10-24**|**MoniTor: Exploiting Large Language Models with Instruction for Online Video Anomaly Detection**|Shengtian Yang,...Jie Qin|[2510.21449](http://arxiv.org/abs/2510.21449)|null|
+|**2025-10-24**|**Vision Language Models for Dynamic Human Activity Recognition in Healthcare Settings**|Abderrazek Abid,...Fakhri Karray|[2510.21424](http://arxiv.org/abs/2510.21424)|null|
+|**2025-10-24**|**Bridging the gap to real-world language-grounded visual concept learning**|Whie Jung,...Seunghoon Hong|[2510.21412](http://arxiv.org/abs/2510.21412)|null|
+|**2025-10-24**|**VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a Unified Concept Set**|Shufan Shen,...Shuhui Wang|[2510.21323](http://arxiv.org/abs/2510.21323)|null|
+|**2025-10-24**|**Memory-Free Continual Learning with Null Space Adaptation for Zero-Shot Vision-Language Models**|Yujin Jo,...Taesup Kim|[2510.21175](http://arxiv.org/abs/2510.21175)|null|
+|**2025-10-24**|**Generalizable Hierarchical Skill Learning via Object-Centric Representation**|Haibo Zhao,...Robert Platt|[2510.21121](http://arxiv.org/abs/2510.21121)|null|
+|**2025-10-24**|**SafetyPairs: Isolating Safety Critical Image Features with Counterfactual Image Generation**|Alec Helbling,...Joseph Yitan Cheng|[2510.21120](http://arxiv.org/abs/2510.21120)|null|
+|**2025-10-24**|**MedAlign: A Synergistic Framework of Multimodal Preference Optimization and Federated Meta-Cognitive Reasoning**|Siyong Chen,...Dong In Kim|[2510.21093](http://arxiv.org/abs/2510.21093)|null|
+|**2025-10-24**|**Knowledge-Driven Vision-Language Model for Plexus Detection in Hirschsprung's Disease**|Youssef Megahed,...Adrian D. C. Chan|[2510.21083](http://arxiv.org/abs/2510.21083)|null|
+|**2025-10-24**|**ZING-3D: Zero-shot Incremental 3D Scene Graphs via Vision-Language Models**|Pranav Saxena,...Jimmy Chiun|[2510.21069](http://arxiv.org/abs/2510.21069)|null|
+|**2025-10-23**|**3DReasonKnee: Advancing Grounded Reasoning in Medical Vision Language Models**|Sraavya Sambara,...Pranav Rajpurkar|[2510.20967](http://arxiv.org/abs/2510.20967)|null|
 |**2025-10-23**|**Small Drafts, Big Verdict: Information-Intensive Visual Reasoning via Speculation**|Yuhan Liu,...Shengjie Wang|[2510.20812](http://arxiv.org/abs/2510.20812)|null|
 |**2025-10-23**|**Mixing Importance with Diversity: Joint Optimization for KV Cache Compression in Large Vision-Language Models**|Xuyang Liu,...Linfeng Zhang|[2510.20707](http://arxiv.org/abs/2510.20707)|**[link](https://github.com/xuyang-liu16/MixKV)**|
 |**2025-10-23**|**Diagnosing Visual Reasoning: Challenges, Insights, and a Path Forward**|Jing Bi,...Chenliang Xu|[2510.20696](http://arxiv.org/abs/2510.20696)|null|
@@ -498,13 +518,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos**|Qixiu Li,...Baining Guo|[2510.21571](http://arxiv.org/abs/2510.21571)|**[link](https://microsoft.github.io/VITRA/)**|
+|**2025-10-23**|**SutureBot: A Precision Framework & Benchmark For Autonomous End-to-End Suturing**|Jesse Haworth,...Axel Krieger|[2510.20965](http://arxiv.org/abs/2510.20965)|null|
 |**2025-10-23**|**VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation**|Mateo Guaman Castro,...Abhishek Gupta|[2510.20818](http://arxiv.org/abs/2510.20818)|null|
 |**2025-10-23**|**MemER: Scaling Up Memory for Robot Control via Experience Retrieval**|Ajay Sridhar,...Chelsea Finn|[2510.20328](http://arxiv.org/abs/2510.20328)|**[link](https://jen-pan.github.io/memer/)**|
 |**2025-10-22**|**Learning Affordances at Inference-Time for Vision-Language-Action Models**|Ameesh Shah,...Sergey Levine|[2510.19752](http://arxiv.org/abs/2510.19752)|null|
 |**2025-10-22**|**GigaBrain-0: A World Model-Powered Vision-Language-Action Model**|GigaBrain Team,...Zheng Zhu|[2510.19430](http://arxiv.org/abs/2510.19430)|**[link](https://gigabrain0.github.io/)**|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-23**|**MoTVLA: A Vision-Language-Action Model with Unified Fast-Slow Reasoning**|Wenhui Huang,...Heng Yang|[2510.18337](http://arxiv.org/abs/2510.18337)|null|
-|**2025-10-20**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
+|**2025-10-24**|**RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation**|Yuquan Xue,...Ziwei Wang|[2510.17640](http://arxiv.org/abs/2510.17640)|null|
 |**2025-10-20**|**From Spatial to Actions: Grounding Vision-Language-Action Model in Spatial Foundation Priors**|Zhengshen Zhang,...Pan Zhou|[2510.17439](http://arxiv.org/abs/2510.17439)|**[link](https://falcon-vla.github.io/)**|
 |**2025-10-20**|**Bridging Embodiment Gaps: Deploying Vision-Language-Action Models on Soft Robots**|Haochen Su,...Josie Hughes|[2510.17369](http://arxiv.org/abs/2510.17369)|null|
 |**2025-10-21**|**DiffVLA++: Bridging Cognitive Reasoning and End-to-End Driving through Metric-Guided Alignment**|Yu Gao,...Wang Jijun|[2510.17148](http://arxiv.org/abs/2510.17148)|null|
@@ -679,6 +701,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-24**|**Towards Physically Executable 3D Gaussian for Embodied Navigation**|Bingchen Miao,...Juncheng Li|[2510.21307](http://arxiv.org/abs/2510.21307)|**[link](https://huggingface.co/datasets/spatialverse/InteriorGS)**|
 |**2025-10-23**|**GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation**|Guangqi Jiang,...Xiaolong Wang|[2510.20813](http://arxiv.org/abs/2510.20813)|null|
 |**2025-10-23**|**Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking**|Zixuan Wu,...Liu Ren|[2510.20335](http://arxiv.org/abs/2510.20335)|**[link](https://github.com/ChampagneAndfragrance/Dino_Diffusion_Parking_Official)**|
 |**2025-10-23**|**COS3D: Collaborative Open-Vocabulary 3D Segmentation**|Runsong Zhu,...Chi-Wing Fu|[2510.20238](http://arxiv.org/abs/2510.20238)|**[link](https://github.com/Runsong123/COS3D}{https://github.com/Runsong123/COS3D})**|
