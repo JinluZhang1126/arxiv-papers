@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -50,8 +50,8 @@ layout: default
 |**2025-10-27**|**Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model**|Weizheng Wang,...Byung-Cheol Min|[2510.23509](http://arxiv.org/abs/2510.23509)|null|
 |**2025-10-27**|**Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation**|Riko Yokozawa,...Shingo Murata|[2510.23258](http://arxiv.org/abs/2510.23258)|null|
 |**2025-10-26**|**ATLAS: Actor-Critic Task-Completion with Look-ahead Action Simulation**|Jiali Cheng,...Hadi Amiri|[2510.22732](http://arxiv.org/abs/2510.22732)|null|
-|**2025-10-25**|**ODesign: A World Model for Biomolecular Interaction Design**|Odin Zhang,...Shuangjia Zheng|[2510.22304](http://arxiv.org/abs/2510.22304)|null|
-|**2025-10-25**|**LongCat-Video Technical Report**|Meituan LongCat Team,...Tong Zhang|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
+|**2025-10-28**|**ODesign: A World Model for Biomolecular Interaction Design**|Odin Zhang,...Shuangjia Zheng|[2510.22304](http://arxiv.org/abs/2510.22304)|null|
+|**2025-10-28**|**LongCat-Video Technical Report**|Meituan LongCat Team,...Tong Zhang|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
 |**2025-10-23**|**Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs**|Haicheng Liao,...Zhenning Li|[2510.21867](http://arxiv.org/abs/2510.21867)|null|
 |**2025-10-22**|**Improving the Physics of Video Generation with VJEPA-2 Reward Signal**|Jianhao Yuan,...Adriana Romero-Soriano|[2510.21840](http://arxiv.org/abs/2510.21840)|null|
 |**2025-10-24**|**WorldGrow: Generating Infinite 3D World**|Sikuang Li,...Qi Tian|[2510.21682](http://arxiv.org/abs/2510.21682)|**[link](https://world-grow.github.io/)**|
@@ -189,7 +189,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir,...Katerina Fragkiadaki|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
-|**2025-10-27**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Walid Bousselham,...Cordelia Schmid|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
+|**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Walid Bousselham,...Cordelia Schmid|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|Zujing Liu,...Guisong Xia|[2510.23482](http://arxiv.org/abs/2510.23482)|null|
 |**2025-10-27**|**A Video Is Not Worth a Thousand Words**|Sam Pollard,...Michael Wray|[2510.23253](http://arxiv.org/abs/2510.23253)|null|
 |**2025-10-27**|**Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports**|Alois Thomas,...Curtis P. Langlotz|[2510.23217](http://arxiv.org/abs/2510.23217)|null|
@@ -199,7 +199,7 @@ layout: default
 |**2025-10-27**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|Jie Huang,...Shuai Bai|[2510.23095](http://arxiv.org/abs/2510.23095)|null|
 |**2025-10-27**|**Multi-Stage Field Extraction of Financial Documents with OCR and Compact Vision-Language Models**|Yichao Jin,...Donald MacDonald|[2510.23066](http://arxiv.org/abs/2510.23066)|null|
 |**2025-10-27**|**VoMP: Predicting Volumetric Mechanical Property Fields**|Rishit Dagli,...Maria Shugrina|[2510.22975](http://arxiv.org/abs/2510.22975)|**[link](https://research.nvidia.com/labs/sil/projects/vomp)**|
-|**2025-10-27**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zecheng Yin,...Zhen Li|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
+|**2025-10-28**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zecheng Yin,...Zhen Li|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
 |**2025-10-26**|**Seeing the Unseen: Towards Zero-Shot Inspection for Wind Turbine Blades using Knowledge-Augmented Vision Language Models**|Yang Zhang,...Jiong Tang|[2510.22868](http://arxiv.org/abs/2510.22868)|null|
 |**2025-10-26**|**Semantic-Preserving Cross-Style Visual Reasoning for Robust Multi-Modal Understanding in Large Vision-Language Models**|Aya Nakayama,...Kaito Tanaka|[2510.22838](http://arxiv.org/abs/2510.22838)|null|
 |**2025-10-26**|**VEHME: A Vision-Language Model For Evaluating Handwritten Mathematics Expressions**|Thu Phuong Nguyen,...Taehwan Kim|[2510.22798](http://arxiv.org/abs/2510.22798)|**[link](https://vehme.github.io/)**|

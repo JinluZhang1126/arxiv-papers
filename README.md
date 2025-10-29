@@ -1,4 +1,4 @@
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -51,7 +51,7 @@
 |**2025-09-29**|**Rethinking Human-Object Interaction Evaluation for both Vision-Language Models and HOI-Specific Methods**|Qinqian Lei,...Robby T. Tan|[2508.18753](http://arxiv.org/abs/2508.18753)|null|
 |**2025-08-26**|**Deep Sensorimotor Control by Imitating Predictive Models of Human Motion**|Himanshu Gaurav Singh,...Antonio Loquercio|[2508.18691](http://arxiv.org/abs/2508.18691)|**[link](https://hgaurav2k.github.io/trackr/)**|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## World Model
 
@@ -60,8 +60,8 @@
 |**2025-10-27**|**Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model**|Weizheng Wang,...Byung-Cheol Min|[2510.23509](http://arxiv.org/abs/2510.23509)|null|
 |**2025-10-27**|**Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation**|Riko Yokozawa,...Shingo Murata|[2510.23258](http://arxiv.org/abs/2510.23258)|null|
 |**2025-10-26**|**ATLAS: Actor-Critic Task-Completion with Look-ahead Action Simulation**|Jiali Cheng,...Hadi Amiri|[2510.22732](http://arxiv.org/abs/2510.22732)|null|
-|**2025-10-25**|**ODesign: A World Model for Biomolecular Interaction Design**|Odin Zhang,...Shuangjia Zheng|[2510.22304](http://arxiv.org/abs/2510.22304)|null|
-|**2025-10-25**|**LongCat-Video Technical Report**|Meituan LongCat Team,...Tong Zhang|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
+|**2025-10-28**|**ODesign: A World Model for Biomolecular Interaction Design**|Odin Zhang,...Shuangjia Zheng|[2510.22304](http://arxiv.org/abs/2510.22304)|null|
+|**2025-10-28**|**LongCat-Video Technical Report**|Meituan LongCat Team,...Tong Zhang|[2510.22200](http://arxiv.org/abs/2510.22200)|null|
 |**2025-10-23**|**Addressing Corner Cases in Autonomous Driving: A World Model-based Approach with Mixture of Experts and LLMs**|Haicheng Liao,...Zhenning Li|[2510.21867](http://arxiv.org/abs/2510.21867)|null|
 |**2025-10-22**|**Improving the Physics of Video Generation with VJEPA-2 Reward Signal**|Jianhao Yuan,...Adriana Romero-Soriano|[2510.21840](http://arxiv.org/abs/2510.21840)|null|
 |**2025-10-24**|**WorldGrow: Generating Infinite 3D World**|Sikuang Li,...Qi Tian|[2510.21682](http://arxiv.org/abs/2510.21682)|**[link](https://world-grow.github.io/)**|
@@ -194,14 +194,14 @@
 |**2025-09-16**|**A tree-based Polynomial Chaos expansion for surrogate modeling and sensitivity analysis of complex numerical models**|Faten Ben Said,...Fabrice Zaoui|[2509.13384](http://arxiv.org/abs/2509.13384)|null|
 |**2025-09-26**|**Empowering Multi-Robot Cooperation via Sequential World Models**|Zijie Zhao,...Dongbin Zhao|[2509.13095](http://arxiv.org/abs/2509.13095)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir,...Katerina Fragkiadaki|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
-|**2025-10-27**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Walid Bousselham,...Cordelia Schmid|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
+|**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Walid Bousselham,...Cordelia Schmid|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|Zujing Liu,...Guisong Xia|[2510.23482](http://arxiv.org/abs/2510.23482)|null|
 |**2025-10-27**|**A Video Is Not Worth a Thousand Words**|Sam Pollard,...Michael Wray|[2510.23253](http://arxiv.org/abs/2510.23253)|null|
 |**2025-10-27**|**Process Reward Models for Sentence-Level Verification of LVLM Radiology Reports**|Alois Thomas,...Curtis P. Langlotz|[2510.23217](http://arxiv.org/abs/2510.23217)|null|
@@ -211,7 +211,7 @@
 |**2025-10-27**|**Revisiting Multimodal Positional Encoding in Vision-Language Models**|Jie Huang,...Shuai Bai|[2510.23095](http://arxiv.org/abs/2510.23095)|null|
 |**2025-10-27**|**Multi-Stage Field Extraction of Financial Documents with OCR and Compact Vision-Language Models**|Yichao Jin,...Donald MacDonald|[2510.23066](http://arxiv.org/abs/2510.23066)|null|
 |**2025-10-27**|**VoMP: Predicting Volumetric Mechanical Property Fields**|Rishit Dagli,...Maria Shugrina|[2510.22975](http://arxiv.org/abs/2510.22975)|**[link](https://research.nvidia.com/labs/sil/projects/vomp)**|
-|**2025-10-27**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zecheng Yin,...Zhen Li|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
+|**2025-10-28**|**HyPerNav: Hybrid Perception for Object-Oriented Navigation in Unknown Environment**|Zecheng Yin,...Zhen Li|[2510.22917](http://arxiv.org/abs/2510.22917)|null|
 |**2025-10-26**|**Seeing the Unseen: Towards Zero-Shot Inspection for Wind Turbine Blades using Knowledge-Augmented Vision Language Models**|Yang Zhang,...Jiong Tang|[2510.22868](http://arxiv.org/abs/2510.22868)|null|
 |**2025-10-26**|**Semantic-Preserving Cross-Style Visual Reasoning for Robust Multi-Modal Understanding in Large Vision-Language Models**|Aya Nakayama,...Kaito Tanaka|[2510.22838](http://arxiv.org/abs/2510.22838)|null|
 |**2025-10-26**|**VEHME: A Vision-Language Model For Evaluating Handwritten Mathematics Expressions**|Thu Phuong Nguyen,...Taehwan Kim|[2510.22798](http://arxiv.org/abs/2510.22798)|**[link](https://vehme.github.io/)**|
@@ -556,7 +556,7 @@
 |**2025-09-25**|**Recov-Vision: Linking Street View Imagery and Vision-Language Models for Post-Disaster Recovery**|Yiming Xiao,...Ali Mostafavi|[2509.20628](http://arxiv.org/abs/2509.20628)|null|
 |**2025-09-24**|**InstructVTON: Optimal Auto-Masking and Natural-Language-Guided Interactive Style Control for Inpainting-Based Virtual Try-On**|Julien Han,...Karim Bouyarmane|[2509.20524](http://arxiv.org/abs/2509.20524)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## VLA
 
@@ -681,7 +681,7 @@
 |**2025-09-17**|**SeqVLA: Sequential Task Execution for Long-Horizon Manipulation with Completion-Aware Vision-Language-Action Model**|Ran Yang,...Yiming Feng|[2509.14138](http://arxiv.org/abs/2509.14138)|null|
 |**2025-09-22**|**GeoAware-VLA: Implicit Geometry Aware Vision-Language-Action Model**|Ali Abouzeid,...Dezhen Song|[2509.14117](http://arxiv.org/abs/2509.14117)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## Humanoid
 
@@ -750,7 +750,7 @@
 |**2025-09-17**|**FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph**|Xiaolin Zhou,...Zhizhong Su|[2509.13733](http://arxiv.org/abs/2509.13733)|null|
 |**2025-09-16**|**Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning**|Chunxin Zheng,...Jun Ma|[2509.13534](http://arxiv.org/abs/2509.13534)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -906,5 +906,5 @@
 |**2025-09-22**|**GaussianPSL: A novel framework based on Gaussian Splatting for exploring the Pareto frontier in multi-criteria optimization**|Phuong Mai Dinh,...Van-Nam Huynh|[2509.17889](http://arxiv.org/abs/2509.17889)|null|
 |**2025-09-22**|**ProDyG: Progressive Dynamic Scene Reconstruction via Gaussian Splatting from Monocular Videos**|Shi Chen,...Martin R. Oswald|[2509.17864](http://arxiv.org/abs/2509.17864)|null|
 
-<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
 
