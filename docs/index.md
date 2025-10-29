@@ -47,6 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning**|Shengjie Liu,...Zhenyu Zhang|[2510.24690](http://arxiv.org/abs/2510.24690)|null|
+|**2025-10-28**|**Evolving Diagnostic Agents in a Virtual Clinical Environment**|Pengcheng Qiu,...Weidi Xie|[2510.24654](http://arxiv.org/abs/2510.24654)|null|
+|**2025-10-28**|**Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks**|Lingyi Wang,...Naren Ramakrishnan|[2510.24546](http://arxiv.org/abs/2510.24546)|null|
+|**2025-10-28**|**Affordance Representation and Recognition for Autonomous Agents**|Habtom Kahsay Gidey,...Alois Knoll|[2510.24459](http://arxiv.org/abs/2510.24459)|null|
+|**2025-10-28**|**Human Machine Social Hybrid Intelligence:A Collaborative Decision Making Framework for Large Model Agent Groups and Human Experts**|Ahmet Akkaya Melih,...Hanuman Bhatia|[2510.24030](http://arxiv.org/abs/2510.24030)|null|
 |**2025-10-27**|**Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model**|Weizheng Wang,...Byung-Cheol Min|[2510.23509](http://arxiv.org/abs/2510.23509)|null|
 |**2025-10-27**|**Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation**|Riko Yokozawa,...Shingo Murata|[2510.23258](http://arxiv.org/abs/2510.23258)|null|
 |**2025-10-26**|**ATLAS: Actor-Critic Task-Completion with Look-ahead Action Simulation**|Jiali Cheng,...Hadi Amiri|[2510.22732](http://arxiv.org/abs/2510.22732)|null|
@@ -188,6 +193,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Nitin Rai,...Arnold W. Schumann|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
+|**2025-10-28**|**OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows**|Qiushi Sun,...Lingpeng Kong|[2510.24411](http://arxiv.org/abs/2510.24411)|null|
+|**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Gabriel O. dos Santos,...Sandra Avila|[2510.24331](http://arxiv.org/abs/2510.24331)|null|
+|**2025-10-28**|**Few-Shot Remote Sensing Image Scene Classification with CLIP and Prompt Learning**|Ivica Dimitrovski,...Ivan Kitanovski|[2510.24321](http://arxiv.org/abs/2510.24321)|null|
+|**2025-10-28**|**ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model**|Juntian Zhang,...Rui Yan|[2510.24285](http://arxiv.org/abs/2510.24285)|null|
+|**2025-10-28**|**Enabling Near-realtime Remote Sensing via Satellite-Ground Collaboration of Large Vision-Language Models**|Zihan Li,...Yue Gao|[2510.24242](http://arxiv.org/abs/2510.24242)|null|
+|**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Arpita Kundu,...Vishwanathan Raman|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
+|**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Aodi Wu,...Xubo Luo|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
+|**2025-10-28**|**Compositional Image Synthesis with Inference-Time Scaling**|Minsuk Ji,...Namhyuk Ahn|[2510.24133](http://arxiv.org/abs/2510.24133)|**[link](https://github.com/gcl-inha/ReFocus)**|
+|**2025-10-28**|**HistoLens: An Interactive XAI Toolkit for Verifying and Mitigating Flaws in Vision-Language Models for Histopathology**|Sandeep Vissapragada,...Vandita Singh|[2510.24115](http://arxiv.org/abs/2510.24115)|null|
+|**2025-10-28**|**PFEA: An LLM-based High-Level Natural Language Planning and Feedback Embodied Agent for Human-Centered AI**|Wenbin Ding,...Philip Dames|[2510.24109](http://arxiv.org/abs/2510.24109)|null|
+|**2025-10-28**|**Enhancing CLIP Robustness via Cross-Modality Alignment**|Xingyu Zhu,...Hanwang Zhang|[2510.24038](http://arxiv.org/abs/2510.24038)|null|
+|**2025-10-28**|**Mars-Bench: A Benchmark for Evaluating Foundation Models for Mars Science Tasks**|Mirali Purohit,...Hannah Kerner|[2510.24010](http://arxiv.org/abs/2510.24010)|null|
+|**2025-10-28**|**Reasoning Visual Language Model for Chest X-Ray Analysis**|Andriy Myronenko,...Daguang Xu|[2510.23968](http://arxiv.org/abs/2510.23968)|null|
+|**2025-10-27**|**Latent Chain-of-Thought for Visual Reasoning**|Guohao Sun,...Zhiqiang Tao|[2510.23925](http://arxiv.org/abs/2510.23925)|null|
+|**2025-10-27**|**Explainable Detection of AI-Generated Images with Artifact Localization Using Faster-Than-Lies and Vision-Language Models for Edge Devices**|Aryan Mathur,...Madesh Kuppusamy|[2510.23775](http://arxiv.org/abs/2510.23775)|null|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir,...Katerina Fragkiadaki|[2510.23571](http://arxiv.org/abs/2510.23571)|**[link](https://robotarenainf.github.io)**|
 |**2025-10-28**|**VOLD: Reasoning Transfer from LLMs to Vision-Language Models via On-Policy Distillation**|Walid Bousselham,...Cordelia Schmid|[2510.23497](http://arxiv.org/abs/2510.23497)|null|
 |**2025-10-27**|**On the Faithfulness of Visual Thinking: Measurement and Enhancement**|Zujing Liu,...Guisong Xia|[2510.23482](http://arxiv.org/abs/2510.23482)|null|
@@ -548,6 +569,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Wentao Tan,...Heng Tao Shen|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
+|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang,...Xipeng Qiu|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|Anqi Li,...He Wang|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Bin Xie,...Ziyu Zhang|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park,...Jaegul Choo|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
@@ -738,6 +761,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong,...Andrew Jaeyong Choi|[2510.24335](http://arxiv.org/abs/2510.24335)|null|
+|**2025-10-28**|**LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation**|Haotian Zhou,...Huijing Zhao|[2510.24118](http://arxiv.org/abs/2510.24118)|null|
+|**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan,...Xiem HoangVan|[2510.23988](http://arxiv.org/abs/2510.23988)|null|
+|**2025-10-27**|**PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors**|Xirui Jin,...Wenxian Yu|[2510.23930](http://arxiv.org/abs/2510.23930)|**[link](https://planargs.github.io)**|
 |**2025-10-27**|**Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation**|Anthony Opipari,...Odest Chadwicke Jenkins|[2510.23521](http://arxiv.org/abs/2510.23521)|null|
 |**2025-10-27**|**VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting**|Hoonhee Cho,...Kuk-Jin Yoon|[2510.23205](http://arxiv.org/abs/2510.23205)|null|
 |**2025-10-27**|**EndoWave: Rational-Wavelet 4D Gaussian Splatting for Endoscopic Reconstruction**|Taoyu Wu,...Limin Yu|[2510.23087](http://arxiv.org/abs/2510.23087)|null|
