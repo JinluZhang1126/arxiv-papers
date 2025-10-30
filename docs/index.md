@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**SynHLMA:Synthesizing Hand Language Manipulation for Articulated Object with Discrete Human Object Interaction Representation**|Wang zhi,...Dan Guo|[2510.25268](http://arxiv.org/abs/2510.25268)|null|
+|**2025-10-29**|**Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**|Chanhyeong Yang,...Hyunwoo J. Kim|[2510.25094](http://arxiv.org/abs/2510.25094)|null|
 |**2025-10-27**|**DecoDINO: 3D Human-Scene Contact Prediction with Semantic Classification**|Lukas Bierling,...Angelo Broere|[2510.23203](http://arxiv.org/abs/2510.23203)|null|
 |**2025-10-25**|**MOGRAS: Human Motion with Grasping in 3D Scenes**|Kunal Bhosikar,...Charu Sharma|[2510.22199](http://arxiv.org/abs/2510.22199)|null|
 |**2025-10-17**|**H2OFlow: Grounding Human-Object Affordances with 3D Generative Models and Dense Diffused Flows**|Harry Zhang,...Luca Carlone|[2510.21769](http://arxiv.org/abs/2510.21769)|null|
@@ -47,6 +49,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**Off-policy Reinforcement Learning with Model-based Exploration Augmentation**|Likun Wang,...Shengbo Eben Li|[2510.25529](http://arxiv.org/abs/2510.25529)|null|
+|**2025-10-29**|**AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians**|Xiyu Zhang,...Guofeng Zhang|[2510.25129](http://arxiv.org/abs/2510.25129)|**[link](https://zju3dv.github.io/AtlasGS/)**|
+|**2025-10-27**|**Semantic Communications with World Models**|Peiwen Jiang,...Jun Zhang|[2510.24785](http://arxiv.org/abs/2510.24785)|null|
 |**2025-10-28**|**Bridging Tool Dependencies and Domain Knowledge: A Graph-Based Framework for In-Context Planning**|Shengjie Liu,...Zhenyu Zhang|[2510.24690](http://arxiv.org/abs/2510.24690)|null|
 |**2025-10-28**|**Evolving Diagnostic Agents in a Virtual Clinical Environment**|Pengcheng Qiu,...Weidi Xie|[2510.24654](http://arxiv.org/abs/2510.24654)|null|
 |**2025-10-28**|**Dual-Mind World Models: A General Framework for Learning in Dynamic Wireless Networks**|Lingyi Wang,...Naren Ramakrishnan|[2510.24546](http://arxiv.org/abs/2510.24546)|null|
@@ -193,6 +198,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**PairUni: Pairwise Training for Unified Multimodal Language Models**|Jiani Zheng,...Zhuochen Wang|[2510.25682](http://arxiv.org/abs/2510.25682)|null|
+|**2025-10-29**|**ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**|Tianyu Yang,...Bela Gipp|[2510.25668](http://arxiv.org/abs/2510.25668)|null|
+|**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Nikita Kachaev,...Aleksandr I. Panov|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
+|**2025-10-29**|**Using VLM Reasoning to Constrain Task and Motion Planning**|Muyang Yan,...Zachary Kingston|[2510.25548](http://arxiv.org/abs/2510.25548)|null|
+|**2025-10-29**|**Seeing, Signing, and Saying: A Vision-Language Model-Assisted Pipeline for Sign Language Data Acquisition and Curation from Social Media**|Shakib Yazdani,...Josef van Genabith|[2510.25413](http://arxiv.org/abs/2510.25413)|null|
+|**2025-10-29**|**SoraNav: Adaptive UAV Task-Centric Navigation via Zeroshot VLM Reasoning**|Hongyu Song,...Wei Pan|[2510.25191](http://arxiv.org/abs/2510.25191)|null|
+|**2025-10-29**|**Agentic Moderation: Multi-Agent Design for Safer Vision-Language Models**|Juan Ren,...Usman Naseem|[2510.25179](http://arxiv.org/abs/2510.25179)|null|
+|**2025-10-29**|**Learning Spatial-Aware Manipulation Ordering**|Yuxiang Yan,...Jian Pu|[2510.25138](http://arxiv.org/abs/2510.25138)|null|
+|**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jiahong Chen,...Jinghui Lu|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
+|**2025-10-29**|**Visual Diversity and Region-aware Prompt Learning for Zero-shot HOI Detection**|Chanhyeong Yang,...Hyunwoo J. Kim|[2510.25094](http://arxiv.org/abs/2510.25094)|null|
+|**2025-10-29**|**DRIP: Dynamic patch Reduction via Interpretable Pooling**|Yusen Peng,...Sachin Kumar|[2510.25067](http://arxiv.org/abs/2510.25067)|null|
+|**2025-10-28**|**Efficient License Plate Recognition via Pseudo-Labeled Supervision with Grounding DINO and YOLOv8**|Zahra Ebrahimi Vargoorani,...Ching Yee Suen|[2510.25032](http://arxiv.org/abs/2510.25032)|null|
+|**2025-10-28**|**SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving**|Anil Yildiz,...Mykel J. Kochenderfer|[2510.24949](http://arxiv.org/abs/2510.24949)|null|
+|**2025-10-28**|**Finding Culture-Sensitive Neurons in Vision-Language Models**|Xiutian Zhao,...Ivan Titov|[2510.24942](http://arxiv.org/abs/2510.24942)|null|
 |**2025-10-28**|**Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning**|Nitin Rai,...Arnold W. Schumann|[2510.24650](http://arxiv.org/abs/2510.24650)|null|
 |**2025-10-28**|**OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows**|Qiushi Sun,...Lingpeng Kong|[2510.24411](http://arxiv.org/abs/2510.24411)|null|
 |**2025-10-28**|**What do vision-language models see in the context? Investigating multimodal in-context learning**|Gabriel O. dos Santos,...Sandra Avila|[2510.24331](http://arxiv.org/abs/2510.24331)|null|
@@ -569,8 +588,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**Robotic Assistant: Completing Collaborative Tasks with Dexterous Vision-Language-Action Models**|Boshi An,...Robert Katzschmann|[2510.25713](http://arxiv.org/abs/2510.25713)|null|
+|**2025-10-29**|**Don't Blind Your VLA: Aligning Visual Representations for OOD Generalization**|Nikita Kachaev,...Aleksandr I. Panov|[2510.25616](http://arxiv.org/abs/2510.25616)|null|
+|**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jiahong Chen,...Jinghui Lu|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
+|**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Zhaoshu Yu,...Heng Tao Shen|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
 |**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Wentao Tan,...Heng Tao Shen|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
-|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang,...Xipeng Qiu|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang,...Xipeng Qiu|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|Anqi Li,...He Wang|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Bin Xie,...Ziyu Zhang|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park,...Jaegul Choo|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
@@ -694,6 +717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Eunju Kwon,...Kyung-Joong Kim|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Yongtong Zhu,...Jianwei Zhang|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
 |**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Bo Yue,...Guiliang Liu|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou,...Yueyue Dai|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
@@ -761,6 +785,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-29**|**$D^2GS$ : Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction**|Kejing Xia,...Youjian Zhang|[2510.25173](http://arxiv.org/abs/2510.25173)|null|
+|**2025-10-29**|**AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians**|Xiyu Zhang,...Guofeng Zhang|[2510.25129](http://arxiv.org/abs/2510.25129)|**[link](https://zju3dv.github.io/AtlasGS/)**|
 |**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong,...Andrew Jaeyong Choi|[2510.24335](http://arxiv.org/abs/2510.24335)|null|
 |**2025-10-28**|**LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation**|Haotian Zhou,...Huijing Zhao|[2510.24118](http://arxiv.org/abs/2510.24118)|null|
 |**2025-10-28**|**A Survey on Collaborative SLAM with 3D Gaussian Splatting**|Phuc Nguyen Xuan,...Xiem HoangVan|[2510.23988](http://arxiv.org/abs/2510.23988)|null|
