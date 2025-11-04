@@ -226,18 +226,18 @@
 |**2025-10-31**|**FOCUS: Efficient Keyframe Selection for Long Video Understanding**|Zirui Zhu,...Yang You|[2510.27280](http://arxiv.org/abs/2510.27280)|null|
 |**2025-10-31**|**T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis**|Raza Imam,...Mohammad Yaqub|[2510.27265](http://arxiv.org/abs/2510.27265)|null|
 |**2025-10-31**|**ECVL-ROUTER: Scenario-Aware Routing for Vision-Language Models**|Xin Tang,...Tengxiang Zhang|[2510.27256](http://arxiv.org/abs/2510.27256)|null|
-|**2025-10-31**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Yehna Kim andYoung-Eun Kim,...Seong-Whan Lee|[2510.27255](http://arxiv.org/abs/2510.27255)|null|
+|**2025-11-03**|**Enhancing Spatio-Temporal Zero-shot Action Recognition with Language-driven Description Attributes**|Yehna Kim,...Seong-Whan Lee|[2510.27255](http://arxiv.org/abs/2510.27255)|null|
 |**2025-10-31**|**Generating Accurate and Detailed Captions for High-Resolution Images**|Hankyeol Lee,...Jiyoung Jung|[2510.27164](http://arxiv.org/abs/2510.27164)|null|
 |**2025-10-30**|**MoME: Mixture of Visual Language Medical Experts for Medical Imaging Segmentation**|Arghavan Rezvani,...Xiaohui Xie|[2510.26996](http://arxiv.org/abs/2510.26996)|null|
 |**2025-10-30**|**MM-OPERA: Benchmarking Open-ended Association Reasoning for Large Vision-Language Models**|Zimeng Huang,...Ziliang Chen|[2510.26937](http://arxiv.org/abs/2510.26937)|null|
 |**2025-10-30**|**NaviTrace: Evaluating Embodied Navigation of Vision-Language Models**|Tim Windecker,...Jonas Frey|[2510.26909](http://arxiv.org/abs/2510.26909)|null|
 |**2025-10-30**|**Cognition Envelopes for Bounded AI Reasoning in Autonomous UAS Operations**|Pedro Antonio Alarcón Granadeno,...Jane Cleland-Huang|[2510.26905](http://arxiv.org/abs/2510.26905)|null|
 |**2025-10-30**|**Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench**|Fenfen Lin,...Xi Yang|[2510.26865](http://arxiv.org/abs/2510.26865)|**[link](https://flageval-baai.github.io/MeasureBenchPage/)**|
-|**2025-10-30**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Aniruddh Bansal,...Tianyi Zhou|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
+|**2025-11-03**|**ChartAB: A Benchmark for Chart Grounding & Dense Alignment**|Aniruddh Bansal,...Tianyi Zhou|[2510.26781](http://arxiv.org/abs/2510.26781)|null|
 |**2025-10-30**|**SteerVLM: Robust Model Control through Lightweight Activation Steering for Vision Language Models**|Anushka Sivakumar,...Chris Thomas|[2510.26769](http://arxiv.org/abs/2510.26769)|null|
 |**2025-10-30**|**All You Need for Object Detection: From Pixels, Points, and Prompts to Next-Gen Fusion and Multimodal LLMs/VLMs in Autonomous Vehicles**|Sayed Pedram Haeri Boroujeni,...Abolfazl Razi|[2510.26641](http://arxiv.org/abs/2510.26641)|null|
 |**2025-10-30**|**Counteracting Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing**|Xin Guo,...Xuanjing Huang|[2510.26474](http://arxiv.org/abs/2510.26474)|null|
-|**2025-10-30**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|Pei Peng,...ShengJun Huang|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
+|**2025-11-03**|**Representation-Level Counterfactual Calibration for Debiased Zero-Shot Recognition**|Pei Peng,...ShengJun Huang|[2510.26466](http://arxiv.org/abs/2510.26466)|null|
 |**2025-10-30**|**Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection**|Yuanting Fan,...Chengjie Wang|[2510.26464](http://arxiv.org/abs/2510.26464)|null|
 |**2025-10-30**|**A-TPT: Angular Diversity Calibration Properties for Test-Time Prompt Tuning of Vision-Language Models**|Shihab Aaqil Ahamed,...Muhammad Haris Khan|[2510.26441](http://arxiv.org/abs/2510.26441)|null|
 |**2025-10-30**|**MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders**|Riccardo Renzulli,...Marco Grangetto|[2510.26411](http://arxiv.org/abs/2510.26411)|null|
@@ -649,7 +649,7 @@
 |**2025-10-29**|**NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies**|Jiahong Chen,...Jinghui Lu|[2510.25122](http://arxiv.org/abs/2510.25122)|null|
 |**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Zhaoshu Yu,...Heng Tao Shen|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
 |**2025-10-28**|**BLM $_1$ : A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning**|Wentao Tan,...Heng Tao Shen|[2510.24161](http://arxiv.org/abs/2510.24161)|null|
-|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang,...Xipeng Qiu|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-11-01**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang,...Xipeng Qiu|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**UrbanVLA: A Vision-Language-Action Model for Urban Micromobility**|Anqi Li,...He Wang|[2510.23576](http://arxiv.org/abs/2510.23576)|null|
 |**2025-10-27**|**Dexbotic: Open-Source Vision-Language-Action Toolbox**|Bin Xie,...Ziyu Zhang|[2510.23511](http://arxiv.org/abs/2510.23511)|**[link](https://dexbotic.com/.)**|
 |**2025-10-25**|**ACG: Action Coherence Guidance for Flow-based VLA models**|Minho Park,...Jaegul Choo|[2510.22201](http://arxiv.org/abs/2510.22201)|null|
@@ -775,7 +775,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-30**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Fan Yang,...Renkai Ma|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
+|**2025-11-01**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Fan Yang,...Renkai Ma|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Eunju Kwon,...Kyung-Joong Kim|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Yongtong Zhu,...Jianwei Zhang|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
 |**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Bo Yue,...Guiliang Liu|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
@@ -854,7 +854,7 @@
 |**2025-10-30**|**AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM**|Mirko Usuelli,...Matteo Matteucci|[2510.26358](http://arxiv.org/abs/2510.26358)|null|
 |**2025-10-30**|**6D Channel Knowledge Map Construction via Bidirectional Wireless Gaussian Splatting**|Juncong Zhou,...Jie Xu|[2510.26166](http://arxiv.org/abs/2510.26166)|null|
 |**2025-10-30**|**JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting**|Yuxuan Li,...Xianben Yang|[2510.26117](http://arxiv.org/abs/2510.26117)|null|
-|**2025-10-29**|**$D^2GS$ : Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction**|Kejing Xia,...Youjian Zhang|[2510.25173](http://arxiv.org/abs/2510.25173)|null|
+|**2025-11-02**|**D $^2$ GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction**|Kejing Xia,...Youjian Zhang|[2510.25173](http://arxiv.org/abs/2510.25173)|null|
 |**2025-10-29**|**AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians**|Xiyu Zhang,...Guofeng Zhang|[2510.25129](http://arxiv.org/abs/2510.25129)|**[link](https://zju3dv.github.io/AtlasGS/)**|
 |**2025-10-28**|**NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation**|Mingyu Jeong,...Andrew Jaeyong Choi|[2510.24335](http://arxiv.org/abs/2510.24335)|null|
 |**2025-10-28**|**LagMemo: Language 3D Gaussian Splatting Memory for Multi-modal Open-vocabulary Multi-goal Visual Navigation**|Haotian Zhou,...Huijing Zhao|[2510.24118](http://arxiv.org/abs/2510.24118)|null|
