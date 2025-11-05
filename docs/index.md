@@ -50,7 +50,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won,...Jinwoo Shin|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-11-04**|**Kosmos: An AI Scientist for Autonomous Discovery**|Ludovico Mitchener,...Andrew D. White|[2511.02824](http://arxiv.org/abs/2511.02824)|null|
+|**2025-11-04**|**Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning**|Farhad Rezazadeh,...Lingjia Liu|[2511.02748](http://arxiv.org/abs/2511.02748)|null|
+|**2025-11-04**|**LTD-Bench: Evaluating Large Language Models by Letting Them Draw**|Liuhao Lin,...Rongrong Ji|[2511.02347](http://arxiv.org/abs/2511.02347)|null|
+|**2025-11-04**|**Learning Interactive World Model for Object-Centric Reinforcement Learning**|Fan Feng,...Sara Magliacane|[2511.02225](http://arxiv.org/abs/2511.02225)|null|
+|**2025-10-31**|**A Step Toward World Models: A Survey on Robotic Manipulation**|Peng-Fei Zhang,...Heng Tao Shen|[2511.02097](http://arxiv.org/abs/2511.02097)|null|
+|**2025-11-03**|**Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling**|Lancelot Da Costa,...Bernhard Schölkopf|[2511.02091](http://arxiv.org/abs/2511.02091)|null|
+|**2025-11-03**|**How Far Are Surgeons from Surgical World Models? A Pilot Study on Zero-shot Surgical Video Generation with Expert Assessment**|Zhen Chen,...Jiebo Luo|[2511.01775](http://arxiv.org/abs/2511.01775)|null|
+|**2025-11-03**|**From Pixels to Cooperation Multi Agent Reinforcement Learning based on Multimodal World Models**|Sureyya Akin,...Rahu Srivastava|[2511.01310](http://arxiv.org/abs/2511.01310)|null|
+|**2025-11-03**|**Scaling Cross-Embodiment World Models for Dexterous Manipulation**|Zihao He,...Hao Su|[2511.01177](http://arxiv.org/abs/2511.01177)|null|
+|**2025-11-02**|**Continual Learning, Not Training: Online Adaptation For Agents**|Aman Jaglan,...Jarrod Barnes|[2511.01093](http://arxiv.org/abs/2511.01093)|null|
+|**2025-11-02**|**URDF-Anything: Constructing Articulated Objects with 3D Multimodal Language Model**|Zhe Li,...Shanghang Zhang|[2511.00940](http://arxiv.org/abs/2511.00940)|null|
+|**2025-11-01**|**Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations**|Qiang Li,...Lina Yu|[2511.00549](http://arxiv.org/abs/2511.00549)|null|
+|**2025-11-01**|**Bootstrap Off-policy with World Model**|Guojian Zhan,...Shengbo Eben Li|[2511.00423](http://arxiv.org/abs/2511.00423)|null|
+|**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won,...Jinwoo Shin|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-10-30**|**Jasmine: A Simple, Performant and Scalable JAX-based World Modeling Codebase**|Mihir Mahajan,...Stefan Bauer|[2510.27002](http://arxiv.org/abs/2510.27002)|**[link](https://pdoom.org/jasmine.html)**|
 |**2025-10-30**|**SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting**|Dongyue Lu,...Ziwei Liu|[2510.26796](http://arxiv.org/abs/2510.26796)|**[link](https://see-4d.github.io/)**|
 |**2025-10-30**|**Clone Deterministic 3D Worlds with Geometrically-Regularized World Models**|Zaishuo Xia,...Yubei Chen|[2510.26782](http://arxiv.org/abs/2510.26782)|null|
@@ -207,6 +220,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Shichao Fan,...Jian Tang|[2511.02776](http://arxiv.org/abs/2511.02776)|null|
+|**2025-11-04**|**Adapting General-Purpose Foundation Models for X-ray Ptychography in Low-Data Regimes**|Robinson Umeike,...Yi Jiang|[2511.02503](http://arxiv.org/abs/2511.02503)|null|
+|**2025-11-04**|**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**|Jiahe Song,...Conghui He|[2511.02384](http://arxiv.org/abs/2511.02384)|null|
+|**2025-11-04**|**The Pervasive Blind Spot: Benchmarking VLM Inference Risks on Everyday Personal Videos**|Shuning Zhang,...Hewu Li|[2511.02367](http://arxiv.org/abs/2511.02367)|null|
+|**2025-11-04**|**CoCoVa: Chain of Continuous Vision-Language Thought for Latent Space Reasoning**|Jizheng Ma,...Han Yan|[2511.02360](http://arxiv.org/abs/2511.02360)|null|
+|**2025-11-04**|**LACY: A Vision-Language Model-based Language-Action Cycle for Self-Improving Robotic Manipulation**|Youngjin Hong,...Changhyun Choi|[2511.02239](http://arxiv.org/abs/2511.02239)|**[link](https://vla2026.github.io/LACY/)**|
+|**2025-11-04**|**Text to Robotic Assembly of Multi Component Objects using 3D Generative AI and Vision Language Models**|Alexander Htet Kyaw,...Randall Davis|[2511.02162](http://arxiv.org/abs/2511.02162)|null|
+|**2025-11-03**|**Enhancing Multimodal Recommendations with Vision-Language Models and Information-Aware Fusion**|Hai-Dang Kieu,...Dung D. Le|[2511.02113](http://arxiv.org/abs/2511.02113)|null|
+|**2025-11-03**|**TRACE: Textual Reasoning for Affordance Coordinate Extraction**|Sangyun Park,...Matthew S. Brown|[2511.01999](http://arxiv.org/abs/2511.01999)|null|
+|**2025-11-03**|**Black-Box Membership Inference Attack for LVLMs via Prior Knowledge-Calibrated Memory Probing**|Jinhua Yin,...Tao Qi|[2511.01952](http://arxiv.org/abs/2511.01952)|null|
+|**2025-11-04**|**Dynamic Routing Between Experts: A Data-Efficient Approach to Continual Learning in Vision-Language Models**|Jay Mohta,...Mingwei Shen|[2511.01831](http://arxiv.org/abs/2511.01831)|null|
+|**2025-11-03**|**SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art**|Sagi Eppel,...Alona Strugatski|[2511.01817](http://arxiv.org/abs/2511.01817)|null|
+|**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Feng Chen,...Yi Ma|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
+|**2025-11-03**|**3EED: Ground Everything Everywhere in 3D**|Rong Li,...Ziwei Liu|[2511.01755](http://arxiv.org/abs/2511.01755)|**[link](https://project-3eed.github.io/)**|
+|**2025-11-03**|**UniLumos: Fast and Unified Image and Video Relighting with Physics-Plausible Feedback**|Ropeway Liu,...Fan Wang|[2511.01678](http://arxiv.org/abs/2511.01678)|null|
+|**2025-11-03**|**Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers**|Mohamed Eltahir,...Naeemullah Khan|[2511.01617](http://arxiv.org/abs/2511.01617)|null|
+|**2025-11-03**|**Analyzing Sustainability Messaging in Large-Scale Corporate Social Media**|Ujjwal Sharma,...Marcel Worring|[2511.01550](http://arxiv.org/abs/2511.01550)|null|
+|**2025-11-03**|**AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models**|Sarthak Mishra,...Spandan Roy|[2511.01472](http://arxiv.org/abs/2511.01472)|null|
+|**2025-11-03**|**HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA**|Lei Hu,...Shihong Xia|[2511.01463](http://arxiv.org/abs/2511.01463)|null|
+|**2025-11-03**|**When to Trust the Answer: Question-Aligned Semantic Nearest Neighbor Entropy for Safer Surgical VQA**|Dennis Pierantozzi,...Mobarak I. Hoque|[2511.01458](http://arxiv.org/abs/2511.01458)|null|
 |**2025-10-31**|**PETAR: Localized Findings Generation with Mask-Aware Vision-Language Modeling for PET Automated Reporting**|Danyal Maqbool,...Tyler J. Bradshaw|[2510.27680](http://arxiv.org/abs/2510.27680)|null|
 |**2025-10-31**|**Spatial-SSRL: Enhancing Spatial Understanding via Self-Supervised Reinforcement Learning**|Yuhong Liu,...Jiaqi Wang|[2510.27606](http://arxiv.org/abs/2510.27606)|null|
 |**2025-10-31**|**From Pixels to Paths: A Multi-Agent Framework for Editable Scientific Illustration**|Jianwen Sun,...Kaipeng Zhang|[2510.27452](http://arxiv.org/abs/2510.27452)|null|
@@ -625,7 +658,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-31**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won,...Jinwoo Shin|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
+|**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze,...C. Karen Liu|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
+|**2025-11-04**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Shichao Fan,...Jian Tang|[2511.02776](http://arxiv.org/abs/2511.02776)|null|
+|**2025-11-01**|**iFlyBot-VLA Technical Report**|Yuan Zhang,...Jia Pan|[2511.01914](http://arxiv.org/abs/2511.01914)|null|
+|**2025-11-03**|**Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process**|Jiayi Chen,...Haoang Li|[2511.01718](http://arxiv.org/abs/2511.01718)|null|
+|**2025-11-03**|**PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model**|Wenqi Liang,...Yang Cong|[2511.01571](http://arxiv.org/abs/2511.01571)|null|
+|**2025-11-03**|**RobustVLA: Robustness-Aware Reinforcement Post-Training for Vision-Language-Action Models**|Hongyin Zhang,...Donglin Wang|[2511.01331](http://arxiv.org/abs/2511.01331)|null|
+|**2025-11-03**|**Embodiment Transfer Learning for Vision-Language-Action Models**|Chengmeng Li,...Yaxin Peng|[2511.01224](http://arxiv.org/abs/2511.01224)|null|
+|**2025-11-03**|**OmniVLA: Unifiying Multi-Sensor Perception for Physically-Grounded Multimodal VLA**|Heyu Guo,...Lili Qi|[2511.01210](http://arxiv.org/abs/2511.01210)|null|
+|**2025-10-31**|**End-to-End Dexterous Arm-Hand VLA Policies via Shared Autonomy: VR Teleoperation Augmented by Autonomous Hand VLA Policy for Efficient Data Collection**|Yu Cui,...Zhibin Li|[2511.00139](http://arxiv.org/abs/2511.00139)|null|
+|**2025-10-30**|**Self-Improving Vision-Language-Action Models with Data Generation via Residual RL**|Wenli Xiao,...Yuke Zhu|[2511.00091](http://arxiv.org/abs/2511.00091)|null|
+|**2025-10-30**|**Alpamayo-R1: Bridging Reasoning and Action Prediction for Generalizable Autonomous Driving in the Long Tail**|NVIDIA,...Marco Pavone|[2511.00088](http://arxiv.org/abs/2511.00088)|null|
+|**2025-11-04**|**Dual-Stream Diffusion for World-Model Augmented Vision-Language-Action Model**|John Won,...Jinwoo Shin|[2510.27607](http://arxiv.org/abs/2510.27607)|null|
 |**2025-10-31**|**EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities**|Travis Davies,...Luhui Hu|[2510.27545](http://arxiv.org/abs/2510.27545)|null|
 |**2025-10-30**|**RoboOS-NeXT: A Unified Memory-based Framework for Lifelong, Scalable, and Robust Multi-Robot Collaboration**|Huajie Tan,...Shanghang Zhang|[2510.26536](http://arxiv.org/abs/2510.26536)|null|
 |**2025-10-30**|**Human-in-the-loop Online Rejection Sampling for Robotic Manipulation**|Guanxing Lu,...Yansong Tang|[2510.26406](http://arxiv.org/abs/2510.26406)|null|
@@ -759,6 +803,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze,...C. Karen Liu|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
+|**2025-11-02**|**Heuristic Step Planning for Learning Dynamic Bipedal Locomotion: A Comparative Study of Model-Based and Model-Free Approaches**|William Suliman,...Roman Gorbachev|[2511.00840](http://arxiv.org/abs/2511.00840)|null|
+|**2025-10-31**|**EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations**|Justin Yu,...Philipp Wu|[2511.00153](http://arxiv.org/abs/2511.00153)|null|
 |**2025-11-01**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Fan Yang,...Renkai Ma|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Eunju Kwon,...Kyung-Joong Kim|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Yongtong Zhu,...Jianwei Zhang|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
@@ -828,6 +875,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz,...Tobias Kirschstein|[2511.02777](http://arxiv.org/abs/2511.02777)|**[link](https://antoniooroz.github.io/PercHead/)**|
+|**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li,...Zhaojian Li|[2511.02207](http://arxiv.org/abs/2511.02207)|null|
+|**2025-11-01**|**4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting**|Chun-Tin Wu,...Jun-Cheng Chen|[2511.00560](http://arxiv.org/abs/2511.00560)|null|
 |**2025-10-31**|**SAGS: Self-Adaptive Alias-Free Gaussian Splatting for Dynamic Surgical Endoscopic Reconstruction**|Wenfeng Huang,...Qiong Wang|[2510.27318](http://arxiv.org/abs/2510.27318)|null|
 |**2025-10-31**|**WildfireX-SLAM: A Large-scale Low-altitude RGB-D Dataset for Wildfire SLAM and Beyond**|Zhicong Sun,...Jinxing Hu|[2510.27133](http://arxiv.org/abs/2510.27133)|null|
 |**2025-10-30**|**DC4GS: Directional Consistency-Driven Adaptive Density Control for 3D Gaussian Splatting**|Moonsoo Jeong,...Sungkil Lee|[2510.26921](http://arxiv.org/abs/2510.26921)|**[link](https://github.com/cgskku/dc4gs)**|
