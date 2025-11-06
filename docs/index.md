@@ -50,7 +50,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-04**|**Kosmos: An AI Scientist for Autonomous Discovery**|Ludovico Mitchener,...Andrew D. White|[2511.02824](http://arxiv.org/abs/2511.02824)|null|
+|**2025-11-05**|**Indicating Robot Vision Capabilities with Augmented Reality**|Hong Wang,...Zhao Han|[2511.03550](http://arxiv.org/abs/2511.03550)|null|
+|**2025-11-04**|**WorldPlanner: Monte Carlo Tree Search and MPC with Action-Conditioned Visual World Models**|R. Khorrambakht,...Ludovic Righetti|[2511.03077](http://arxiv.org/abs/2511.03077)|null|
+|**2025-11-05**|**Kosmos: An AI Scientist for Autonomous Discovery**|Ludovico Mitchener,...Andrew D. White|[2511.02824](http://arxiv.org/abs/2511.02824)|null|
 |**2025-11-04**|**Agentic World Modeling for 6G: Near-Real-Time Generative State-Space Reasoning**|Farhad Rezazadeh,...Lingjia Liu|[2511.02748](http://arxiv.org/abs/2511.02748)|null|
 |**2025-11-04**|**LTD-Bench: Evaluating Large Language Models by Letting Them Draw**|Liuhao Lin,...Rongrong Ji|[2511.02347](http://arxiv.org/abs/2511.02347)|null|
 |**2025-11-04**|**Learning Interactive World Model for Object-Centric Reinforcement Learning**|Fan Feng,...Sara Magliacane|[2511.02225](http://arxiv.org/abs/2511.02225)|null|
@@ -220,6 +222,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**GUIDES: Guidance Using Instructor-Distilled Embeddings for Pre-trained Robot Policy Enhancement**|Minquan Gao,...Jiachen Li|[2511.03400](http://arxiv.org/abs/2511.03400)|null|
+|**2025-11-05**|**Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models**|Gahyeon Kim,...Seokju Lee|[2511.03367](http://arxiv.org/abs/2511.03367)|null|
+|**2025-11-04**|**LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied Environments with Tool Augmentation**|Gyeom Hwangbo,...Jinyoung Yeo|[2511.03001](http://arxiv.org/abs/2511.03001)|null|
+|**2025-11-04**|**SCALE-VLP: Soft-Weighted Contrastive Volumetric Vision-Language Pre-training with Spatial-Knowledge Semantics**|Ailar Mahdizadeh,...Leonid Sigal|[2511.02996](http://arxiv.org/abs/2511.02996)|null|
 |**2025-11-04**|**XR-1: Towards Versatile Vision-Language-Action Models via Learning Unified Vision-Motion Representations**|Shichao Fan,...Jian Tang|[2511.02776](http://arxiv.org/abs/2511.02776)|null|
 |**2025-11-04**|**Adapting General-Purpose Foundation Models for X-ray Ptychography in Low-Data Regimes**|Robinson Umeike,...Yi Jiang|[2511.02503](http://arxiv.org/abs/2511.02503)|null|
 |**2025-11-04**|**RxnCaption: Reformulating Reaction Diagram Parsing as Visual Prompt Guided Captioning**|Jiahe Song,...Conghui He|[2511.02384](http://arxiv.org/abs/2511.02384)|null|
@@ -803,13 +809,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**OneOcc: Semantic Occupancy Prediction for Legged Robots with a Single Panoramic Camera**|Hao Shi,...Kaiwei Wang|[2511.03571](http://arxiv.org/abs/2511.03571)|**[link](https://github.com/MasterHow/OneOcc)**|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze,...C. Karen Liu|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
 |**2025-11-02**|**Heuristic Step Planning for Learning Dynamic Bipedal Locomotion: A Comparative Study of Model-Based and Model-Free Approaches**|William Suliman,...Roman Gorbachev|[2511.00840](http://arxiv.org/abs/2511.00840)|null|
 |**2025-10-31**|**EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations**|Justin Yu,...Philipp Wu|[2511.00153](http://arxiv.org/abs/2511.00153)|null|
 |**2025-11-01**|**Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse**|Fan Yang,...Renkai Ma|[2510.26082](http://arxiv.org/abs/2510.26082)|null|
 |**2025-10-28**|**A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation**|Eunju Kwon,...Kyung-Joong Kim|[2510.25725](http://arxiv.org/abs/2510.25725)|null|
 |**2025-10-27**|**Awakening Facial Emotional Expressions in Human-Robot**|Yongtong Zhu,...Jianwei Zhang|[2510.23059](http://arxiv.org/abs/2510.23059)|null|
-|**2025-10-25**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Bo Yue,...Guiliang Liu|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
+|**2025-11-05**|**Toward Humanoid Brain-Body Co-design: Joint Optimization of Control and Morphology for Fall Recovery**|Bo Yue,...Guiliang Liu|[2510.22336](http://arxiv.org/abs/2510.22336)|null|
 |**2025-10-21**|**SLICE: SLO-Driven Scheduling for LLM Inference on Edge Computing Devices**|Pan Zhou,...Yueyue Dai|[2510.18544](http://arxiv.org/abs/2510.18544)|null|
 |**2025-10-20**|**Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints**|Junli Ren,...Jiangmiao Pang|[2510.18002](http://arxiv.org/abs/2510.18002)|null|
 |**2025-10-20**|**SoftMimic: Learning Compliant Whole-body Control from Examples**|Gabriel B. Margolis,...Pulkit Agrawal|[2510.17792](http://arxiv.org/abs/2510.17792)|**[link](https://gmargo11.github.io/softmimic/)**|
@@ -875,6 +882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-05**|**DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs**|Yiyi Miao,...Jionglong Su|[2511.03099](http://arxiv.org/abs/2511.03099)|null|
 |**2025-11-04**|**PercHead: Perceptual Head Model for Single-Image 3D Head Reconstruction & Editing**|Antonio Oroz,...Tobias Kirschstein|[2511.02777](http://arxiv.org/abs/2511.02777)|**[link](https://antoniooroz.github.io/PercHead/)**|
 |**2025-11-04**|**Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping**|Jiajia Li,...Zhaojian Li|[2511.02207](http://arxiv.org/abs/2511.02207)|null|
 |**2025-11-01**|**4D Neural Voxel Splatting: Dynamic Scene Rendering with Voxelized Guassian Splatting**|Chun-Tin Wu,...Jun-Cheng Chen|[2511.00560](http://arxiv.org/abs/2511.00560)|null|
