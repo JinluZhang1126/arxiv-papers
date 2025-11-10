@@ -50,6 +50,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Entanglement, defects, and $T\bar{T}$ on a black hole background**|Ankur Dey,...Ankur Dey|[2511.05256](http://arxiv.org/abs/2511.05256)|null|
+|**2025-11-06**|**Grounded Test-Time Adaptation for LLM Agents**|Arthur Chen,...Caiming Xiong|[2511.04847](http://arxiv.org/abs/2511.04847)|null|
 |**2025-11-06**|**Cambrian-S: Towards Spatial Supersensing in Video**|Shusheng Yang,...Saining Xie|[2511.04670](http://arxiv.org/abs/2511.04670)|**[link](https://cambrian-mllm.github.io/)**|
 |**2025-11-06**|**DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration**|Narjes Nourzad,...Carlee Joe-Wong|[2511.04646](http://arxiv.org/abs/2511.04646)|null|
 |**2025-11-06**|**LLM-as-a-Judge: Toward World Models for Slate Recommendation Systems**|Baptiste Bonin,...Audrey Durand|[2511.04541](http://arxiv.org/abs/2511.04541)|null|
@@ -226,12 +228,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Visual Spatial Tuning**|Rui Yang,...Hengshuang Zhao|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
+|**2025-11-07**|**Turning Adversaries into Allies: Reversing Typographic Attacks for Multimodal E-Commerce Product Retrieval**|Janet Jenq,...Hongda Shen|[2511.05325](http://arxiv.org/abs/2511.05325)|null|
+|**2025-11-07**|**Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings**|Aakriti Agrawal,...Furong Huang|[2511.05017](http://arxiv.org/abs/2511.05017)|null|
+|**2025-11-07**|**iFlyBot-VLM Technical Report**|Xin Nie,...Jia Pan|[2511.04976](http://arxiv.org/abs/2511.04976)|null|
+|**2025-11-07**|**A benchmark multimodal oro-dental dataset for large vision-language models**|Haoxin Lv,...Muhammad Saqib|[2511.04948](http://arxiv.org/abs/2511.04948)|null|
+|**2025-11-06**|**Conformalized Non-uniform Sampling Strategies for Accelerated Sampling-based Motion Planning**|Shubham Natraj,...Yiannis Kantaros|[2511.04835](http://arxiv.org/abs/2511.04835)|null|
+|**2025-11-06**|**IndicVisionBench: Benchmarking Cultural and Multilingual Understanding in VLMs**|Ali Faraz,...Shubham Agarwal|[2511.04727](http://arxiv.org/abs/2511.04727)|null|
+|**2025-11-05**|**SWAP: Towards Copyright Auditing of Soft Prompts via Sequential Watermarking**|Wenyuan Yang,...Dacheng Tao|[2511.04711](http://arxiv.org/abs/2511.04711)|null|
 |**2025-11-06**|**SAFe-Copilot: Unified Shared Autonomy Framework**|Phat Nguyen,...Daniela Rus|[2511.04664](http://arxiv.org/abs/2511.04664)|null|
 |**2025-11-06**|**Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm**|Jingqi Tong,...Xipeng Qiu|[2511.04570](http://arxiv.org/abs/2511.04570)|null|
 |**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin,...Bo Zhao|[2511.04555](http://arxiv.org/abs/2511.04555)|**[link](https://github.com/MINT-SJTU/Evo-1)**|
-|**2025-11-06**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|Surapon Nonesung,...Kunat Pipatanakul|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
+|**2025-11-07**|**ThaiOCRBench: A Task-Diverse Benchmark for Vision-Language Understanding in Thai**|Surapon Nonesung,...Kunat Pipatanakul|[2511.04479](http://arxiv.org/abs/2511.04479)|null|
 |**2025-11-06**|**GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents**|Jian Mu,...Dongmei Zhang|[2511.04307](http://arxiv.org/abs/2511.04307)|null|
-|**2025-11-06**|**On the Brittleness of CLIP Text Encoders**|Allie Tran,...Luca Rossetto|[2511.04247](http://arxiv.org/abs/2511.04247)|null|
+|**2025-11-07**|**On the Brittleness of CLIP Text Encoders**|Allie Tran,...Luca Rossetto|[2511.04247](http://arxiv.org/abs/2511.04247)|**[link](https://github.com/allie-tran/clip-brittleness)**|
 |**2025-11-06**|**Text to Sketch Generation with Multi-Styles**|Tengjie Li,...Lei Xu|[2511.04123](http://arxiv.org/abs/2511.04123)|null|
 |**2025-11-05**|**Context informs pragmatic interpretation in vision-language models**|Alvin Wei Ming Tan,...Michael C. Frank|[2511.03908](http://arxiv.org/abs/2511.03908)|null|
 |**2025-11-05**|**Contamination Detection for VLMs using Multi-Modal Semantic Perturbation**|Jaden Park,...Yong Jae Lee|[2511.03774](http://arxiv.org/abs/2511.03774)|null|
@@ -677,6 +687,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Visual Spatial Tuning**|Rui Yang,...Hengshuang Zhao|[2511.05491](http://arxiv.org/abs/2511.05491)|null|
+|**2025-11-07**|**EveryDayVLA: A Vision-Language-Action Model for Affordable Robotic Manipulation**|Samarth Chopra,...Samuel Dickerson|[2511.05397](http://arxiv.org/abs/2511.05397)|null|
+|**2025-11-07**|**TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models**|Hokyun Im,...Youngwoon Lee|[2511.05275](http://arxiv.org/abs/2511.05275)|**[link](https://jellyho.github.io/TwinVLA/)**|
 |**2025-11-06**|**Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment**|Tao Lin,...Bo Zhao|[2511.04555](http://arxiv.org/abs/2511.04555)|**[link](https://github.com/MINT-SJTU/Evo-1)**|
 |**2025-11-06**|**GraSP-VLA: Graph-based Symbolic Action Representation for Long-Horizon Planning with VLA Policies**|Maëlic Neau,...Cédric Buche|[2511.04357](http://arxiv.org/abs/2511.04357)|null|
 |**2025-11-04**|**TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System**|Yanjie Ze,...C. Karen Liu|[2511.02832](http://arxiv.org/abs/2511.02832)|**[link](https://yanjieze.com/TWIST2)**|
@@ -824,6 +837,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**ScheduleStream: Temporal Planning with Samplers for GPU-Accelerated Multi-Arm Task and Motion Planning & Scheduling**|Caelan Garrett,...Fabio Ramos|[2511.04758](http://arxiv.org/abs/2511.04758)|**[link](https://schedulestream.github.io)**|
 |**2025-11-06**|**GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction**|Qingzhou Lu,...C. Karen Liu|[2511.04679](http://arxiv.org/abs/2511.04679)|**[link](https://gentle-humanoid.axell.top)**|
 |**2025-11-06**|**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**|Yitang Li,...Guanya Shi|[2511.04131](http://arxiv.org/abs/2511.04131)|null|
 |**2025-11-06**|**Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots**|Yushi Wang,...Mingguo Zhao|[2511.03996](http://arxiv.org/abs/2511.03996)|**[link](https://humanoid-kick.github.io)**|
@@ -900,6 +914,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos**|Mengqi Guo,...Gim Hee Lee|[2511.05229](http://arxiv.org/abs/2511.05229)|null|
+|**2025-11-07**|**Splatography: Sparse multi-view dynamic Gaussian Splatting for filmmaking challenges**|Adrian Azzarelli,...David R Bull|[2511.05152](http://arxiv.org/abs/2511.05152)|null|
+|**2025-11-07**|**Efficient representation of 3D spatial data for defense-related applications**|Benjamin Kahl,...Michael Arens|[2511.05109](http://arxiv.org/abs/2511.05109)|null|
+|**2025-11-07**|**CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting**|Hexu Zhao,...Aurojit Panda|[2511.04951](http://arxiv.org/abs/2511.04951)|null|
+|**2025-11-07**|**Channel Knowledge Map Construction: Recent Advances and Open Challenges**|Zixiang Ren,...Rui Zhang|[2511.04944](http://arxiv.org/abs/2511.04944)|null|
+|**2025-11-06**|**3D Gaussian Point Encoders**|Jim James,...James Hays|[2511.04797](http://arxiv.org/abs/2511.04797)|null|
 |**2025-11-06**|**Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions**|Kaifeng Zhang,...Yunzhu Li|[2511.04665](http://arxiv.org/abs/2511.04665)|**[link](https://real2sim-eval.github.io/)**|
 |**2025-11-06**|**FastGS: Training 3D Gaussian Splatting in 100 Seconds**|Shiwei Ren,...Biao Lu|[2511.04283](http://arxiv.org/abs/2511.04283)|**[link](https://fastgs.github.io/)**|
 |**2025-11-06**|**CaRF: Enhancing Multi-View Consistency in Referring 3D Gaussian Splatting Segmentation**|Yuwen Tao,...Yuan Xie|[2511.03992](http://arxiv.org/abs/2511.03992)|null|
