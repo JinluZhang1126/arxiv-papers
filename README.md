@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-12**|**Simulating the Visual World with Artificial Intelligence: A Roadmap**|Jingtong Yue,...Ziwei Liu|[2511.08585](http://arxiv.org/abs/2511.08585)|**[link](https://world-model-roadmap.github.io/)**|
 |**2025-11-10**|**Robot Learning from a Physical World Model**|Jiageng Mao,...Yue Wang|[2511.07416](http://arxiv.org/abs/2511.07416)|**[link](https://pointscoder.github.io/PhysWorld_Web/)**|
 |**2025-11-10**|**SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards**|Hunar Batra,...Ronald Clark|[2511.07403](http://arxiv.org/abs/2511.07403)|null|
 |**2025-11-10**|**StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation**|Tianrui Feng,...Chenfeng Xu|[2511.07399](http://arxiv.org/abs/2511.07399)|**[link](http://streamdiffusionv2.github.io)**|
