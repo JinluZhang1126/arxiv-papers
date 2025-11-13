@@ -923,7 +923,7 @@ layout: default
 |**2025-09-11**|**LLaDA-VLA: Vision Language Diffusion Action Models**|Yuqing Wen,...Xiaoyan Sun|[2509.06932](http://arxiv.org/abs/2509.06932)|null|
 |**2025-09-09**|**Leveraging Vision-Language Large Models for Interpretable Video Action Recognition with Semantic Tokenization**|Jingwei Peng,...Surasakdi Siripong|[2509.05695](http://arxiv.org/abs/2509.05695)|null|
 |**2025-10-02**|**CogVLA: Cognition-Aligned Vision-Language-Action Model via Instruction-Driven Routing & Sparsification**|Wei Li,...Liqiang Nie|[2508.21046](http://arxiv.org/abs/2508.21046)|**[link](https://jiutian-vl.github.io/CogVLA-page)**|
-|**2025-08-22**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Haoran Li,...Dongbin Zhao|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
+|**2025-11-13**|**Survey of Vision-Language-Action Models for Embodied Manipulation**|Haoran Li,...Dongbin Zhao|[2508.15201](http://arxiv.org/abs/2508.15201)|null|
 |**2025-08-06**|**Following Route Instructions using Large Vision-Language Models: A Comparison between Low-level and Panoramic Action Spaces**|Vebjørn Haug Kåsene,...Pierre Lison|[2508.02917](http://arxiv.org/abs/2508.02917)|null|
 |**2025-10-06**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin,...Yanzhi Wang|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-03**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong,...Yaodong Yang|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
