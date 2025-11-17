@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**SimTac: A Physics-Based Simulator for Vision-Based Tactile Sensing with Biomorphic Structures**|Xuyang Zhang,...Shan Luo|[2511.11456](http://arxiv.org/abs/2511.11456)|null|
+|**2025-11-14**|**Dexterous Manipulation Transfer via Progressive Kinematic-Dynamic Alignment**|Wenbin Bai,...Yi Sun|[2511.10987](http://arxiv.org/abs/2511.10987)|null|
+|**2025-11-13**|**Advanced Tool for Traffic Crash Analysis: An AI-Driven Multi-Agent Approach to Pre-Crash Reconstruction**|Gerui Xu,...Shan Bao|[2511.10853](http://arxiv.org/abs/2511.10853)|null|
 |**2025-11-13**|**Dynamic Avatar-Scene Rendering from Human-centric Context**|Wenqing Wang,...Xiatian Zhu|[2511.10539](http://arxiv.org/abs/2511.10539)|null|
 |**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang,...Diji Yang|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
 |**2025-11-13**|**Learning a Thousand Tasks in a Day**|Kamil Dreczkowski,...Edward Johns|[2511.10110](http://arxiv.org/abs/2511.10110)|**[link](https://www.science.org/doi/10.1126/scirobotics.adv7594.)**|
@@ -87,6 +90,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning**|Afra Feyza Akyürek,...Yunzhong He|[2511.11562](http://arxiv.org/abs/2511.11562)|null|
+|**2025-11-14**|**Scalable Policy Evaluation with Video World Models**|Wei-Cheng Tseng,...Lin Yen-Chen|[2511.11520](http://arxiv.org/abs/2511.11520)|null|
+|**2025-11-14**|**SynthSoM-Twin: A Multi-Modal Sensing-Communication Digital-Twin Dataset for Sim2Real Transfer via Synesthesia of Machines**|Junlong Chen,...Liuqing Yang|[2511.11503](http://arxiv.org/abs/2511.11503)|null|
+|**2025-11-14**|**Proactive Hearing Assistants that Isolate Egocentric Conversations**|Guilin Hu,...Shyamnath Gollakota|[2511.11473](http://arxiv.org/abs/2511.11473)|null|
+|**2025-11-14**|**Sat2RealCity: Geometry-Aware and Appearance-Controllable 3D Urban Generation from Satellite Imagery**|Yijie Kang,...Hailong Zhu|[2511.11470](http://arxiv.org/abs/2511.11470)|null|
+|**2025-11-14**|**MoCap2Radar: A Spatiotemporal Transformer for Synthesizing Micro-Doppler Radar Signatures from Motion Capture**|Kevin Chen,...Anish Arora|[2511.11462](http://arxiv.org/abs/2511.11462)|null|
+|**2025-11-14**|**FairReweighing: Density Estimation-Based Reweighing Framework for Improving Separation in Fair Regression**|Xiaoyin Xi,...Zhe Yu|[2511.11459](http://arxiv.org/abs/2511.11459)|null|
+|**2025-11-14**|**VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation**|Maximilian Rokuss,...Klaus Maier-Hein|[2511.11450](http://arxiv.org/abs/2511.11450)|null|
+|**2025-11-14**|**From Synthetic Scenes to Real Performance: Enhancing Spatial Reasoning in VLMs**|Massimo Rizzoli,...Giuseppe Riccardi|[2511.11440](http://arxiv.org/abs/2511.11440)|null|
+|**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu,...Wenqiang Lei|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
+|**2025-11-14**|**WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation**|Wei Chow,...Tat-Seng Chua|[2511.11434](http://arxiv.org/abs/2511.11434)|null|
+|**2025-11-14**|**Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis**|Feng-Qi Cui,...Meng Wang|[2511.11406](http://arxiv.org/abs/2511.11406)|null|
+|**2025-11-14**|**Robust and Efficient Communication in Multi-Agent Reinforcement Learning**|Zejiao Liu,...Yang Tang|[2511.11393](http://arxiv.org/abs/2511.11393)|null|
+|**2025-11-14**|**KarmaTS: A Universal Simulation Platform for Multivariate Time Series with Functional Causal Dynamics**|Haixin Li,...Diego Paez-Granados|[2511.11357](http://arxiv.org/abs/2511.11357)|null|
+|**2025-11-14**|**Extreme-PLS with missing data under weak dependence**|Stéphane Girard,...Cambyse Pakzad|[2511.11338](http://arxiv.org/abs/2511.11338)|null|
+|**2025-11-14**|**RLSLM: A Hybrid Reinforcement Learning Framework Aligning Rule-Based Social Locomotion Model with Human Social Norms**|Yitian Kou,...Shuguang Kuai|[2511.11323](http://arxiv.org/abs/2511.11323)|null|
+|**2025-11-14**|**LAET: A Layer-wise Adaptive Ensemble Tuning Framework for Pretrained Language Models**|Jawad Ibn Ahad,...Shafin Rahman|[2511.11315](http://arxiv.org/abs/2511.11315)|null|
+|**2025-11-14**|**Experiences from Benchmarking Vision-Language-Action Models for Robotic Manipulation**|Yihao Zhang,...Xi Zheng|[2511.11298](http://arxiv.org/abs/2511.11298)|null|
+|**2025-11-14**|**Decomposing Direct and Indirect Biases in Linear Models under Demographic Parity Constraint**|Bertille Tierny,...François Hu|[2511.11294](http://arxiv.org/abs/2511.11294)|null|
+|**2025-11-14**|**D-GAP: Improving Out-of-Domain Robustness via Dataset-Agnostic and Gradient-Guided Augmentation in Amplitude and Pixel Spaces**|Ruoqi Wang,...Qiong Luo|[2511.11286](http://arxiv.org/abs/2511.11286)|null|
 |**2025-11-13**|**Querying Labeled Time Series Data with Scenario Programs**|Edward Kim,...Sanjit A Seshia|[2511.10627](http://arxiv.org/abs/2511.10627)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel,...Pawan Goyal|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
 |**2025-11-13**|**Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs**|Miles Wang-Henderson,...John Parkhill|[2511.10590](http://arxiv.org/abs/2511.10590)|null|
@@ -311,6 +334,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**DocLens : A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**|Dawei Zhu,...Jinsung Yoon|[2511.11552](http://arxiv.org/abs/2511.11552)|null|
+|**2025-11-14**|**Bridging Hidden States in Vision-Language Models**|Benjamin Fein-Ashley,...Jacob Fein-Ashley|[2511.11526](http://arxiv.org/abs/2511.11526)|null|
+|**2025-11-14**|**Collaborative Representation Learning for Alignment of Tactile, Language, and Vision Modalities**|Yiyun Zhou,...Jingyuan Chen|[2511.11512](http://arxiv.org/abs/2511.11512)|null|
+|**2025-11-14**|**PAS : Prelim Attention Score for Detecting Object Hallucinations in Large Vision--Language Models**|Nhat Hoang-Xuan,...Manish Bhattarai|[2511.11502](http://arxiv.org/abs/2511.11502)|null|
+|**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung,...Ngan Le|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
+|**2025-11-14**|**Benchmarking Visual LLMs Resilience to Unanswerable Questions on Visually Rich Documents**|Davide Napolitano,...Fabrizio Battiloro|[2511.11468](http://arxiv.org/abs/2511.11468)|null|
+|**2025-11-14**|**VoxTell: Free-Text Promptable Universal 3D Medical Image Segmentation**|Maximilian Rokuss,...Klaus Maier-Hein|[2511.11450](http://arxiv.org/abs/2511.11450)|null|
+|**2025-11-14**|**From Synthetic Scenes to Real Performance: Enhancing Spatial Reasoning in VLMs**|Massimo Rizzoli,...Giuseppe Riccardi|[2511.11440](http://arxiv.org/abs/2511.11440)|null|
+|**2025-11-14**|**VP-Bench: A Comprehensive Benchmark for Visual Prompting in Multimodal Large Language Models**|Mingjie Xu,...Wenqiang Lei|[2511.11438](http://arxiv.org/abs/2511.11438)|null|
+|**2025-11-14**|**Comprehension of Multilingual Expressions Referring to Target Objects in Visual Inputs**|Francisco Nogueira,...Bruno Martins|[2511.11427](http://arxiv.org/abs/2511.11427)|null|
+|**2025-11-14**|**BOFA: Bridge-Layer Orthogonal Low-Rank Fusion for CLIP-Based Class-Incremental Learning**|Lan Li,...De-Chuan Zhan|[2511.11421](http://arxiv.org/abs/2511.11421)|null|
+|**2025-11-14**|**Q-Doc: Benchmarking Document Image Quality Assessment Capabilities in Multi-modal Large Language Models**|Jiaxi Huang,...Baoliang Chen|[2511.11410](http://arxiv.org/abs/2511.11410)|null|
+|**2025-11-14**|**MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model**|Manyu Li,...Bo Yan|[2511.11407](http://arxiv.org/abs/2511.11407)|null|
+|**2025-11-14**|**DocSLM: A Small Vision-Language Model for Long Multimodal Document Understanding**|Tanveer Hannan,...Sunando Sengupta|[2511.11313](http://arxiv.org/abs/2511.11313)|null|
+|**2025-11-14**|**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment**|Ruoxi Cheng,...Hongyi Zhang|[2511.11301](http://arxiv.org/abs/2511.11301)|null|
+|**2025-11-14**|**AUVIC: Adversarial Unlearning of Visual Concepts for Multi-modal Large Language Models**|Haokun Chen,...Volker Tresp|[2511.11299](http://arxiv.org/abs/2511.11299)|**[link](https://github.com/HaokunChen245/AUVIC)**|
+|**2025-11-14**|**Experiences from Benchmarking Vision-Language-Action Models for Robotic Manipulation**|Yihao Zhang,...Xi Zheng|[2511.11298](http://arxiv.org/abs/2511.11298)|null|
+|**2025-11-14**|**GraphPilot: Grounded Scene Graph Conditioning for Language-Based Autonomous Driving**|Fabian Schmidt,...Abhinav Valada|[2511.11266](http://arxiv.org/abs/2511.11266)|null|
+|**2025-11-14**|**Discovering Meaningful Units with Visually Grounded Semantics from Image Captions**|Melika Behjati,...James Henderson|[2511.11262](http://arxiv.org/abs/2511.11262)|null|
+|**2025-11-14**|**CountSteer: Steering Attention for Object Counting in Diffusion Models**|Hyemin Boo,...Hyunsoo Cho|[2511.11253](http://arxiv.org/abs/2511.11253)|null|
 |**2025-11-13**|**Enhancing the Outcome Reward-based RL Training of MLLMs with Self-Consistency Sampling**|Jiahao Wang,...Jinguo Zhu|[2511.10648](http://arxiv.org/abs/2511.10648)|null|
 |**2025-11-13**|**Querying Labeled Time Series Data with Scenario Programs**|Edward Kim,...Sanjit A Seshia|[2511.10627](http://arxiv.org/abs/2511.10627)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel,...Pawan Goyal|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
@@ -830,8 +873,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Rethinking Progression of Memory State in Robotic Manipulation: An Object-Centric Perspective**|Nhat Chung,...Ngan Le|[2511.11478](http://arxiv.org/abs/2511.11478)|null|
+|**2025-11-14**|**EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment**|Ruoxi Cheng,...Hongyi Zhang|[2511.11301](http://arxiv.org/abs/2511.11301)|null|
+|**2025-11-14**|**Experiences from Benchmarking Vision-Language-Action Models for Robotic Manipulation**|Yihao Zhang,...Xi Zheng|[2511.11298](http://arxiv.org/abs/2511.11298)|null|
+|**2025-11-14**|**AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation**|Jinxuan Zhu,...Lin Shao|[2511.11052](http://arxiv.org/abs/2511.11052)|null|
+|**2025-11-14**|**DEFT-LLM: Disentangled Expert Feature Tuning for Micro-Expression Recognition**|Ren Zhang,...Jianqin Yin|[2511.10948](http://arxiv.org/abs/2511.10948)|null|
 |**2025-11-13**|**Towards Blind and Low-Vision Accessibility of Lightweight VLMs and Custom LLM-Evals**|Shruti Singh Baghel,...Pawan Goyal|[2511.10615](http://arxiv.org/abs/2511.10615)|null|
-|**2025-11-13**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded**|Haosong Peng,...Ziwei Liu|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://livioni.github.io/OmniVGGT-offcial/)**|
+|**2025-11-14**|**OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**|Haosong Peng,...Ziwei Liu|[2511.10560](http://arxiv.org/abs/2511.10560)|**[link](https://livioni.github.io/OmniVGGT-official/)**|
 |**2025-11-13**|**SemanticVLA: Semantic-Aligned Sparsification and Enhancement for Efficient Robotic Manipulation**|Wei Li,...Liqiang Nie|[2511.10518](http://arxiv.org/abs/2511.10518)|**[link](https://github.com/JiuTian-VL/SemanticVLA)**|
 |**2025-11-13**|**Facial-R1: Aligning Reasoning and Recognition for Facial Emotion Analysis**|Jiulong Wu,...Min Cao|[2511.10254](http://arxiv.org/abs/2511.10254)|null|
 |**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye,...Zitong Yu|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
@@ -1021,6 +1069,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning**|Chenhao Liu,...Xiaoyu Ren|[2511.11218](http://arxiv.org/abs/2511.11218)|null|
 |**2025-11-13**|**DecARt Leg: Design and Evaluation of a Novel Humanoid Robot Leg with Decoupled Actuation for Agile Locomotion**|Egor Davydenko,...Roman Gorbachev|[2511.10021](http://arxiv.org/abs/2511.10021)|null|
 |**2025-11-12**|**SPIDER: Scalable Physics-Informed Dexterous Retargeting**|Chaoyi Pan,...Francois Hogan|[2511.09484](http://arxiv.org/abs/2511.09484)|**[link](https://jc-bao.github.io/spider-project/)**|
 |**2025-11-12**|**Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots**|Yuxi Wei,...Siheng Chen|[2511.09241](http://arxiv.org/abs/2511.09241)|null|
@@ -1129,6 +1178,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-14**|**3D Gaussian and Diffusion-Based Gaze Redirection**|Abiram Panchalingam,...Stuart Middleton|[2511.11231](http://arxiv.org/abs/2511.11231)|null|
+|**2025-11-14**|**RealisticDreamer: Guidance Score Distillation for Few-shot Gaussian Splatting**|Ruocheng Wu,...Bihan Wen|[2511.11213](http://arxiv.org/abs/2511.11213)|null|
+|**2025-11-14**|**Dynamic Gaussian Scene Reconstruction from Unsynchronized Videos**|Zhixin Xu,...Bin Wang|[2511.11175](http://arxiv.org/abs/2511.11175)|null|
+|**2025-11-14**|**PINGS-X: Physics-Informed Normalized Gaussian Splatting with Axes Alignment for Efficient Super-Resolution of 4D Flow MRI**|Sun Jo,...Je Hyeong Hong|[2511.11048](http://arxiv.org/abs/2511.11048)|null|
 |**2025-11-13**|**Depth-Consistent 3D Gaussian Splatting via Physical Defocus Modeling and Multi-View Geometric Supervision**|Yu Deng,...Qi Liu|[2511.10316](http://arxiv.org/abs/2511.10316)|null|
 |**2025-11-13**|**TSPE-GS: Probabilistic Depth Extraction for Semi-Transparent Surface Reconstruction via 3D Gaussian Splatting**|Zhiyuan Xu,...Tong Wei|[2511.09944](http://arxiv.org/abs/2511.09944)|null|
 |**2025-11-13**|**AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting**|Aymen Mir,...Bing Zhou|[2511.09827](http://arxiv.org/abs/2511.09827)|null|
