@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.11.22
+## Updated on 2025.11.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori,...Jonathan Le Roux|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
+|**2025-11-21**|**RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis**|Linfeng Dong,...Xiao Sun|[2511.17045](http://arxiv.org/abs/2511.17045)|null|
+|**2025-11-21**|**FingerCap: Fine-grained Finger-level Hand Motion Captioning**|Xin Shen,...Xin Yu|[2511.16951](http://arxiv.org/abs/2511.16951)|null|
+|**2025-11-20**|**BOP-ASK: Object-Interaction Reasoning for Vision-Language Models**|Vineet Bhat,...Jonathan Tremblay|[2511.16857](http://arxiv.org/abs/2511.16857)|null|
+|**2025-11-20**|**PairHuman: A High-Fidelity Photographic Dataset for Customized Dual-Person Generation**|Ting Pan,...Yu Liu|[2511.16712](http://arxiv.org/abs/2511.16712)|null|
 |**2025-11-20**|**Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click**|Raphael Ruschel,...B. S. Manjunath|[2511.15948](http://arxiv.org/abs/2511.15948)|null|
 |**2025-11-19**|**UniHOI: Unified Human-Object Interaction Understanding via Unified Token Space**|Panqi Yang,...Yongqiang Ma|[2511.15046](http://arxiv.org/abs/2511.15046)|null|
 |**2025-11-18**|**Harmful Traits of AI Companions**|W. Bradley Knox,...Samuel Baker|[2511.14972](http://arxiv.org/abs/2511.14972)|null|
@@ -105,6 +110,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen,...Hao Chen|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments**|Zhiyu Huang,...Jiaqi Ma|[2511.17496](http://arxiv.org/abs/2511.17496)|null|
+|**2025-11-21**|**EvDiff: High Quality Video with an Event Camera**|Weilun Li,...Danda Pani Paudel|[2511.17492](http://arxiv.org/abs/2511.17492)|null|
+|**2025-11-21**|**Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions**|Neel Sortur,...Robin Walters|[2511.17484](http://arxiv.org/abs/2511.17484)|null|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen,...Mathias Unberath|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**Preventing Shortcut Learning in Medical Image Analysis through Intermediate Layer Knowledge Distillation from Specialist Teachers**|Christopher Boland,...Sonia Dahdouh|[2511.17421](http://arxiv.org/abs/2511.17421)|**[link](https://melba-journal.org/2025:020)**|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov,...Danda Pani Paudel|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**Sparse Mixture-of-Experts for Multi-Channel Imaging: Are All Channel Interactions Required?**|Sukwon Yun,...Russell Littman|[2511.17400](http://arxiv.org/abs/2511.17400)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li,...Yu Kong|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
+|**2025-11-21**|**Exploring Scientific Debt: Harnessing AI for SATD Identification in Scientific Software**|Eric L. Melin,...Shurui Zhou|[2511.17368](http://arxiv.org/abs/2511.17368)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Yankai Fu,...Shanghang Zhang|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**Learning Latent Transmission and Glare Maps for Lens Veiling Glare Removal**|Xiaolong Qian,...Kaiwei Wang|[2511.17353](http://arxiv.org/abs/2511.17353)|**[link](https://github.com/XiaolongQian/DeVeiler)**|
+|**2025-11-21**|**Loomis Painter: Reconstructing the Painting Process**|Markus Pobitzer,...Nicu Sebe|[2511.17344](http://arxiv.org/abs/2511.17344)|null|
+|**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori,...Jonathan Le Roux|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
+|**2025-11-21**|**Law-Strength Frontiers and a No-Free-Lunch Result for Law-Seeking Reinforcement Learning on Volatility Law Manifolds**|Jian'an Zhang,...Jian'an Zhang|[2511.17304](http://arxiv.org/abs/2511.17304)|null|
+|**2025-11-21**|**Signed Networks: theory, methods, and applications**|Fernando Diaz-Diaz,...Andreia Sofia Teixeira|[2511.17247](http://arxiv.org/abs/2511.17247)|null|
+|**2025-11-21**|**Simulated Annealing for Quadratic and Higher-Order Unconstrained Integer Optimization**|Kohei Suzuki,...Kohei Suzuki|[2511.17245](http://arxiv.org/abs/2511.17245)|null|
+|**2025-11-21**|**Lost in Translation and Noise: A Deep Dive into the Failure Modes of VLMs on Real-World Tables**|Anshul Singh,...Abhay Kumary|[2511.17238](http://arxiv.org/abs/2511.17238)|null|
+|**2025-11-21**|**NX-CGRA: A Programmable Hardware Accelerator for Core Transformer Algorithms on Edge Devices**|Rohit Prasad,...Rohit Prasad|[2511.17235](http://arxiv.org/abs/2511.17235)|null|
+|**2025-11-21**|**Intrinsic preservation of plasticity in continual quantum learning**|Yu-Qin Chen,...Shi-Xin Zhang|[2511.17228](http://arxiv.org/abs/2511.17228)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng,...Jing Liao|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://video-as-answer.github.io/)**|
 |**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo,...Yang You|[2511.16668](http://arxiv.org/abs/2511.16668)|**[link](https://oahzxl.github.io/VReasonBench)**|
 |**2025-11-20**|**Solving Spatial Supersensing Without Spatial Supersensing**|Vishaal Udandarao,...Ameya Prabhu|[2511.16655](http://arxiv.org/abs/2511.16655)|null|
@@ -429,6 +454,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen,...Hao Chen|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**Downscaling Intelligence: Exploring Perception and Reasoning Bottlenecks in Small Multimodal Models**|Mark Endo,...Serena Yeung-Levy|[2511.17487](http://arxiv.org/abs/2511.17487)|**[link](https://web.stanford.edu/~markendo/projects/downscaling_intelligence)**|
+|**2025-11-21**|**Counterfactual World Models via Digital Twin-conditioned Video Diffusion**|Yiqing Shen,...Mathias Unberath|[2511.17481](http://arxiv.org/abs/2511.17481)|null|
+|**2025-11-21**|**MMT-ARD: Multimodal Multi-Teacher Adversarial Distillation for Robust Vision-Language Models**|Yuqi Li,...Yew-Soon Ong|[2511.17448](http://arxiv.org/abs/2511.17448)|null|
+|**2025-11-21**|**REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing**|Binger Chen,...Begüm Demir|[2511.17442](http://arxiv.org/abs/2511.17442)|**[link](https://github.com/be-chen/REMSA)**|
+|**2025-11-21**|**SMILE: A Composite Lexical-Semantic Metric for Question-Answering Evaluation**|Shrikant Kendre,...Juan Carlos Niebles|[2511.17432](http://arxiv.org/abs/2511.17432)|null|
+|**2025-11-21**|**SPEAR-1: Scaling Beyond Robot Demonstrations via 3D Understanding**|Nikolay Nikolov,...Danda Pani Paudel|[2511.17411](http://arxiv.org/abs/2511.17411)|null|
+|**2025-11-21**|**IndustryNav: Exploring Spatial Reasoning of Embodied Agents in Dynamic Industrial Navigation**|Yifan Li,...Yu Kong|[2511.17384](http://arxiv.org/abs/2511.17384)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Yankai Fu,...Shanghang Zhang|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification**|Taixi Chen,...Nancy Guo|[2511.17355](http://arxiv.org/abs/2511.17355)|null|
+|**2025-11-21**|**Agentic Program Verification**|Haoxin Tu,...Abhik Roychoudhury|[2511.17330](http://arxiv.org/abs/2511.17330)|null|
+|**2025-11-21**|**SpatialGeo:Boosting Spatial Reasoning in Multimodal LLMs via Geometry-Semantics Fusion**|Jiajie Guo,...Weida Wang|[2511.17308](http://arxiv.org/abs/2511.17308)|null|
+|**2025-11-21**|**MolSight: Optical Chemical Structure Recognition with SMILES Pretraining, Multi-Granularity Learning and Reinforcement Learning**|Wenrui Zhang,...Wenyu Liu|[2511.17300](http://arxiv.org/abs/2511.17300)|null|
+|**2025-11-21**|**Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation**|Chuancheng Shi,...Tat-Seng Chua|[2511.17282](http://arxiv.org/abs/2511.17282)|null|
+|**2025-11-21**|**A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback**|Bulat Khaertdinov,...Nava Tintarev|[2511.17255](http://arxiv.org/abs/2511.17255)|null|
+|**2025-11-21**|**Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats**|Jiaye Qian,...Sibei Yang|[2511.17254](http://arxiv.org/abs/2511.17254)|**[link](https://github.com/SooLab/AllPath)**|
+|**2025-11-21**|**Lost in Translation and Noise: A Deep Dive into the Failure Modes of VLMs on Real-World Tables**|Anshul Singh,...Abhay Kumary|[2511.17238](http://arxiv.org/abs/2511.17238)|null|
+|**2025-11-21**|**Scaling Self-Supervised and Cross-Modal Pretraining for Volumetric CT Transformers**|Cris Claessens,...Fons van der Sommen|[2511.17209](http://arxiv.org/abs/2511.17209)|null|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Hanyu Zhou,...Gim Hee Lee|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
+|**2025-11-21**|**Device-Guided Music Transfer**|Manh Pham Hung,...Dong Ma|[2511.17136](http://arxiv.org/abs/2511.17136)|null|
 |**2025-11-20**|**Learning to Think Fast and Slow for Visual Language Models**|Chenyu Lin,...Kaiyang Zhou|[2511.16670](http://arxiv.org/abs/2511.16670)|null|
 |**2025-11-20**|**Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO**|Junhao Cheng,...Jing Liao|[2511.16669](http://arxiv.org/abs/2511.16669)|**[link](https://video-as-answer.github.io/)**|
 |**2025-11-20**|**Cognitive Foundations for Reasoning and Their Manifestation in LLMs**|Priyanka Kargupta,...Yulia Tsvetkov|[2511.16660](http://arxiv.org/abs/2511.16660)|null|
@@ -1048,8 +1093,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**RynnVLA-002: A Unified Vision-Language-Action and World Model**|Jun Cen,...Hao Chen|[2511.17502](http://arxiv.org/abs/2511.17502)|null|
+|**2025-11-21**|**METIS: Multi-Source Egocentric Training for Integrated Dexterous Vision-Language-Action Model**|Yankai Fu,...Shanghang Zhang|[2511.17366](http://arxiv.org/abs/2511.17366)|null|
+|**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori,...Jonathan Le Roux|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
+|**2025-11-21**|**VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation**|Hanyu Zhou,...Gim Hee Lee|[2511.17199](http://arxiv.org/abs/2511.17199)|null|
+|**2025-11-21**|**Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation**|Shuo Wang,...Zhaoxin Fan|[2511.17097](http://arxiv.org/abs/2511.17097)|null|
 |**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian,...Jiangmiao Pang|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
-|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu,...Bo Zhao|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-21**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu,...Bo Zhao|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
 |**2025-11-20**|**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**|Kewei Chen,...Mingsheng Shang|[2511.16233](http://arxiv.org/abs/2511.16233)|null|
 |**2025-11-20**|**When Alignment Fails: Multimodal Adversarial Attacks on Vision-Language-Action Models**|Yuping Yan,...Yaochu Jin|[2511.16203](http://arxiv.org/abs/2511.16203)|null|
 |**2025-11-20**|**Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight**|Yi Yang,...Zhijie Deng|[2511.16175](http://arxiv.org/abs/2511.16175)|null|
@@ -1272,6 +1322,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data**|Yixuan Pan,...Hongyang Li|[2511.17373](http://arxiv.org/abs/2511.17373)|null|
 |**2025-11-20**|**InEKFormer: A Hybrid State Estimator for Humanoid Robots**|Lasse Hohmeyer,...Frank Kirchner|[2511.16306](http://arxiv.org/abs/2511.16306)|null|
 |**2025-11-19**|**VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation**|Tairan He,...Yuke Zhu|[2511.15200](http://arxiv.org/abs/2511.15200)|**[link](https://viral-humanoid.github.io/)**|
 |**2025-11-18**|**HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation**|Lai Wei,...Xiaolong Wang|[2511.14756](http://arxiv.org/abs/2511.14756)|null|
@@ -1385,6 +1436,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-21**|**FisheyeGaussianLift: BEV Feature Lifting for Surround-View Fisheye Camera Perception**|Shubham Sonarghare,...Ganesh Sistu|[2511.17210](http://arxiv.org/abs/2511.17210)|null|
+|**2025-11-21**|**PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting**|Yijun Xu,...Chu He|[2511.17116](http://arxiv.org/abs/2511.17116)|null|
+|**2025-11-21**|**Towards Generative Design Using Optimal Transport for Shape Exploration and Solution Field Interpolation**|Sergio Torregrosa,...Francisco Chinesta|[2511.17111](http://arxiv.org/abs/2511.17111)|null|
+|**2025-11-21**|**SPAGS: Sparse-View Articulated Object Reconstruction from Single State via Planar Gaussian Splatting**|Di Wu,...Liangtu Song|[2511.17092](http://arxiv.org/abs/2511.17092)|null|
+|**2025-11-21**|**REArtGS++: Generalizable Articulation Reconstruction with Temporal Geometry Constraint via Planar Gaussian Splatting**|Di Wu,...Cewu Lu|[2511.17059](http://arxiv.org/abs/2511.17059)|null|
+|**2025-11-21**|**PhysMorph-GS: Differentiable Shape Morphing via Joint Optimization of Physics and Rendering Objectives**|Chang-Yong Song,...David Hyde|[2511.16988](http://arxiv.org/abs/2511.16988)|null|
+|**2025-11-21**|**Gradient-Driven Natural Selection for Compact 3D Gaussian Splatting**|Xiaobin Deng,...Duanqing Xu|[2511.16980](http://arxiv.org/abs/2511.16980)|null|
+|**2025-11-21**|**One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements**|Yiheng Bian,...Guangtao xue|[2511.16966](http://arxiv.org/abs/2511.16966)|null|
+|**2025-11-20**|**Vorion: A RISC-V GPU with Hardware-Accelerated 3D Gaussian Rendering and Training**|Yipeng Wang,...Jaydeep P. Kulkarni|[2511.16831](http://arxiv.org/abs/2511.16831)|null|
 |**2025-11-20**|**EOGS++: Earth Observation Gaussian Splatting with Internal Camera Refinement and Direct Panchromatic Rendering**|Pierrick Bournez,...Gabriele Facciolo|[2511.16542](http://arxiv.org/abs/2511.16542)|null|
 |**2025-11-20**|**Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling**|Minseok Seo,...Changick Kim|[2511.16301](http://arxiv.org/abs/2511.16301)|null|
 |**2025-11-20**|**Optimizing 3D Gaussian Splattering for Mobile GPUs**|Md Musfiqur Rahman Sanim,...Gagan Agrawal|[2511.16298](http://arxiv.org/abs/2511.16298)|null|
