@@ -1,4 +1,4 @@
-## Updated on 2025.12.19
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal,...Marco Aiello|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
 |**2025-12-16**|**AnchorHOI: Zero-shot Generation of 4D Human-Object Interaction via Anchor-based Prior Distillation**|Sisi Dai,...Kai Xu|[2512.14095](http://arxiv.org/abs/2512.14095)|null|
 |**2025-12-14**|**InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation**|Sreehari Rajan,...Charu Sharma|[2512.12664](http://arxiv.org/abs/2512.12664)|null|
 |**2025-12-12**|**CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction**|Xianghui Xie,...Stan Birchfield|[2512.11988](http://arxiv.org/abs/2512.11988)|**[link](https://nvlabs.github.io/CARI4D/)**|
@@ -167,12 +168,16 @@
 |**2019-09-05**|**Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense**|Yixin Chen,...Song-Chun Zhu|[1909.01507](http://arxiv.org/abs/1909.01507)|null|
 |**2016-05-30**|**Low-Cost Scene Modeling using a Density Function Improves Segmentation Performance**|Vivek Sharma,...Luc Van Gool|[1605.08464](http://arxiv.org/abs/1605.08464)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## World Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text**|Hanlin Wang,...Qifeng Chen|[2512.16924](http://arxiv.org/abs/2512.16924)|**[link](https://worldcanvas.github.io/)**|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn,...Eric Sax|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
+|**2025-12-17**|**AIE4ML: An End-to-End Framework for Compiling Neural Networks for the Next Generation of AMD AI Engines**|Dimitrios Danopoulos,...Maurizio Pierini|[2512.15946](http://arxiv.org/abs/2512.15946)|null|
+|**2025-12-17**|**R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space**|Tin Stribor Sohn,...Eric Sax|[2512.15940](http://arxiv.org/abs/2512.15940)|null|
 |**2025-12-17**|**OccSTeP: Benchmarking 4D Occupancy Spatio-Temporal Persistence**|Yu Zheng,...Jiaming Zhang|[2512.15621](http://arxiv.org/abs/2512.15621)|null|
 |**2025-12-17**|**Soft Geometric Inductive Bias for Object Centric Dynamics**|Hampus Linander,...Christopher Buckley|[2512.15493](http://arxiv.org/abs/2512.15493)|null|
 |**2025-12-17**|**MMGR: Multi-Modal Generative Reasoning**|Zefan Cai,...Junjie Hu|[2512.14691](http://arxiv.org/abs/2512.14691)|null|
@@ -627,12 +632,32 @@
 |**2024-01-19**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang,...Jiwen Lu|[2401.09985](http://arxiv.org/abs/2401.09985)|**[link](https://world-dreamer.github.io/)**|
 |**2016-04-04**|**A General World Model with Poiesis: Poppers Three Worlds updated with Software**|Walter Hehl,...Walter Hehl|[1604.00360](http://arxiv.org/abs/1604.00360)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju,...Koushil Sreenath|[2512.16909](http://arxiv.org/abs/2512.16909)|**[link](https://hybridrobotics.github.io/MomaGraph/)**|
+|**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Xiaopeng Lin,...Kai Chen|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
+|**2025-12-18**|**CitySeeker: How Do VLMS Explore Embodied Urban Navigation With Implicit Human Needs?**|Siqi Wang,...Haofen Wang|[2512.16755](http://arxiv.org/abs/2512.16755)|null|
+|**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang,...Dong Yu|[2512.16561](http://arxiv.org/abs/2512.16561)|**[link](https://n3d-vlm.github.io)**|
+|**2025-12-18**|**Scaling Laws for Energy Efficiency of Local LLMs**|Ander Alvarez,...Román Orús|[2512.16531](http://arxiv.org/abs/2512.16531)|null|
+|**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li,...Qi Li|[2512.16523](http://arxiv.org/abs/2512.16523)|null|
+|**2025-12-18**|**SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning**|Tin Stribor Sohn,...Eric Sax|[2512.16461](http://arxiv.org/abs/2512.16461)|null|
+|**2025-12-18**|**E-SDS: Environment-aware See it, Do it, Sorted - Automated Environment-Aware Reinforcement Learning for Humanoid Locomotion**|Enis Yalcin,...Dimitrios Kanoulas|[2512.16446](http://arxiv.org/abs/2512.16446)|null|
+|**2025-12-18**|**Collaborative Edge-to-Server Inference for Vision-Language Models**|Soochang Song,...Yongjune Kim|[2512.16349](http://arxiv.org/abs/2512.16349)|null|
+|**2025-12-18**|**ManiLong-Shot: Interaction-Aware One-Shot Imitation Learning for Long-Horizon Manipulation**|Zixuan Chen,...Yang Gao|[2512.16302](http://arxiv.org/abs/2512.16302)|null|
+|**2025-12-18**|**Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis**|Zhi Helu,...Yao Yuan|[2512.16237](http://arxiv.org/abs/2512.16237)|null|
+|**2025-12-18**|**Visual Alignment of Medical Vision-Language Models for Grounded Radiology Report Generation**|Sarosij Bose,...Srimat Chakradhar|[2512.16201](http://arxiv.org/abs/2512.16201)|null|
+|**2025-12-18**|**C-DGPA: Class-Centric Dual-Alignment Generative Prompt Adaptation**|Chao Li,...Yuncheng Shen|[2512.16164](http://arxiv.org/abs/2512.16164)|null|
+|**2025-12-18**|**MRG-R1: Reinforcement Learning for Clinically Aligned Medical Report Generation**|Pengyu Wang,...Jinman Kim|[2512.16145](http://arxiv.org/abs/2512.16145)|null|
+|**2025-12-18**|**Auto-Vocabulary 3D Object Detection**|Haomeng Zhang,...Raymond A. Yeh|[2512.16077](http://arxiv.org/abs/2512.16077)|null|
+|**2025-12-17**|**Are vision-language models ready to zero-shot replace supervised classification models in agriculture?**|Earl Ranario,...Mason J. Earles|[2512.15977](http://arxiv.org/abs/2512.15977)|null|
+|**2025-12-17**|**From Words to Wavelengths: VLMs for Few-Shot Multispectral Object Detection**|Manuel Nkegoum,...Sébastien Lefèvre|[2512.15971](http://arxiv.org/abs/2512.15971)|null|
+|**2025-12-17**|**Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models**|Utsav Panchal,...Marco Aiello|[2512.15957](http://arxiv.org/abs/2512.15957)|null|
+|**2025-12-17**|**R4: Retrieval-Augmented Reasoning for Vision-Language Models in 4D Spatio-Temporal Space**|Tin Stribor Sohn,...Eric Sax|[2512.15940](http://arxiv.org/abs/2512.15940)|null|
+|**2025-12-17**|**DSO: Direct Steering Optimization for Bias Mitigation**|Lucas Monteiro Paes,...Nicholas Apostoloff|[2512.15926](http://arxiv.org/abs/2512.15926)|null|
 |**2025-12-17**|**DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models**|Lunbin Zeng,...Xinggang Wang|[2512.15713](http://arxiv.org/abs/2512.15713)|null|
 |**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent,...Jason Zhang|[2512.15701](http://arxiv.org/abs/2512.15701)|null|
 |**2025-12-17**|**VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?**|Hongbo Zhao,...Zhaoxiang Zhang|[2512.15649](http://arxiv.org/abs/2512.15649)|null|
@@ -1401,12 +1426,15 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen,...Bo Xu|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou,...Ziwei Liu|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## VLA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation**|Jingjing Qian,...Li Jiang|[2512.16811](http://arxiv.org/abs/2512.16811)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu,...Junwei Liang|[2512.16760](http://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
+|**2025-12-17**|**Large Video Planner Enables Generalizable Robot Control**|Boyuan Chen,...Yilun Du|[2512.15840](http://arxiv.org/abs/2512.15840)|null|
 |**2025-12-17**|**mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs**|Jonas Pai,...Elvis Nava|[2512.15692](http://arxiv.org/abs/2512.15692)|null|
 |**2025-12-17**|**MiVLA: Towards Generalizable Vision-Language-Action Model with Human-Robot Mutual Imitation Pre-training**|Zhenhan Yin,...Heng Tao Shen|[2512.15411](http://arxiv.org/abs/2512.15411)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu,...Fei Gao|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
@@ -1421,7 +1449,7 @@
 |**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Xiaoyu Ma,...Yanfang Ye|[2512.11769](http://arxiv.org/abs/2512.11769)|**[link](https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model)**|
 |**2025-12-12**|**Embodied Image Compression**|Chunyi Li,...Guangtao Zhai|[2512.11612](http://arxiv.org/abs/2512.11612)|null|
 |**2025-12-12**|**Atomic Action Slicing: Planner-Aligned Options for Generalist VLA Agents**|Stefan Tabakov,...Boris Kraychev|[2512.11584](http://arxiv.org/abs/2512.11584)|null|
-|**2025-12-12**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Chao Xu,...Jiankang Deng|[2512.11362](http://arxiv.org/abs/2512.11362)|null|
+|**2025-12-18**|**An Anatomy of Vision-Language-Action Models: From Modules to Milestones and Challenges**|Chao Xu,...Jiankang Deng|[2512.11362](http://arxiv.org/abs/2512.11362)|**[link](https://suyuz1.github.io/Survery/)**|
 |**2025-12-12**|**Benchmarking the Generality of Vision-Language-Action Models**|Pranav Guruprasad,...Yangyue Wang|[2512.11315](http://arxiv.org/abs/2512.11315)|null|
 |**2025-12-12**|**Seeing to Act, Prompting to Specify: A Bayesian Factorization of Vision Language Action Policy**|Kechun Xu,...Yue Wang|[2512.11218](http://arxiv.org/abs/2512.11218)|null|
 |**2025-12-15**|**WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control**|Haoran Jiang,...Hongyang Li|[2512.11047](http://arxiv.org/abs/2512.11047)|null|
@@ -1721,12 +1749,13 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Andrea Burns,...Bryan A. Plummer|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Spandana Gella,...Frank Keller|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Xiaopeng Lin,...Kai Chen|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
 |**2025-12-16**|**CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation**|Sirui Chen,...Yuke Zhu|[2512.14689](http://arxiv.org/abs/2512.14689)|**[link](https://nvlabs.github.io/CHIP/)**|
 |**2025-12-15**|**Humanoid Robot Running Through Random Stepping Stones and Jumping Over Obstacles: Step Adaptation Using Spring-Mass Trajectories**|Sait Sovukluk,...Christian Ott|[2512.13304](http://arxiv.org/abs/2512.13304)|**[link](https://youtu.be/HlAg2nbNct4)**|
 |**2025-12-15**|**PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations**|Mingqi Yuan,...Wenjun Zeng|[2512.13093](http://arxiv.org/abs/2512.13093)|null|
@@ -1874,12 +1903,15 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ahmad Syarif,...Ary Setijadi Prihatmanto|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Alessandro Roncone,...Lorenzo Natale|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang,...Koki Nagano|[2512.16893](http://arxiv.org/abs/2512.16893)|**[link](https://research.nvidia.com/labs/amri/projects/instant4d)**|
+|**2025-12-18**|**SDFoam: Signed-Distance Foam for explicit surface reconstruction**|Antonella Rech,...Nicola Garau|[2512.16706](http://arxiv.org/abs/2512.16706)|null|
+|**2025-12-18**|**Using Gaussian Splats to Create High-Fidelity Facial Geometry and Texture**|Haodi He,...Ronald Fedkiw|[2512.16397](http://arxiv.org/abs/2512.16397)|null|
 |**2025-12-17**|**Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering**|Divam Gupta,...Giljoo Nam|[2512.15711](http://arxiv.org/abs/2512.15711)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau,...Eduardo Pérez-Pellitero|[2512.15508](http://arxiv.org/abs/2512.15508)|null|
 |**2025-12-17**|**VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments**|Yuze Wu,...Fei Gao|[2512.15258](http://arxiv.org/abs/2512.15258)|null|
@@ -2251,5 +2283,5 @@
 |**2023-08-09**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl,...George Drettakis|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)**|
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao,...Jonathan Li|[2210.00379](http://arxiv.org/abs/2210.00379)|null|
 
-<p align=right>(<a href=#updated-on-20251219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
 
