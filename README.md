@@ -1,4 +1,4 @@
-## Updated on 2025.12.25
+## Updated on 2025.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -59,7 +59,7 @@
 |**2025-11-26**|**ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction**|Qineng Wang,...Manling Li|[2511.20937](http://arxiv.org/abs/2511.20937)|null|
 |**2025-11-25**|**Layer-Aware Video Composition via Split-then-Merge**|Ozgur Kara,...Du Tran|[2511.20809](http://arxiv.org/abs/2511.20809)|**[link](https://split-then-merge.github.io)**|
 |**2025-11-25**|**Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos**|Yayuan Li,...Jason J. Corso|[2511.20525](http://arxiv.org/abs/2511.20525)|null|
-|**2025-11-25**|**Learning to Generate Human-Human-Object Interactions from Textual Descriptions**|Jeonghyeon Na,...Hanbyul Joo|[2511.20446](http://arxiv.org/abs/2511.20446)|**[link](https://tlb-miss.github.io/hhoi/)**|
+|**2025-12-24**|**Learning to Generate Human-Human-Object Interactions from Textual Descriptions**|Jeonghyeon Na,...Hanbyul Joo|[2511.20446](http://arxiv.org/abs/2511.20446)|**[link](https://tlb-miss.github.io/hhoi/)**|
 |**2025-12-22**|**BRIC: Bridging Kinematic Plans and Physical Control at Test Time**|Dohun Lim,...Sungchan Kim|[2511.20431](http://arxiv.org/abs/2511.20431)|null|
 |**2025-11-26**|**Thinking in 360°: Humanoid Visual Search in the Wild**|Heyang Yu,...Yiming Li|[2511.20351](http://arxiv.org/abs/2511.20351)|**[link](https://humanoid-vstar.github.io/)**|
 |**2025-11-25**|**How Robot Kinematics Influence Human Performance in Virtual Robot-to-Human Handover Tasks**|Róisín Keenan,...Joost C. Dessing|[2511.20299](http://arxiv.org/abs/2511.20299)|null|
@@ -171,12 +171,15 @@
 |**2019-09-05**|**Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense**|Yixin Chen,...Song-Chun Zhu|[1909.01507](http://arxiv.org/abs/1909.01507)|null|
 |**2016-05-30**|**Low-Cost Scene Modeling using a Density Function Improves Segmentation Performance**|Vivek Sharma,...Luc Van Gool|[1605.08464](http://arxiv.org/abs/1605.08464)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## World Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation**|Yu He,...Yanwei Fu|[2512.21201](http://arxiv.org/abs/2512.21201)|null|
+|**2025-12-24**|**Active inference and artificial reasoning**|Karl Friston,...Thomas Parr|[2512.21129](http://arxiv.org/abs/2512.21129)|null|
+|**2025-12-23**|**FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs**|Saeed Mohammadzadeh,...Emma Lejeune|[2512.20732](http://arxiv.org/abs/2512.20732)|null|
 |**2025-12-23**|**Active Intelligence in Video Avatars via Closed-loop World Modeling**|Xuanhua He,...Qifeng Chen|[2512.20615](http://arxiv.org/abs/2512.20615)|**[link](https://xuanhuahe.github.io/ORCA/)**|
 |**2025-12-23**|**SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images**|Zepeng Xin,...Xiangyong Cao|[2512.20013](http://arxiv.org/abs/2512.20013)|null|
 |**2025-12-22**|**Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation**|Jerry Wang,...Ting Yiu Liu|[2512.19210](http://arxiv.org/abs/2512.19210)|null|
@@ -654,12 +657,29 @@
 |**2024-01-19**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang,...Jiwen Lu|[2401.09985](http://arxiv.org/abs/2401.09985)|**[link](https://world-dreamer.github.io/)**|
 |**2016-04-04**|**A General World Model with Poiesis: Poppers Three Worlds updated with Software**|Walter Hehl,...Walter Hehl|[1604.00360](http://arxiv.org/abs/1604.00360)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models**|Li-Zhong Szu-Tu,...Yu-Lun Liu|[2512.21337](http://arxiv.org/abs/2512.21337)|**[link](https://sytwu.github.io/BeyondMemo/)**|
+|**2025-12-24**|**Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**|Xinhe Wang,...Jiaqi W. Ma|[2512.21329](http://arxiv.org/abs/2512.21329)|null|
+|**2025-12-24**|**LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation**|Anatoly O. Onishchenko,...Aleksandr I. Panov|[2512.21243](http://arxiv.org/abs/2512.21243)|null|
+|**2025-12-24**|**Leveraging Lightweight Entity Extraction for Scalable Event-Based Image Retrieval**|Dao Sy Duy Minh,...Tran Chi Nguyen|[2512.21221](http://arxiv.org/abs/2512.21221)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang,...Xianglong Liu|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**VisRes Bench: On Evaluating the Visual Reasoning Capabilities of VLMs**|Brigitta Malagurski Törtei,...Sanath Narayan|[2512.21194](http://arxiv.org/abs/2512.21194)|null|
+|**2025-12-24**|**MarineEval: Assessing the Marine Intelligence of Vision-Language Models**|YuK-Kwan Wong,...Sai-Kit Yeung|[2512.21126](http://arxiv.org/abs/2512.21126)|null|
+|**2025-12-24**|**UniRec-0.1B: Unified Text and Formula Recognition with 0.1B Parameters**|Yongkun Du,...Yu-Gang Jiang|[2512.21095](http://arxiv.org/abs/2512.21095)|null|
+|**2025-12-24**|**GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs**|Lichao Wu,...Ahmad-Reza Sadeghi|[2512.21008](http://arxiv.org/abs/2512.21008)|null|
+|**2025-12-24**|**ETP-R1: Evolving Topological Planning with Reinforcement Fine-tuning for Vision-Language Navigation in Continuous Environments**|Shuhao Ye,...Yue Wang|[2512.20940](http://arxiv.org/abs/2512.20940)|null|
+|**2025-12-24**|**Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning**|Shengguang Wu,...Serena Yeung-Levy|[2512.20934](http://arxiv.org/abs/2512.20934)|**[link](https://transductive-visualprogram.github.io/)**|
+|**2025-12-24**|**PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding**|Seongmin Jung,...Jongwoo Lim|[2512.20907](http://arxiv.org/abs/2512.20907)|null|
+|**2025-12-24**|**Benchmarking and Enhancing VLM for Compressed Image Understanding**|Zifu Zhang,...Yan Wang|[2512.20901](http://arxiv.org/abs/2512.20901)|null|
+|**2025-12-24**|**Proprioception Enhances Vision Language Model in Generating Captions and Subtask Segmentations for Robot Task**|Kanata Suzuki,...Tetsuya Ogata|[2512.20876](http://arxiv.org/abs/2512.20876)|null|
+|**2025-12-23**|**Input-Adaptive Visual Preprocessing for Efficient Fast Vision-Language Model Inference**|Putu Indah Githa Cahyani,...Novanto Yudistira|[2512.20839](http://arxiv.org/abs/2512.20839)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung,...Sungchul Choi|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
+|**2025-12-23**|**VL4Gaze: Unleashing Vision-Language Models for Gaze Following**|Shijing Wang,...Yihua Cheng|[2512.20735](http://arxiv.org/abs/2512.20735)|null|
 |**2025-12-23**|**LightTact: A Visual-Tactile Fingertip Sensor for Deformation-Independent Contact Sensing**|Changyi Lin,...Ding Zhao|[2512.20591](http://arxiv.org/abs/2512.20591)|null|
 |**2025-12-23**|**FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models**|Kaitong Cai,...Keze Wang|[2512.20561](http://arxiv.org/abs/2512.20561)|null|
 |**2025-12-23**|**Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models**|Shengchao Zhou,...Xiaojuan Qi|[2512.20557](http://arxiv.org/abs/2512.20557)|null|
@@ -1468,7 +1488,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen,...Bo Xu|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou,...Ziwei Liu|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## VLA
 
@@ -1800,12 +1820,13 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Andrea Burns,...Bryan A. Plummer|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Spandana Gella,...Frank Keller|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**Wireless Center of Pressure Feedback System for Humanoid Robot Balance Control using ESP32-C3**|Muhtadin,...Atar Fuady Babgei|[2512.21219](http://arxiv.org/abs/2512.21219)|null|
 |**2025-12-19**|**Semantic Co-Speech Gesture Synthesis and Real-Time Control for Humanoid Robots**|Gang Zhang,...Gang Zhang|[2512.17183](http://arxiv.org/abs/2512.17183)|null|
 |**2025-12-18**|**PhysBrain: Human Egocentric Data as a Bridge from Vision Language Models to Physical Intelligence**|Xiaopeng Lin,...Kai Chen|[2512.16793](http://arxiv.org/abs/2512.16793)|null|
 |**2025-12-16**|**CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation**|Sirui Chen,...Yuke Zhu|[2512.14689](http://arxiv.org/abs/2512.14689)|**[link](https://nvlabs.github.io/CHIP/)**|
@@ -1955,12 +1976,14 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ahmad Syarif,...Ary Setijadi Prihatmanto|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Alessandro Roncone,...Lorenzo Natale|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang,...Yifei Zhu|[2512.20943](http://arxiv.org/abs/2512.20943)|null|
+|**2025-12-24**|**Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting**|Yoonwoo Jeong,...Jaesung Choe|[2512.20927](http://arxiv.org/abs/2512.20927)|null|
 |**2025-12-23**|**Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization**|He Zhu,...Yu Feng|[2512.20495](http://arxiv.org/abs/2512.20495)|null|
 |**2025-12-23**|**SmartSplat: Feature-Smart Gaussians for Scalable Compression of Ultra-High-Resolution Images**|Linfei Li,...Ying Shen|[2512.20377](http://arxiv.org/abs/2512.20377)|null|
 |**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven,...Gert Kootstra|[2512.20148](http://arxiv.org/abs/2512.20148)|null|
@@ -2351,5 +2374,5 @@
 |**2023-08-09**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl,...George Drettakis|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)**|
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao,...Jonathan Li|[2210.00379](http://arxiv.org/abs/2210.00379)|null|
 
-<p align=right>(<a href=#updated-on-20251225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251228>back to top</a>)</p>
 
