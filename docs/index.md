@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.10
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -168,6 +168,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Can We Predict Before Executing Machine Learning Agents?**|Jingsheng Zheng,...Ningyu Zhang|[2601.05930](http://arxiv.org/abs/2601.05930)|null|
+|**2026-01-09**|**Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals**|Nate Gillman,...Chen Sun|[2601.05848](http://arxiv.org/abs/2601.05848)|**[link](https://goal-force.github.io/)**|
+|**2026-01-09**|**EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium**|Phu-Hoa Pham,...Trung-Kiet Huynh|[2601.05653](http://arxiv.org/abs/2601.05653)|null|
 |**2026-01-08**|**Learning Latent Action World Models In The Wild**|Quentin Garrido,...Michael Rabbat|[2601.05230](http://arxiv.org/abs/2601.05230)|null|
 |**2026-01-08**|**VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control**|Sixiao Zheng,...Yanwei Fu|[2601.05138](http://arxiv.org/abs/2601.05138)|**[link](https://sixiaozheng.github.io/VerseCrafter_page/)**|
 |**2026-01-08**|**Tape: A Cellular Automata Benchmark for Evaluating Rule-Shift Generalization in Reinforcement Learning**|Enze Pan,...Enze Pan|[2601.04695](http://arxiv.org/abs/2601.04695)|null|
@@ -692,12 +695,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**Open-Vocabulary 3D Instruction Ambiguity Detection**|Jiayu Ding,...Ge Li|[2601.05991](http://arxiv.org/abs/2601.05991)|null|
+|**2026-01-09**|**Context-Aware Decoding for Faithful Vision-Language Generation**|Mehrdad Fazli,...Ziwei Zhu|[2601.05939](http://arxiv.org/abs/2601.05939)|null|
+|**2026-01-09**|**Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs**|Sandeep Mishra,...Manish Gupta|[2601.05851](http://arxiv.org/abs/2601.05851)|null|
+|**2026-01-09**|**From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**|Zezhou Wang,...Yan Lu|[2601.05787](http://arxiv.org/abs/2601.05787)|null|
+|**2026-01-09**|**PII-VisBench: Evaluating Personally Identifiable Information Safety in Vision Language Models Along a Continuum of Visibility**|G M Shahariar,...Zhouxing Shi|[2601.05739](http://arxiv.org/abs/2601.05739)|null|
+|**2026-01-09**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li,...Li Zhang|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
+|**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie,...Hongyang Li|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
+|**2026-01-09**|**VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck**|Feiran Zhang,...Xiaoqing Zheng|[2601.05547](http://arxiv.org/abs/2601.05547)|null|
+|**2026-01-09**|**Safety Not Found (404): Hidden Risks of LLM-Based Robotics Decision Making**|Jua Han,...Jihie Kim|[2601.05529](http://arxiv.org/abs/2601.05529)|null|
+|**2026-01-08**|**Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**|Yuxiang Ji,...Xiangxiang Chu|[2601.05432](http://arxiv.org/abs/2601.05432)|null|
+|**2026-01-08**|**Coding the Visual World: From Image to Simulation Using Vision Language Models**|Sagi Eppel,...Sagi Eppel|[2601.05344](http://arxiv.org/abs/2601.05344)|null|
+|**2026-01-08**|**Intent at a Glance: Gaze-Guided Robotic Manipulation via Foundation Models**|Tracey Yee Hsin Tay,...Yuchen Cui|[2601.05336](http://arxiv.org/abs/2601.05336)|null|
 |**2026-01-08**|**Mechanisms of Prompt-Induced Hallucination in Vision-Language Models**|William Rudman,...Kyle Mahowald|[2601.05201](http://arxiv.org/abs/2601.05201)|null|
-|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao,...Bohan Zhuang|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
+|**2026-01-09**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao,...Bohan Zhuang|[2601.05172](http://arxiv.org/abs/2601.05172)|**[link](https://github.com/ziplab/CoV)**|
 |**2026-01-08**|**VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding**|Ignacio de Rodrigo,...Jaime Boal|[2601.05125](http://arxiv.org/abs/2601.05125)|null|
 |**2026-01-08**|**From Understanding to Engagement: Personalized pharmacy Video Clips via Vision Language Models (VLMs)**|Suyash Mishra,...Anubhav Girdhar|[2601.05059](http://arxiv.org/abs/2601.05059)|null|
 |**2026-01-08**|**Scaling Vision Language Models for Pharmaceutical Long Form Video Reasoning on Industrial GenAI Platform**|Suyash Mishra,...Baddu Narendra|[2601.04891](http://arxiv.org/abs/2601.04891)|null|
-|**2026-01-08**|**SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models**|Oriol Rabasseda,...Sergio Escalera|[2601.04824](http://arxiv.org/abs/2601.04824)|null|
+|**2026-01-09**|**SOVABench: A Vehicle Surveillance Action Retrieval Benchmark for Multimodal Large Language Models**|Oriol Rabasseda,...Sergio Escalera|[2601.04824](http://arxiv.org/abs/2601.04824)|null|
 |**2026-01-08**|**AECV-Bench: Benchmarking Multimodal Models on Architectural and Engineering Drawings Understanding**|Aleksei Kondratenko,...Guido Maciocci|[2601.04819](http://arxiv.org/abs/2601.04819)|null|
 |**2026-01-08**|**Skeletonization-Based Adversarial Perturbations on Large Vision Language Model's Mathematical Text Recognition**|Masatomo Yoshida,...Masahiro Okuda|[2601.04752](http://arxiv.org/abs/2601.04752)|null|
 |**2026-01-08**|**Agri-R1: Empowering Generalizable Agricultural Reasoning in Vision-Language Models with Reinforcement Learning**|Wentao Zhang,...Tao Fang|[2601.04672](http://arxiv.org/abs/2601.04672)|null|
@@ -1595,6 +1610,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie,...Hongyang Li|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**LaST $_{0}$ : Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model**|Zhuoyang Liu,...Shanghang Zhang|[2601.05248](http://arxiv.org/abs/2601.05248)|null|
 |**2026-01-08**|**RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation**|Boyang Wang,...Jiangmiao Pang|[2601.05241](http://arxiv.org/abs/2601.05241)|null|
 |**2026-01-07**|**State Backdoor: Towards Stealthy Real-world Poisoning Attack on Vision-Language-Action Model in State Space**|Ji Guo,...Dusit Niyato|[2601.04266](http://arxiv.org/abs/2601.04266)|null|
@@ -1613,7 +1629,7 @@ layout: default
 |**2025-12-31**|**VLA-RAIL: A Real-Time Asynchronous Inference Linker for VLA Models and Robots**|Yongsheng Zhao,...Han Gao|[2512.24673](http://arxiv.org/abs/2512.24673)|null|
 |**2026-01-06**|**RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence**|Chengkai Hou,...Jian Tang|[2512.24653](http://arxiv.org/abs/2512.24653)|null|
 |**2025-12-30**|**Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning**|Zhenghao "Mark" Peng,...Marco Pavone|[2512.24426](http://arxiv.org/abs/2512.24426)|null|
-|**2025-12-30**|**GR-Dexter Technical Report**|Ruoshi Wen,...Hang Li|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
+|**2026-01-09**|**GR-Dexter Technical Report**|Ruoshi Wen,...Hang Li|[2512.24210](http://arxiv.org/abs/2512.24210)|null|
 |**2026-01-01**|**Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training**|Yi Liu,...Jianlan Luo|[2512.24125](http://arxiv.org/abs/2512.24125)|null|
 |**2025-12-29**|**Learning to Feel the Future: DreamTacVLA for Contact-Rich Manipulation**|Guo Ye,...Han Liu|[2512.23864](http://arxiv.org/abs/2512.23864)|null|
 |**2026-01-05**|**SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling**|Yufan He,...Daguang Xu|[2512.23162](http://arxiv.org/abs/2512.23162)|null|
@@ -2117,6 +2133,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-09**|**LayerGS: Decomposition and Inpainting of Layered 3D Human Avatars via 2D Gaussian Splatting**|Yinghan Xu,...John Dingliana|[2601.05853](http://arxiv.org/abs/2601.05853)|null|
+|**2026-01-09**|**FeatureSLAM: Feature-enriched 3D gaussian splatting SLAM in real time**|Christopher Thirgood,...Simon Hadfield|[2601.05738](http://arxiv.org/abs/2601.05738)|null|
+|**2026-01-09**|**GS-DMSR: Dynamic Sensitive Multi-scale Manifold Enhancement for Accelerated High-Quality 3D Gaussian Splatting**|Nengbo Lu,...Yizhou Liang|[2601.05584](http://arxiv.org/abs/2601.05584)|null|
+|**2026-01-09**|**GaussianSwap: Animatable Video Face Swapping with 3D Gaussian Splatting**|Xuan Cheng,...Lvqing Yang|[2601.05511](http://arxiv.org/abs/2601.05511)|null|
+|**2026-01-08**|**MOSAIC-GS: Monocular Scene Reconstruction via Advanced Initialization for Complex Dynamic Environments**|Svitlana Morkva,...Vaishakh Patil|[2601.05368](http://arxiv.org/abs/2601.05368)|null|
 |**2026-01-08**|**OceanSplat: Object-aware Gaussian Splatting with Trinocular View Consistency for Underwater Scene Reconstruction**|Minseong Kweon,...Jinsun Park|[2601.04984](http://arxiv.org/abs/2601.04984)|**[link](https://oceansplat.github.io)**|
 |**2026-01-08**|**ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting**|Yen-Jen Chiou,...Yuan-Fu Yang|[2601.04754](http://arxiv.org/abs/2601.04754)|null|
 |**2026-01-07**|**SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting**|Diego Revilla,...Ooi Wei Tsang|[2601.04348](http://arxiv.org/abs/2601.04348)|null|
