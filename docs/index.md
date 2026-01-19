@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.16
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -169,6 +169,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen,...Pascale Fung|[2601.10592](http://arxiv.org/abs/2601.10592)|null|
+|**2026-01-15**|**Inference-time Physics Alignment of Video Generative Models with Latent World Models**|Jianhao Yuan,...Adriana Romero-Soriano|[2601.10553](http://arxiv.org/abs/2601.10553)|null|
 |**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi,...Alexandre Alahi|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
 |**2026-01-13**|**Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models**|Youwei Liu,...Wenjie Li|[2601.08955](http://arxiv.org/abs/2601.08955)|null|
 |**2026-01-13**|**Creativity in AI as Emergence from Domain-Limited Generative Models**|Corina Chutaux,...Corina Chutaux|[2601.08388](http://arxiv.org/abs/2601.08388)|null|
@@ -705,6 +707,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Alterbute: Editing Intrinsic Attributes of Objects in Images**|Tal Reiss,...Yedid Hoshen|[2601.10714](http://arxiv.org/abs/2601.10714)|**[link](https://talreiss.github.io/alterbute/)**|
+|**2026-01-15**|**From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion**|Cheng Chen,...Lianli Gao|[2601.10710](http://arxiv.org/abs/2601.10710)|null|
+|**2026-01-15**|**Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding**|Christopher Clark,...Ranjay Krishna|[2601.10611](http://arxiv.org/abs/2601.10611)|null|
+|**2026-01-15**|**Unleashing the Capabilities of Large Vision-Language Models for Intelligent Perception of Roadside Infrastructure**|Luxuan Fu,...Zhen Dong|[2601.10551](http://arxiv.org/abs/2601.10551)|null|
+|**2026-01-15**|**SVII-3D: Advancing Roadside Infrastructure Inventory with Decimeter-level 3D Localization and Comprehension from Sparse Street Imagery**|Chong Liu,...Bisheng Yang|[2601.10535](http://arxiv.org/abs/2601.10535)|null|
+|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang,...Josef Kittler|[2601.10497](http://arxiv.org/abs/2601.10497)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang,...Yansheng Li|[2601.10477](http://arxiv.org/abs/2601.10477)|null|
+|**2026-01-15**|**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**|Ruochen Li,...Nassir Navab|[2601.10455](http://arxiv.org/abs/2601.10455)|null|
+|**2026-01-15**|**Global Context Compression with Interleaved Vision-Text Transformation**|Dian Jiao,...Feng Huang|[2601.10378](http://arxiv.org/abs/2601.10378)|null|
+|**2026-01-15**|**Hierarchical Refinement of Universal Multimodal Attacks on Vision-Language Models**|Peng-Fei Zhang,...Zi Huang|[2601.10313](http://arxiv.org/abs/2601.10313)|null|
+|**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Han Wang,...Wei Chen|[2601.10094](http://arxiv.org/abs/2601.10094)|null|
+|**2026-01-15**|**The Spatial Blindspot of Vision-Language Models**|Nahid Alam,...Bala Krishna S Vegesna|[2601.09954](http://arxiv.org/abs/2601.09954)|null|
+|**2026-01-14**|**MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation**|Yang Xing,...Kuang Gong|[2601.09879](http://arxiv.org/abs/2601.09879)|null|
+|**2026-01-14**|**Bears, all bears, and some bears. Language Constraints on Language Models' Inductive Inferences**|Sriram Padmanabhan,...Kanishka Misra|[2601.09852](http://arxiv.org/abs/2601.09852)|null|
+|**2026-01-14**|**ViSIL: Unified Evaluation of Information Loss in Multimodal Video Captioning**|Po-han Li,...Sandeep Chinchali|[2601.09851](http://arxiv.org/abs/2601.09851)|null|
+|**2026-01-14**|**GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**|Chen Chen,...Wu Liu|[2601.09770](http://arxiv.org/abs/2601.09770)|null|
 |**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Xuyang Fang,...Neill Campbell|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
 |**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal,...Vineet Gandhi|[2601.09661](http://arxiv.org/abs/2601.09661)|null|
 |**2026-01-14**|**Image2Garment: Simulation-ready Garment Generation from a Single Image**|Selim Emir Can,...Gordon Wetzstein|[2601.09658](http://arxiv.org/abs/2601.09658)|null|
@@ -2008,6 +2026,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**FastStair: Learning to Run Up Stairs with Humanoid Robots**|Yan Liu,...Jie Zhao|[2601.10365](http://arxiv.org/abs/2601.10365)|null|
+|**2026-01-13**|**Heterogeneous computing platform for real-time robotics**|Jakub Fil,...Steve Furber|[2601.09755](http://arxiv.org/abs/2601.09755)|null|
 |**2026-01-14**|**Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations**|Wei-Jin Huang,...Wei-Shi Zheng|[2601.09518](http://arxiv.org/abs/2601.09518)|null|
 |**2026-01-13**|**Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation**|Xuetao Li,...Miao Li|[2601.09031](http://arxiv.org/abs/2601.09031)|null|
 |**2026-01-12**|**WaveMan: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots**|Yuxuan Hu,...Jianfei Yang|[2601.07454](http://arxiv.org/abs/2601.07454)|null|
@@ -2177,6 +2197,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**|Peng Chen,...Feng Tian|[2601.10606](http://arxiv.org/abs/2601.10606)|null|
+|**2026-01-15**|**Thinking Like Van Gogh: Structure-Aware Style Transfer via Flow-Guided 3D Gaussian Splatting**|Zhendong Wang,...Cihan Ruan|[2601.10075](http://arxiv.org/abs/2601.10075)|null|
 |**2026-01-14**|**Variable Basis Mapping for Real-Time Volumetric Visualization**|Qibiao Li,...Ligang Liu|[2601.09417](http://arxiv.org/abs/2601.09417)|null|
 |**2026-01-14**|**TIDI-GS: Floater Suppression in 3D Gaussian Splatting for Enhanced Indoor Scene Fidelity**|Sooyeun Yang,...Jongseong Brad Choi|[2601.09291](http://arxiv.org/abs/2601.09291)|null|
 |**2026-01-14**|**GaussianFluent: Gaussian Simulation for Dynamic Scenes with Mixed Materials**|Bei Huang,...Siyuan Huang|[2601.09265](http://arxiv.org/abs/2601.09265)|null|
