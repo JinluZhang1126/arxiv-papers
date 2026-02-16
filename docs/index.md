@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li,...Renjing Xu|[2602.11758](http://arxiv.org/abs/2602.11758)|**[link](https://haic-humanoid.github.io/)**|
+|**2026-02-12**|**What if Agents Could Imagine? Reinforcing Open-Vocabulary HOI Comprehension through Generation**|Zhenlong Yuan,...Yuyin Zhou|[2602.11499](http://arxiv.org/abs/2602.11499)|null|
 |**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang,...Xiaohui Liang|[2602.10659](http://arxiv.org/abs/2602.10659)|null|
 |**2026-02-10**|**VideoAfford: Grounding 3D Affordance from Human-Object-Interaction Videos via Multimodal Large Language Model**|Hanqing Wang,...Hui Xiong|[2602.09638](http://arxiv.org/abs/2602.09638)|null|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu,...Liangyan Gui|[2602.06035](http://arxiv.org/abs/2602.06035)|**[link](https://sirui-xu.github.io/InterPrior/)**|
@@ -181,12 +183,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**The Observer Effect in World Models: Invasive Adaptation Corrupts Latent Physics**|Christian Internò,...Barbara Hammer|[2602.12218](http://arxiv.org/abs/2602.12218)|null|
+|**2026-02-12**|**LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion**|Jiangran Lyu,...He Wang|[2602.12215](http://arxiv.org/abs/2602.12215)|**[link](https://pku-epic.github.io/LDA)**|
+|**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|GigaBrain Team,...Zheng Zhu|[2602.12099](http://arxiv.org/abs/2602.12099)|**[link](https://gigabrain05m.github.io/)**|
+|**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo,...Chelsea Finn|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
+|**2026-02-12**|**Accelerating Robotic Reinforcement Learning with Agent Guidance**|Haojun Chen,...Yaodong Yang|[2602.11978](http://arxiv.org/abs/2602.11978)|null|
+|**2026-02-12**|**Where Bits Matter in World Model Planning: A Paired Mixed-Bit Study for Efficient Spatial Reasoning**|Suraj Ranganath,...Vaishak Menon|[2602.11882](http://arxiv.org/abs/2602.11882)|null|
+|**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li,...Renjing Xu|[2602.11758](http://arxiv.org/abs/2602.11758)|**[link](https://haic-humanoid.github.io/)**|
+|**2026-02-12**|**Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use**|Hanbing Liu,...Qi Qi|[2602.11541](http://arxiv.org/abs/2602.11541)|null|
+|**2026-02-11**|**Causal-JEPA: Learning World Models through Object-Level Latent Interventions**|Heejeong Nam,...Randall Balestriero|[2602.11389](http://arxiv.org/abs/2602.11389)|**[link](https://hazel-heejeong-nam.github.io/cjepa/)**|
+|**2026-02-11**|**H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model**|Wenyuan Chen,...Yingxue Zhang|[2602.11291](http://arxiv.org/abs/2602.11291)|null|
 |**2026-02-11**|**RISE: Self-Improving Robot Policy with Compositional World Model**|Jiazhi Yang,...Hongyang Li|[2602.11075](http://arxiv.org/abs/2602.11075)|**[link](https://opendrivelab.com/kai0-rl/)**|
 |**2026-02-11**|**ContactGaussian-WM: Learning Physics-Grounded World Model from Videos**|Meizhong Wang,...Yiguang Hong|[2602.11021](http://arxiv.org/abs/2602.11021)|null|
-|**2026-02-11**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long,...Xinghang Li|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
+|**2026-02-12**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long,...Xinghang Li|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
 |**2026-02-11**|**ResWorld: Temporal Residual World Model for End-to-End Autonomous Driving**|Jinqing Zhang,...Yunhong Wang|[2602.10884](http://arxiv.org/abs/2602.10884)|null|
 |**2026-02-11**|**Say, Dream, and Act: Learning Video World Models for Instruction-Driven Robot Manipulation**|Songen Gu,...Yanwei Fu|[2602.10717](http://arxiv.org/abs/2602.10717)|null|
-|**2026-02-11**|**Neuro-Symbolic Synergy for Interactive World Modeling**|Hongyu Zhao,...Tianyi Zhou|[2602.10480](http://arxiv.org/abs/2602.10480)|null|
+|**2026-02-12**|**Neuro-Symbolic Synergy for Interactive World Modeling**|Hongyu Zhao,...Tianyi Zhou|[2602.10480](http://arxiv.org/abs/2602.10480)|null|
 |**2026-02-11**|**Affordances Enable Partial World Modeling with LLMs**|Khimya Khetarpal,...Doina Precup|[2602.10390](http://arxiv.org/abs/2602.10390)|null|
 |**2026-02-10**|**On Emergent Social World Models -- Evidence for Functional Integration of Theory of Mind and Pragmatic Reasoning in Language Models**|Polina Tsvilodub,...Michael Franke|[2602.10298](http://arxiv.org/abs/2602.10298)|null|
 |**2026-02-10**|**Olaf-World: Orienting Latent Actions for Video World Modeling**|Yuxin Jiang,...Mike Zheng Shou|[2602.10104](http://arxiv.org/abs/2602.10104)|**[link](https://showlab.github.io/Olaf-World/)**|
@@ -800,8 +812,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok,...Marco Pavone|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images**|Mathieu Sibue,...Manuela Veloso|[2602.12203](http://arxiv.org/abs/2602.12203)|null|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng,...Xinyi Yu|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
+|**2026-02-12**|**Affordance-Graphed Task Worlds: Self-Evolving Task Generation for Scalable Embodied Learning**|Xiang Liu,...Changshui Zhang|[2602.12065](http://arxiv.org/abs/2602.12065)|null|
+|**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero,...Øyvind Meinich-Bache|[2602.12002](http://arxiv.org/abs/2602.12002)|null|
+|**2026-02-12**|**Benchmarking Vision-Language Models for French PDF-to-Markdown Conversion**|Bruno Rigal,...Nicolas Mery|[2602.11960](http://arxiv.org/abs/2602.11960)|null|
+|**2026-02-12**|**Are Two LLMs Better Than One? A Student-Teacher Dual-Head LLMs Architecture for Pharmaceutical Content Optimization**|Suyash Mishra,...Anubhav Girdhar|[2602.11957](http://arxiv.org/abs/2602.11957)|null|
+|**2026-02-12**|**LAMP: Implicit Language Map for Robot Navigation**|Sibaek Lee,...Sunwook Choi|[2602.11862](http://arxiv.org/abs/2602.11862)|**[link](https://lab-of-ai-and-robotics.github.io/LAMP/)**|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao,...Mingsheng Long|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**Revis: Sparse Latent Steering to Mitigate Object Hallucination in Large Vision-Language Models**|Jialin Wu,...Zhou Yang|[2602.11824](http://arxiv.org/abs/2602.11824)|null|
+|**2026-02-12**|**Adaptive Debiasing Tsallis Entropy for Test-Time Adaptation**|Xiangyu Wu,...Jianfeng Lu|[2602.11743](http://arxiv.org/abs/2602.11743)|null|
+|**2026-02-12**|**Adapting Vision-Language Models for E-commerce Understanding at Scale**|Matteo Nulli,...Shahram Khadivi|[2602.11733](http://arxiv.org/abs/2602.11733)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang,...Qing Li|[2602.11730](http://arxiv.org/abs/2602.11730)|null|
+|**2026-02-12**|**ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning**|Changti Wu,...Kai Chen|[2602.11636](http://arxiv.org/abs/2602.11636)|**[link](https://github.com/ChangtiWu/ScalSelect}{ScalSelect})**|
+|**2026-02-12**|**SkillRater: Untangling Capabilities in Multimodal Data**|Naveen Sahi,...Akshat Shrivastava|[2602.11615](http://arxiv.org/abs/2602.11615)|null|
+|**2026-02-11**|**Hierarchical Concept Embedding & Pursuit for Interpretable Image Classification**|Nghia Nguyen,...René Vidal|[2602.11448](http://arxiv.org/abs/2602.11448)|null|
+|**2026-02-11**|**Active Zero: Self-Evolving Vision-Language Models through Active Environment Exploration**|Jinghan He,...Tat-Seng Chua|[2602.11241](http://arxiv.org/abs/2602.11241)|null|
 |**2026-02-11**|**Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling**|Gongye Liu,...Wenhan Luo|[2602.11146](http://arxiv.org/abs/2602.11146)|**[link](https://github.com/HKUST-C4G/diffusion-rm)**|
-|**2026-02-11**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu,...Tienie Tan|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
+|**2026-02-12**|**Chatting with Images for Introspective Visual Thinking**|Junfei Wu,...Tieniu Tan|[2602.11073](http://arxiv.org/abs/2602.11073)|null|
 |**2026-02-11**|**Safe mobility support system using crowd mapping and avoidance route planning using VLM**|Sena Saito,...Koichi Ozaki|[2602.10910](http://arxiv.org/abs/2602.10910)|null|
 |**2026-02-11**|**Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation**|Minggui He,...Yuya Ieiri|[2602.10880](http://arxiv.org/abs/2602.10880)|null|
 |**2026-02-11**|**SimuScene: Training and Benchmarking Code Generation to Simulate Physical Scenarios**|Yanan Wang,...Haonan Li|[2602.10840](http://arxiv.org/abs/2602.10840)|null|
@@ -1871,8 +1900,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment**|Jacky Kwok,...Marco Pavone|[2602.12281](http://arxiv.org/abs/2602.12281)|null|
+|**2026-02-12**|**GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning**|GigaBrain Team,...Zheng Zhu|[2602.12099](http://arxiv.org/abs/2602.12099)|**[link](https://gigabrain05m.github.io/)**|
+|**2026-02-12**|**VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model**|Yanjiang Guo,...Chelsea Finn|[2602.12063](http://arxiv.org/abs/2602.12063)|null|
+|**2026-02-12**|**HoloBrain-0 Technical Report**|Xuewu Lin,...Zhizhong Su|[2602.12062](http://arxiv.org/abs/2602.12062)|null|
+|**2026-02-12**|**When would Vision-Proprioception Policies Fail in Robotic Manipulation?**|Jingxian Lu,...Di Hu|[2602.12032](http://arxiv.org/abs/2602.12032)|null|
+|**2026-02-12**|**JEPA-VLA: Video Predictive Embedding is Needed for VLA Models**|Shangchen Miao,...Mingsheng Long|[2602.11832](http://arxiv.org/abs/2602.11832)|null|
+|**2026-02-12**|**ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation**|Zedong Chu,...Mu Xu|[2602.11598](http://arxiv.org/abs/2602.11598)|**[link](https://amap-cvlab.github.io/ABot-Navigation/ABot-N0/)**|
+|**2026-02-11**|**H-WM: Robotic Task and Motion Planning Guided by Hierarchical World Model**|Wenyuan Chen,...Yingxue Zhang|[2602.11291](http://arxiv.org/abs/2602.11291)|null|
 |**2026-02-11**|**RISE: Self-Improving Robot Policy with Compositional World Model**|Jiazhi Yang,...Hongyang Li|[2602.11075](http://arxiv.org/abs/2602.11075)|**[link](https://opendrivelab.com/kai0-rl/)**|
-|**2026-02-11**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long,...Xinghang Li|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
+|**2026-02-12**|**Scaling World Model for Hierarchical Manipulation Policies**|Qian Long,...Xinghang Li|[2602.10983](http://arxiv.org/abs/2602.10983)|null|
 |**2026-02-11**|**RADAR: Benchmarking Vision-Language-Action Generalization via Real-World Dynamics, Spatial-Physical Intelligence, and Autonomous Evaluation**|Yuhao Chen,...Guangrun Wang|[2602.10980](http://arxiv.org/abs/2602.10980)|null|
 |**2026-02-11**|**From Representational Complementarity to Dual Systems: Synergizing VLM and Vision-Only Backbones for End-to-End Driving**|Sining Ang,...Yan Wang|[2602.10719](http://arxiv.org/abs/2602.10719)|null|
 |**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao,...F. Richard Yu|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
@@ -2310,6 +2347,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**General Humanoid Whole-Body Control via Pretraining and Fast Adaptation**|Zepeng Wang,...Zongqing Lu|[2602.11929](http://arxiv.org/abs/2602.11929)|null|
+|**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li,...Renjing Xu|[2602.11758](http://arxiv.org/abs/2602.11758)|**[link](https://haic-humanoid.github.io/)**|
 |**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang,...Ding Zhao|[2602.11143](http://arxiv.org/abs/2602.11143)|**[link](https://apex-humanoid.github.io/)**|
 |**2026-02-11**|**Towards Learning a Generalizable 3D Scene Representation from 2D Observations**|Martin Gromniak,...Stefan Wermter|[2602.10943](http://arxiv.org/abs/2602.10943)|null|
 |**2026-02-10**|**Humanoid Factors: Design Principles for AI Humanoids in Human Worlds**|Xinyuan Liu,...Lixiao Huang|[2602.10069](http://arxiv.org/abs/2602.10069)|null|
@@ -2518,6 +2557,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng,...Xinyi Yu|[2602.12159](http://arxiv.org/abs/2602.12159)|null|
+|**2026-02-12**|**GSO-SLAM: Bidirectionally Coupled Gaussian Splatting and Direct Visual Odometry**|Jiung Yeon,...Hyeonwoo Yu|[2602.11714](http://arxiv.org/abs/2602.11714)|null|
+|**2026-02-12**|**TG-Field: Geometry-Aware Radiative Gaussian Fields for Tomographic Reconstruction**|Yuxiang Zhong,...Hui Huang|[2602.11705](http://arxiv.org/abs/2602.11705)|**[link](https://vcc.tech/research/2026/TG-Field)**|
+|**2026-02-12**|**Variation-aware Flexible 3D Gaussian Editing**|Hao Qin,...Qiang Zhu|[2602.11638](http://arxiv.org/abs/2602.11638)|null|
+|**2026-02-12**|**LeafFit: Plant Assets Creation from 3D Gaussian Splatting**|Chang Luo,...Nobuyuki Umetani|[2602.11577](http://arxiv.org/abs/2602.11577)|**[link](https://github.com/netbeifeng/leaf_fit)**|
+|**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo,...H. Jin Kim|[2602.11575](http://arxiv.org/abs/2602.11575)|**[link](https://syeon-yoo.github.io/ready-go-site/)**|
 |**2026-02-10**|**ERGO: Excess-Risk-Guided Optimization for High-Fidelity Monocular 3D Gaussian Splatting**|Zehua Ma,...Xiaodan Liang|[2602.10278](http://arxiv.org/abs/2602.10278)|null|
 |**2026-02-10**|**XSPLAIN: XAI-enabling Splat-based Prototype Learning for Attribute-aware INterpretability**|Dominik Galus,...Piotr Syga|[2602.10239](http://arxiv.org/abs/2602.10239)|null|
 |**2026-02-10**|**ArtisanGS: Interactive Tools for Gaussian Splat Selection with AI and Human in the Loop**|Clement Fuji Tsang,...Maria Shugrina|[2602.10173](http://arxiv.org/abs/2602.10173)|null|
