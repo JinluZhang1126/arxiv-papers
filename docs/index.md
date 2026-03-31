@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**Streamlined Open-Vocabulary Human-Object Interaction Detection**|Chang Sun,...Changxing Ding|[2603.27500](http://arxiv.org/abs/2603.27500)|null|
+|**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao,...Yue Wang|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
 |**2026-03-26**|**Unleashing Guidance Without Classifiers for Human-Object Interaction Animation**|Ziyin Wang,...Liang-Yan Gui|[2603.25734](http://arxiv.org/abs/2603.25734)|**[link](http://ziyinwang1.github.io/LIGHT)**|
 |**2026-03-25**|**ViHOI: Human-Object Interaction Synthesis with Visual Priors**|Songjin Cai,...Changxing Ding|[2603.24383](http://arxiv.org/abs/2603.24383)|null|
 |**2026-03-25**|**Event-Driven Proactive Assistive Manipulation with Grounded Vision-Language Planning**|Fengkai Liu,...Liyun Zhang|[2603.23950](http://arxiv.org/abs/2603.23950)|null|
@@ -207,11 +209,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan,...Yadong Mu|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-28**|**LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model**|Quankai Gao,...Yue Wang|[2603.27449](http://arxiv.org/abs/2603.27449)|null|
+|**2026-03-28**|**Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**|Qiqi Liu,...Li Zhang|[2603.27287](http://arxiv.org/abs/2603.27287)|null|
+|**2026-03-27**|**MemCam: Memory-Augmented Camera Control for Consistent Video Generation**|Xinhang Gao,...Jiacheng Wang|[2603.26193](http://arxiv.org/abs/2603.26193)|null|
+|**2026-03-26**|**Policy-Guided World Model Planning for Language-Conditioned Visual Navigation**|Amirhosein Chahe,...Lifeng Zhou|[2603.25981](http://arxiv.org/abs/2603.25981)|null|
+|**2026-03-26**|**World Reasoning Arena**|PAN Team,...Eric Xing|[2603.25887](http://arxiv.org/abs/2603.25887)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo,...Jiwen Lu|[2603.25741](http://arxiv.org/abs/2603.25741)|**[link](https://github.com/zuosc19/Vega)**|
-|**2026-03-26**|**Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models**|Kaijin Chen,...Xiang Bai|[2603.25716](http://arxiv.org/abs/2603.25716)|null|
+|**2026-03-28**|**Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models**|Kaijin Chen,...Xiang Bai|[2603.25716](http://arxiv.org/abs/2603.25716)|**[link](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)**|
 |**2026-03-26**|**Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning**|Jai Bardhan,...Vladimir Petrik|[2603.25685](http://arxiv.org/abs/2603.25685)|null|
 |**2026-03-26**|**Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation**|Roman Kueble,...Joerg Haehner|[2603.25415](http://arxiv.org/abs/2603.25415)|null|
-|**2026-03-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu,...Donglin Wang|[2603.25406](http://arxiv.org/abs/2603.25406)|null|
+|**2026-03-27**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu,...Donglin Wang|[2603.25406](http://arxiv.org/abs/2603.25406)|null|
 |**2026-03-26**|**Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells**|Han Zhang,...Yu Rong|[2603.25240](http://arxiv.org/abs/2603.25240)|null|
 |**2026-03-26**|**A Wireless World Model for AI-Native 6G Networks**|Ziqi Chen,...Liang Xia|[2603.25216](http://arxiv.org/abs/2603.25216)|null|
 |**2026-03-25**|**DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation**|Junyi Ouyang,...Haiwei Chen|[2603.24835](http://arxiv.org/abs/2603.24835)|**[link](https://junyiouy.github.io/projects/dcarl)**|
@@ -1014,6 +1022,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo,...Yanfei Zhong|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
+|**2026-03-29**|**RAGent: Physics-Aware Agentic Reasoning for Training-Free mmWave Human Activity Recognition**|Mingda Han,...Pengfei Hu|[2603.27571](http://arxiv.org/abs/2603.27571)|null|
+|**2026-03-29**|**Hidden Ads: Behavior Triggered Semantic Backdoors for Advertisement Injection in Vision Language Models**|Duanyi Yao,...Songze Li|[2603.27522](http://arxiv.org/abs/2603.27522)|null|
+|**2026-03-29**|**Streamlined Open-Vocabulary Human-Object Interaction Detection**|Chang Sun,...Changxing Ding|[2603.27500](http://arxiv.org/abs/2603.27500)|null|
+|**2026-03-29**|**Difference Feedback: Generating Multimodal Process-Level Supervision for VLM Reinforcement Learning**|Feiding,...Shunzhi Yang|[2603.27482](http://arxiv.org/abs/2603.27482)|null|
+|**2026-03-29**|**On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models**|Chongyang Zhao,...Dong Gong|[2603.27481](http://arxiv.org/abs/2603.27481)|null|
+|**2026-03-28**|**SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning**|Jiang Zhang,...Zhiwen Fan|[2603.27437](http://arxiv.org/abs/2603.27437)|**[link](https://spatial-stack.github.io/)**|
+|**2026-03-28**|**Grounding Social Perception in Intuitive Physics**|Lance Ying,...Tianmin Shu|[2603.27410](http://arxiv.org/abs/2603.27410)|null|
+|**2026-03-28**|**Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models**|Yuhang Han,...Linfeng Zhang|[2603.27375](http://arxiv.org/abs/2603.27375)|**[link](https://kawhiiiileo.github.io/KAWHI_PAGE/})**|
+|**2026-03-28**|**Inference-Time Structural Reasoning for Compositional Vision-Language Understanding**|Amartya Bhattacharya,...Amartya Bhattacharya|[2603.27349](http://arxiv.org/abs/2603.27349)|null|
+|**2026-03-28**|**A Comparative Study in Surgical AI: Datasets, Foundation Models, and Barriers to Med-AGI**|Kirill Skobelev,...Margaux Masson-Forsythe|[2603.27341](http://arxiv.org/abs/2603.27341)|null|
+|**2026-03-28**|**Seeing the Scene Matters: Revealing Forgetting in Video Understanding Models with a Scene-Aware Long-Video Benchmark**|Seng Nam Chen,...Chao Li|[2603.27259](http://arxiv.org/abs/2603.27259)|null|
+|**2026-03-28**|**Zero-shot Vision-Language Reranking for Cross-View Geolocalization**|Yunus Talha Erzurumlu,...Alper Yilmaz|[2603.27251](http://arxiv.org/abs/2603.27251)|null|
+|**2026-03-28**|**Diagnosing and Repairing Unsafe Channels in Vision-Language Models via Causal Discovery and Dual-Modal Safety Subspace Projection**|Jinhu Fu,...Sen Su|[2603.27240](http://arxiv.org/abs/2603.27240)|null|
+|**2026-03-28**|**EuraGovExam: A Multilingual Multimodal Benchmark from Real-World Civil Service Exams**|JaeSeong Kim,...Suan Lee|[2603.27223](http://arxiv.org/abs/2603.27223)|null|
+|**2026-03-28**|**Understanding and Mitigating Hallucinations in Multimodal Chain-of-Thought Models**|Ji Ma,...Yanning Zhang|[2603.27201](http://arxiv.org/abs/2603.27201)|null|
+|**2026-03-28**|**MEDIC-AD: Towards Medical Vision-Language Model's Clinical Intelligence**|Woohyeon Park,...Jaeyoung Do|[2603.27176](http://arxiv.org/abs/2603.27176)|null|
+|**2026-03-28**|**The Geometry of Robustness: Optimizing Loss Landscape Curvature and Feature Manifold Alignment for Robust Finetuning of Vision-Language Models**|Shivang Chopra,...Zsolt Kira|[2603.27139](http://arxiv.org/abs/2603.27139)|null|
+|**2026-03-28**|**LLM Enhanced Action Recognition via Hierarchical Global-Local Skeleton-Language Model**|Ruosi Wang,...Zhaoqiang Xia|[2603.27103](http://arxiv.org/abs/2603.27103)|null|
+|**2026-03-28**|**Meta-Contrastive Learning for Vision-Language Models via Task-Adaptive CLIP Training**|Merham Fouladvand,...Peuroly Batra|[2603.27091](http://arxiv.org/abs/2603.27091)|null|
 |**2026-03-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh,...Sharid Loáiciga|[2603.25537](http://arxiv.org/abs/2603.25537)|null|
 |**2026-03-26**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir,...Sondos Mohamed|[2603.25467](http://arxiv.org/abs/2603.25467)|null|
 |**2026-03-26**|**HiSpatial: Taming Hierarchical 3D Spatial Understanding in Vision-Language Models**|Huizhi Liang,...Jiaolong Yang|[2603.25411](http://arxiv.org/abs/2603.25411)|**[link](https://microsoft.github.io/HiSpatial)**|
@@ -2362,10 +2390,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan,...Yadong Mu|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-28**|**Uni-World VLA: Interleaved World Modeling and Planning for Autonomous Driving**|Qiqi Liu,...Li Zhang|[2603.27287](http://arxiv.org/abs/2603.27287)|null|
+|**2026-03-27**|**VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**|Zhide Zhong,...Haoang Li|[2603.26666](http://arxiv.org/abs/2603.26666)|null|
+|**2026-03-27**|**DiffusionAnything: End-to-End In-context Diffusion Learning for Unified Navigation and Pre-Grasp Motion**|Iana Zhura,...Dzmitry Tsetserukou|[2603.26322](http://arxiv.org/abs/2603.26322)|null|
+|**2026-03-27**|**DFM-VLA: Iterative Action Refinement for Robot Manipulation via Discrete Flow Matching**|Jiayi Chen,...Haoang Li|[2603.26320](http://arxiv.org/abs/2603.26320)|null|
+|**2026-03-26**|**ETA-VLA: Efficient Token Adaptation via Temporal Fusion and Intra-LLM Sparsification for Vision-Language-Action Models**|Yiru Wang,...Hao Sun|[2603.25766](http://arxiv.org/abs/2603.25766)|null|
 |**2026-03-26**|**Vega: Learning to Drive with Natural Language Instructions**|Sicheng Zuo,...Jiwen Lu|[2603.25741](http://arxiv.org/abs/2603.25741)|**[link](https://github.com/zuosc19/Vega)**|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang,...Jiachen Li|[2603.25740](http://arxiv.org/abs/2603.25740)|**[link](https://dmw-cvpr.github.io/)**|
 |**2026-03-26**|**LILAC: Language-Conditioned Object-Centric Optical Flow for Open-Loop Trajectory Generation**|Motonari Kambara,...Komei Sugiura|[2603.25481](http://arxiv.org/abs/2603.25481)|null|
-|**2026-03-26**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu,...Donglin Wang|[2603.25406](http://arxiv.org/abs/2603.25406)|null|
+|**2026-03-27**|**MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation**|Yang Liu,...Donglin Wang|[2603.25406](http://arxiv.org/abs/2603.25406)|null|
 |**2026-03-26**|**LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior**|Xinkai Wang,...Lixin Yang|[2603.25399](http://arxiv.org/abs/2603.25399)|null|
 |**2026-03-26**|**ThermoAct:Thermal-Aware Vision-Language-Action Models for Robotic Perception and Decision-Making**|Young-Chae Son,...Soo-Chul Lim|[2603.25044](http://arxiv.org/abs/2603.25044)|null|
 |**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker,...Mac Schwager|[2603.25038](http://arxiv.org/abs/2603.25038)|null|
@@ -2373,7 +2407,7 @@ layout: default
 |**2026-03-26**|**SABER: A Stealthy Agentic Black-Box Attack Framework for Vision-Language-Action Models**|Xiyang Wu,...Dinesh Manocha|[2603.24935](http://arxiv.org/abs/2603.24935)|null|
 |**2026-03-25**|**TAG: Target-Agnostic Guidance for Stable Object-Centric Inference in Vision-Language-Action Models**|Jiaying Zhou,...Guangrun Wang|[2603.24584](http://arxiv.org/abs/2603.24584)|null|
 |**2026-03-25**|**3D-Mix for VLA: A Plug-and-Play Module for Integrating VGGT-based 3D Information into Vision-Language-Action Models**|Bin Yu,...Kai Chen|[2603.24393](http://arxiv.org/abs/2603.24393)|null|
-|**2026-03-25**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li,...Jinyu Gu|[2603.24060](http://arxiv.org/abs/2603.24060)|null|
+|**2026-03-27**|**SOMA: Strategic Orchestration and Memory-Augmented System for Vision-Language-Action Model Robustness via In-Context Adaptation**|Zhuoran Li,...Jinyu Gu|[2603.24060](http://arxiv.org/abs/2603.24060)|null|
 |**2026-03-24**|**Gaze-Regularized Vision-Language-Action Models for Robotic Manipulation**|Anupam Pani,...Yanchao Yang|[2603.23202](http://arxiv.org/abs/2603.23202)|null|
 |**2026-03-24**|**TRAP: Hijacking VLA CoT-Reasoning via Adversarial Patches**|Zhengxian Huang,...Wenyuan Xu|[2603.23117](http://arxiv.org/abs/2603.23117)|null|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng,...Wei Zhang|[2603.22991](http://arxiv.org/abs/2603.22991)|null|
@@ -2993,6 +3027,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Chasing Autonomy: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running**|Zachary Olkin,...Aaron D. Ames|[2603.25902](http://arxiv.org/abs/2603.25902)|null|
 |**2026-03-26**|**A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots**|Giulio Pisaneschi,...Mario G. C. A. Cimino|[2603.25646](http://arxiv.org/abs/2603.25646)|null|
 |**2026-03-26**|**SafeGuard ASF: SR Agentic Humanoid Robot System for Autonomous Industrial Safety**|Thanh Nguyen Canh,...Ben Wei Lim|[2603.25353](http://arxiv.org/abs/2603.25353)|null|
 |**2026-03-25**|**PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning**|Huanyu Li,...Xuelong Li|[2603.24047](http://arxiv.org/abs/2603.24047)|null|
@@ -3001,7 +3036,7 @@ layout: default
 |**2026-03-24**|**Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development**|Vartika Narayani Srinet,...Bishakh Bhattacharya|[2603.22759](http://arxiv.org/abs/2603.22759)|null|
 |**2026-03-24**|**Learning Safe-Stoppability Monitors for Humanoid Robots**|Yifan Sun,...Changliu Liu|[2603.22703](http://arxiv.org/abs/2603.22703)|null|
 |**2026-03-23**|**Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control**|Qingrui Zhao,...Xun Cao|[2603.22201](http://arxiv.org/abs/2603.22201)|null|
-|**2026-03-23**|**Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems**|Yaxuan Wang,...Tong Yang|[2603.21723](http://arxiv.org/abs/2603.21723)|null|
+|**2026-03-27**|**Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems**|Yaxuan Wang,...Tong Yang|[2603.21723](http://arxiv.org/abs/2603.21723)|null|
 |**2026-03-24**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Weisheng Xu,...Renjing Xu|[2603.19709](http://arxiv.org/abs/2603.19709)|null|
 |**2026-03-13**|**PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking**|Jiacheng Bao,...Bin Zhao|[2603.19305](http://arxiv.org/abs/2603.19305)|null|
 |**2026-03-19**|**Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture**|Fuze Sun,...Xinyu Fan|[2603.18771](http://arxiv.org/abs/2603.18771)|null|
@@ -3265,14 +3300,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-29**|**SGS-Intrinsic: Semantic-Invariant Gaussian Splatting for Sparse-View Indoor Inverse Rendering**|Jiahao Niu,...Qing Zhang|[2603.27516](http://arxiv.org/abs/2603.27516)|null|
+|**2026-03-28**|**DiffSoup: Direct Differentiable Rasterization of Triangle Soup for Extreme Radiance Field Simplification**|Kenji Tojo,...Nobuyuki Umetani|[2603.27151](http://arxiv.org/abs/2603.27151)|null|
+|**2026-03-26**|**arg-VU: Affordance Reasoning with Physics-Aware 3D Geometry for Visual Understanding in Robotic Surgery**|Nan Xiao,...Fei Liu|[2603.26814](http://arxiv.org/abs/2603.26814)|null|
+|**2026-03-27**|**Detailed Geometry and Appearance from Opportunistic Motion**|Ryosuke Hirai,...Ko Nishino|[2603.26665](http://arxiv.org/abs/2603.26665)|null|
+|**2026-03-27**|**Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting**|Nitin Kulkarni,...Alina Vereshchaka|[2603.26638](http://arxiv.org/abs/2603.26638)|null|
+|**2026-03-27**|**Scene Grounding In the Wild**|Tamir Cohen,...Hadar Averbuch-Elor|[2603.26584](http://arxiv.org/abs/2603.26584)|**[link](https://tau-vailab.github.io/SceneGround/)**|
+|**2026-03-27**|**GLINT: Modeling Scene-Scale Transparency via Gaussian Radiance Transport**|Youngju Na,...Suyong Yeon|[2603.26181](http://arxiv.org/abs/2603.26181)|**[link](https://youngju-na.github.io/GLINT)**|
+|**2026-03-27**|**R-PGA: Robust Physical Adversarial Camouflage Generation via Relightable 3D Gaussian Splatting**|Tianrui Lou,...Xiaochun Cao|[2603.26067](http://arxiv.org/abs/2603.26067)|null|
 |**2026-03-26**|**Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting**|Yixing Lao,...Hengshuang Zhao|[2603.25745](http://arxiv.org/abs/2603.25745)|null|
 |**2026-03-26**|**ViewSplat: View-Adaptive Dynamic Gaussian Splatting for Feed-Forward Synthesis**|Moonyeon Jeong,...Hongje Seong|[2603.25265](http://arxiv.org/abs/2603.25265)|null|
 |**2026-03-26**|**AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting**|Minh-Quan Viet Bui,...Munchurl Kim|[2603.25129](http://arxiv.org/abs/2603.25129)|**[link](https://kaist-viclab.github.io/airsplat-site)**|
 |**2026-03-26**|**Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos**|Xuankai Zhang,...Qing Zhang|[2603.25058](http://arxiv.org/abs/2603.25058)|null|
-|**2026-03-26**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu,...Iro Armeni|[2603.25053](http://arxiv.org/abs/2603.25053)|**[link](http://research.zhuliyuan.net/projects/GaussFusion/)**|
+|**2026-03-27**|**GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator**|Liyuan Zhu,...Iro Armeni|[2603.25053](http://arxiv.org/abs/2603.25053)|**[link](http://research.zhuliyuan.net/projects/GaussFusion/)**|
 |**2026-03-26**|**MoRGS: Efficient Per-Gaussian Motion Reasoning for Streamable Dynamic 3D Scenes**|Wonjoon Lee,...Sangyoun Lee|[2603.25042](http://arxiv.org/abs/2603.25042)|null|
 |**2026-03-26**|**$π$ , But Make It Fly: Physics-Guided Transfer of VLA Models to Aerial Manipulation**|Johnathan Tucker,...Mac Schwager|[2603.25038](http://arxiv.org/abs/2603.25038)|null|
-|**2026-03-26**|**Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting**|Junoh Leea,...Jin-Hwa Kim|[2603.24994](http://arxiv.org/abs/2603.24994)|null|
+|**2026-03-27**|**Relaxed Rigidity with Ray-based Grouping for Dynamic Gaussian Splatting**|Junoh Lee,...Jin-Hwa Kim|[2603.24994](http://arxiv.org/abs/2603.24994)|null|
 |**2026-03-25**|**Confidence-Based Mesh Extraction from 3D Gaussians**|Lukas Radl,...Markus Steinberger|[2603.24725](http://arxiv.org/abs/2603.24725)|**[link](https://r4dl.github.io/CoMe/)**|
 |**2026-03-25**|**Accurate Point Measurement in 3DGS -- A New Alternative to Traditional Stereoscopic-View Based Measurements**|Deyan Deng,...Rongjun Qin|[2603.24716](http://arxiv.org/abs/2603.24716)|null|
 |**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon,...Or Litany|[2603.24036](http://arxiv.org/abs/2603.24036)|**[link](https://avigailco.github.io/SpectralSplats/)**|
