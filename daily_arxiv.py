@@ -102,7 +102,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    # arxiv>=2.x: iterate results via Client, Search.results() no longer exists
+    client = arxiv.Client()
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -290,7 +292,7 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
+            #f.write(("<p align=\"center\"><h1 align=\"center\"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
