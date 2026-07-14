@@ -102,9 +102,12 @@ def get_daily_papers(topic,query="slam", max_results=2):
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    # arxiv>=2.x: iterate results via Client, Search.results() no longer exists
-    client = arxiv.Client()
-    for result in client.results(search_engine):
+    if hasattr(search_engine, "results"):
+        results_iter = search_engine.results()
+    else:
+        results_iter = arxiv.Client().results(search_engine)
+
+    for result in results_iter:
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
