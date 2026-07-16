@@ -8,6 +8,7 @@ import argparse
 import datetime
 import requests
 import subprocess
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -386,10 +387,22 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
+            max_retry = 3
+            for retry_idx in range(max_retry):
+                try:
+                    data, data_web = get_daily_papers(topic, query = keyword,
+                                                    max_results = max_results)
+                    data_collector.append(data)
+                    data_collector_web.append(data_web)
+                    break
+                except arxiv.HTTPError as e:
+                    if "HTTP 429" in str(e) and retry_idx < max_retry - 1:
+                        sleep_sec = (retry_idx + 1) * 5
+                        logging.warning(f"Rate limited by arXiv for topic '{topic}'. Retry in {sleep_sec}s.")
+                        time.sleep(sleep_sec)
+                        continue
+                    logging.error(f"Skip topic '{topic}' due to arXiv HTTP error: {e}")
+                    break
             print("\n")
         logging.info(f"GET daily papers end")
 
