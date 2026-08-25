@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.22
+## Updated on 2026.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Identity-Aware Human-Object Interaction Motion Captioning**|Yiming Wang,...Jianqin Yin|[2608.20690](http://arxiv.org/abs/2608.20690)|null|
 |**2026-08-15**|**HOIMask: Towards Generative Masked Modeling for Human Object Interaction Generation**|Yihong Ji,...Hongbo Xu|[2608.15141](http://arxiv.org/abs/2608.15141)|null|
 |**2026-08-11**|**GESTO: Human-Centric Spatio-Temporal Memory for Reasoning in Dynamic Scenes**|Ermanno Bartoli,...Iolanda Leite|[2608.10886](http://arxiv.org/abs/2608.10886)|null|
 |**2026-08-10**|**Efficient Human-Contact Representation for Human-Scene Interaction**|Nghia Vu,...Anh Nguyen|[2608.09388](http://arxiv.org/abs/2608.09388)|null|
@@ -277,6 +278,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**CIVA: Critic-Induced Value-Subspace Attacks on Visual World-Model Agents**|Jiancheng Wang,...Dacheng Tao|[2608.21114](http://arxiv.org/abs/2608.21114)|null|
+|**2026-08-21**|**AudioWorldSim: Realistic Binaural Audio Datasets For World Models**|Luis Vitor Zerkowski,...Luiz Velho|[2608.21075](http://arxiv.org/abs/2608.21075)|null|
+|**2026-08-21**|**Graph-Operator World Models for Morphology-Parameter Generalization in Continuous Control**|Xu Yang,...Qianchuan Zhao|[2608.20936](http://arxiv.org/abs/2608.20936)|null|
+|**2026-08-21**|**IMU-Free Body-Frame State Estimation with Sparse Scene Flow for Quadcopters**|Daniel Grønhaug,...Mathias Kolberg|[2608.20891](http://arxiv.org/abs/2608.20891)|null|
+|**2026-08-21**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma,...Xiaojin Huang|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
+|**2026-08-21**|**ResiliFlow: An Open Transport World Model for Infrastructure Perception and Disaster Resilience**|Junxiang Xu,...Jingni Guo|[2608.20709](http://arxiv.org/abs/2608.20709)|null|
+|**2026-08-20**|**RISE: Adaptive Imagination for World Action Models**|Hongbo Lu,...Pai Peng|[2608.20430](http://arxiv.org/abs/2608.20430)|null|
 |**2026-08-20**|**RMWorld: Task-Aware Radio World Models with Value-of-Information Guided Multi-Trial Learning for Multi-UAV Communication Control**|Xiucheng Wang,...Junxi Huan|[2608.20126](http://arxiv.org/abs/2608.20126)|null|
 |**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan,...Zhenning Li|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
 |**2026-08-20**|**Orthogonal JEPA: Factorized Predictive States for Latent World Models**|Taoyong Cui,...Wanli Ouyang|[2608.20065](http://arxiv.org/abs/2608.20065)|null|
@@ -1397,6 +1405,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences**|Elaine Lau,...Jonas Mueller|[2608.21357](http://arxiv.org/abs/2608.21357)|null|
+|**2026-08-21**|**ViTacPhys: Physical Property-Aware Grasping from Human Visual-Tactile Demonstrations**|Yiwen Liu,...Shuaijun Wang|[2608.21355](http://arxiv.org/abs/2608.21355)|**[link](https://vitacphys.github.io/ViTacPhys/)**|
+|**2026-08-21**|**Re $^3$ Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning**|Haonan Jia,...Bo Zheng|[2608.21305](http://arxiv.org/abs/2608.21305)|null|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li,...Kin-Man Lam|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
+|**2026-08-21**|**A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection**|Inpyo Song,...Jangwon Lee|[2608.21244](http://arxiv.org/abs/2608.21244)|null|
+|**2026-08-21**|**Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning**|Bipasha Kundu,...Cristian A. Linte|[2608.21180](http://arxiv.org/abs/2608.21180)|null|
+|**2026-08-21**|**Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds**|Lars Benedikt Kaesberg,...Bela Gipp|[2608.21170](http://arxiv.org/abs/2608.21170)|null|
+|**2026-08-21**|**A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans**|Simon Vincent Abel,...Daniel Santak Wolf|[2608.21140](http://arxiv.org/abs/2608.21140)|null|
+|**2026-08-21**|**Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs**|Luka Ribar,...Douglas Orr|[2608.21134](http://arxiv.org/abs/2608.21134)|null|
+|**2026-08-21**|**Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning**|Yitao Xu,...Jianqiang Wang|[2608.21032](http://arxiv.org/abs/2608.21032)|null|
+|**2026-08-21**|**Belief Without Behavior: Measuring the Translation of Theory of Mind into Coordinated Social Action in Vision-Language Models**|Tonglin Yan,...David Rudrauf|[2608.20975](http://arxiv.org/abs/2608.20975)|null|
+|**2026-08-21**|**Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**|A. Said Gurbuz,...Peter Staar|[2608.20868](http://arxiv.org/abs/2608.20868)|null|
+|**2026-08-21**|**CARD: Diagnosing Belief to Action Routing Failures in Vision Language Models**|Souptik Kumar Majumdar,...Andreas Bulling|[2608.20763](http://arxiv.org/abs/2608.20763)|null|
+|**2026-08-21**|**AffordAny: Open-World 3D Affordance Grounding from Monocular RGB Images via Vision-Language-Guided Geometric Reasoning**|Junqi Wu,...Xian-Sheng Hua|[2608.20720](http://arxiv.org/abs/2608.20720)|**[link](https://github.com/lzlfwow/AffordAny.)**|
+|**2026-08-21**|**ArtiMo: Agent-Driven Articulated Mesh Animation**|Chunyu Zou,...Xiaojuan Qi|[2608.20699](http://arxiv.org/abs/2608.20699)|null|
 |**2026-08-20**|**DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing**|Haoxiang Cao,...Chaoqun Wang|[2608.20161](http://arxiv.org/abs/2608.20161)|null|
 |**2026-08-20**|**DPC-Net: Dual-Prior Collaborative Network for All-in-One Image Restoration**|Zhaokun He,...Qingsen Yan|[2608.20141](http://arxiv.org/abs/2608.20141)|null|
 |**2026-08-20**|**BeyondMasks: Evaluating Causal and Physical Consistency in Video Object Removal**|Yigit Ekin,...Aysegul Dundar|[2608.20107](http://arxiv.org/abs/2608.20107)|**[link](https://yigitekin.github.io/BeyondMasks/)**|
@@ -3120,6 +3143,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models**|Zhuoyuan Li,...Kin-Man Lam|[2608.21247](http://arxiv.org/abs/2608.21247)|null|
+|**2026-08-21**|**PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration**|Chen-Yu Lin,...Shao-Hua Sun|[2608.21031](http://arxiv.org/abs/2608.21031)|null|
+|**2026-08-21**|**A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving**|Jingtao Sun,...Mike Zheng Shou|[2608.20890](http://arxiv.org/abs/2608.20890)|null|
+|**2026-08-21**|**CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models**|Hui Lu,...Xudong Jiang|[2608.20791](http://arxiv.org/abs/2608.20791)|null|
+|**2026-08-21**|**Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis**|Yantao Li,...Shiguo Lian|[2608.20743](http://arxiv.org/abs/2608.20743)|null|
+|**2026-08-21**|**ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation**|Siyuan Ma,...Xiaojin Huang|[2608.20735](http://arxiv.org/abs/2608.20735)|null|
+|**2026-08-20**|**Logic-VLA: A Temporal Logic Conditioned Vision-Language-Action Model**|Celina Shiyu Wang,...Jyotirmoy V. Deshmukh|[2608.20556](http://arxiv.org/abs/2608.20556)|null|
+|**2026-08-20**|**EndoLIFT: Language-Disambiguated Latent-Conditioned Rectified Flow for Bidirectional Endoscopic Control**|Chi Kit Ng,...Hongliang Ren|[2608.20478](http://arxiv.org/abs/2608.20478)|null|
 |**2026-08-20**|**Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms**|Yanchen Guan,...Zhenning Li|[2608.20111](http://arxiv.org/abs/2608.20111)|null|
 |**2026-08-20**|**EXIMO: VLM Guided Exploration of VLA Policies**|Bhavya Sukhija,...Martin Riedmiller|[2608.19891](http://arxiv.org/abs/2608.19891)|null|
 |**2026-08-20**|**OrthoSkillVLA: Continual Skill Learning via Gradient-Informed Skill Subspace Adaptation**|Jiaqi Wang,...Yi Zhou|[2608.19589](http://arxiv.org/abs/2608.19589)|null|
@@ -4030,6 +4061,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**Humanoid Musical Robots as Experimental Interfaces for Music-Evoked Emotion**|Vincent K. M. Cheung,...Jia-Yeu Lin|[2608.20433](http://arxiv.org/abs/2608.20433)|null|
 |**2026-08-20**|**Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking**|Tao Huang,...Jiangmiao Pang|[2608.20087](http://arxiv.org/abs/2608.20087)|null|
 |**2026-08-19**|**Hybrid Feedback Sampling for Sample-Efficient Model Predictive Control**|Chaoyi Pan,...Guanya Shi|[2608.19443](http://arxiv.org/abs/2608.19443)|null|
 |**2026-08-20**|**HODAgent: Towards On-Demand, Responsive Humanoids for Physical World Human Interaction**|Wang Warren Chen,...Jie Chen|[2608.17584](http://arxiv.org/abs/2608.17584)|null|
@@ -4411,6 +4443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**TopoSurfel: Closing the Loop between Gaussian Surfels and Meshes for Surface Reconstruction**|Chuanjin Fan,...Tianzhu Zhang|[2608.20687](http://arxiv.org/abs/2608.20687)|null|
+|**2026-08-20**|**Sparse Light Field Sampling Improves Casual 3D and 4D Reconstruction**|Shamus Li,...Sara Fridovich-Keil|[2608.20602](http://arxiv.org/abs/2608.20602)|**[link](https://shamus.li/lightfield-gaussian-splatting)**|
 |**2026-08-20**|**4DAnyone: Create Anyone in 4D from a Casual Monocular Video**|Yudong Jin,...Yinghao Xu|[2608.20335](http://arxiv.org/abs/2608.20335)|**[link](https://4danyone.github.io)**|
 |**2026-08-20**|**Point-Based 3D Reconstruction from Sparse Views under Known Illumination**|Magnus Kaufmann Gjerde,...Thomas B. Moeslund|[2608.20000](http://arxiv.org/abs/2608.20000)|null|
 |**2026-08-20**|**Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models**|Yuanhao Ban,...Cho-Jui Hsieh|[2608.19556](http://arxiv.org/abs/2608.19556)|null|
