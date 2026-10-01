@@ -1,4 +1,4 @@
-## Updated on 2026.09.28
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -292,7 +292,7 @@
 |**2019-09-05**|**Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense**|Yixin Chen,...Song-Chun Zhu|[1909.01507](http://arxiv.org/abs/1909.01507)|null|
 |**2016-05-30**|**Low-Cost Scene Modeling using a Density Function Improves Segmentation Performance**|Vivek Sharma,...Luc Van Gool|[1605.08464](http://arxiv.org/abs/1605.08464)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## World Model
 
@@ -1534,7 +1534,7 @@
 |**2024-01-19**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang,...Jiwen Lu|[2401.09985](http://arxiv.org/abs/2401.09985)|**[link](https://world-dreamer.github.io/)**|
 |**2016-04-04**|**A General World Model with Poiesis: Poppers Three Worlds updated with Software**|Walter Hehl,...Walter Hehl|[1604.00360](http://arxiv.org/abs/1604.00360)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## VLM
 
@@ -3394,7 +3394,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen,...Bo Xu|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou,...Ziwei Liu|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## VLA
 
@@ -4422,14 +4422,31 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Andrea Burns,...Bryan A. Plummer|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Spandana Gella,...Frank Keller|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Humanoid
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei,...Yue Wang|[2609.40244](http://arxiv.org/abs/2609.40244)|**[link](https://github.com/WeiYuFei0217/StreamRig)**|
+|**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Yizhao Li,...Hao Xu|[2609.39575](http://arxiv.org/abs/2609.39575)|**[link](https://echo-g-project.github.io/)**|
+|**2026-09-30**|**IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining**|Huimin Pan,...Chenyi Chen|[2609.39403](http://arxiv.org/abs/2609.39403)|**[link](https://xpeng-robotics.github.io/ironmind/)**|
+|**2026-09-30**|**RoboAssist: Interactive Human-Humanoid Planning for Long-Horizon Surgical Assistance**|Jingwei Jia,...Shunlei Li|[2609.39384](http://arxiv.org/abs/2609.39384)|**[link](https://roboassist.github.io)**|
+|**2026-09-30**|**NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation**|Xiangyu Miao,...Xuelong Li|[2609.39000](http://arxiv.org/abs/2609.39000)|null|
+|**2026-09-29**|**Dense Temporal Motion Retargeting for Legged Robots**|Jaeryeong Kim,...Stelian Coros|[2609.38617](http://arxiv.org/abs/2609.38617)|**[link](https://jaeryeongnicolekim.com/Dense-Temporal-Motion-Retargeting-For-Legged-Robots/)**|
+|**2026-09-29**|**GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots**|Bosong Ding,...Giacomo Spigler|[2609.38400](http://arxiv.org/abs/2609.38400)|null|
+|**2026-09-29**|**Learning Expressive and Compositional Motion Representation via Spectral Skills**|Feiyang Wu,...Anqi Wu|[2609.37677](http://arxiv.org/abs/2609.37677)|null|
+|**2026-09-29**|**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**|Guillaume Besset,...Ajay Suresha Sathya|[2609.36602](http://arxiv.org/abs/2609.36602)|null|
+|**2026-09-29**|**A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability**|Ying Yang,...Jin Ge|[2609.36558](http://arxiv.org/abs/2609.36558)|null|
+|**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Jihwan Shin,...Marco Hutter|[2609.34674](http://arxiv.org/abs/2609.34674)|**[link](http://shinben0327.github.io/hoi-retarget)**|
+|**2026-09-28**|**Model-Informed Safe Reinforcement Learning for Bipedal Locomotion via Step-to-Step Prediction**|Victor Paredes,...Ayonga Hereid|[2609.34486](http://arxiv.org/abs/2609.34486)|null|
+|**2026-09-27**|**SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation**|Chengqun Yang,...Yichao Yan|[2609.33311](http://arxiv.org/abs/2609.33311)|null|
+|**2026-09-27**|**Humanoids for Robot-Assisted Surgery: Bimanual Base Placement and Tool-Mount Optimization via Capability Maps**|Peihan Zhang,...Michael Yip|[2609.33096](http://arxiv.org/abs/2609.33096)|null|
+|**2026-09-27**|**REALM: A Coarse-to-Fine Generative Framework for Embodied Reactive Listening**|Peizhen Li,...Yang Zhang|[2609.33095](http://arxiv.org/abs/2609.33095)|null|
+|**2026-09-26**|**RoboSTAR: Next-Scale Autoregressive Sign Language Translation for Humanoid Robots**|Yujia Zeng,...Masayoshi Tomizuka|[2609.32250](http://arxiv.org/abs/2609.32250)|null|
+|**2026-09-25**|**Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data**|Jingzhi Cui,...Zhongyu Li|[2609.31840](http://arxiv.org/abs/2609.31840)|null|
 |**2026-09-24**|**BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video**|Tianyu Xiong,...Xun Cao|[2609.29850](http://arxiv.org/abs/2609.29850)|null|
-|**2026-09-24**|**Anthropomimetic Soft Robotic Forearm with Independently Articulated Carpal Bones Enabling Human-Like Adaptive Stiffness Modulability**|Yoshinobu Obata,...Shunta Togo|[2609.29176](http://arxiv.org/abs/2609.29176)|**[link](https://github.com/TogoLab/anthropomimetic-forearm-carpal-stiffness)**|
+|**2026-09-28**|**Anthropomimetic Soft Robotic Forearm with Independently Articulated Carpal Bones Enabling Human-Like Adaptive Stiffness Modulability**|Yoshinobu Obata,...Shunta Togo|[2609.29176](http://arxiv.org/abs/2609.29176)|**[link](https://github.com/TogoLab/anthropomimetic-forearm-carpal-stiffness)**|
 |**2026-09-24**|**Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory**|Ming-Ju Lee,...Yiming Li|[2609.28960](http://arxiv.org/abs/2609.28960)|null|
 |**2026-09-24**|**TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion**|Zizhuo Wang,...Yiming Li|[2609.28959](http://arxiv.org/abs/2609.28959)|null|
 |**2026-09-23**|**ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control**|Xukun Luan,...Jinyan Liu|[2609.28378](http://arxiv.org/abs/2609.28378)|**[link](https://github.com/Zili1000/ForgetMimic)**|
@@ -4863,7 +4880,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ahmad Syarif,...Ary Setijadi Prihatmanto|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Alessandro Roncone,...Lorenzo Natale|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -5958,5 +5975,5 @@
 |**2023-08-09**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl,...George Drettakis|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)**|
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao,...Jonathan Li|[2210.00379](http://arxiv.org/abs/2210.00379)|null|
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 

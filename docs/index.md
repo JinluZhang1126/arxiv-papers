@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.28
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -4412,8 +4412,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei,...Yue Wang|[2609.40244](http://arxiv.org/abs/2609.40244)|**[link](https://github.com/WeiYuFei0217/StreamRig)**|
+|**2026-09-30**|**ECHO-G: Embodied Co-speech Humanoid mOtion Generation**|Yizhao Li,...Hao Xu|[2609.39575](http://arxiv.org/abs/2609.39575)|**[link](https://echo-g-project.github.io/)**|
+|**2026-09-30**|**IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining**|Huimin Pan,...Chenyi Chen|[2609.39403](http://arxiv.org/abs/2609.39403)|**[link](https://xpeng-robotics.github.io/ironmind/)**|
+|**2026-09-30**|**RoboAssist: Interactive Human-Humanoid Planning for Long-Horizon Surgical Assistance**|Jingwei Jia,...Shunlei Li|[2609.39384](http://arxiv.org/abs/2609.39384)|**[link](https://roboassist.github.io)**|
+|**2026-09-30**|**NEXUS: Perceptive Whole-Body Control for Terrain-Adaptive Teleoperation**|Xiangyu Miao,...Xuelong Li|[2609.39000](http://arxiv.org/abs/2609.39000)|null|
+|**2026-09-29**|**Dense Temporal Motion Retargeting for Legged Robots**|Jaeryeong Kim,...Stelian Coros|[2609.38617](http://arxiv.org/abs/2609.38617)|**[link](https://jaeryeongnicolekim.com/Dense-Temporal-Motion-Retargeting-For-Legged-Robots/)**|
+|**2026-09-29**|**GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots**|Bosong Ding,...Giacomo Spigler|[2609.38400](http://arxiv.org/abs/2609.38400)|null|
+|**2026-09-29**|**Learning Expressive and Compositional Motion Representation via Spectral Skills**|Feiyang Wu,...Anqi Wu|[2609.37677](http://arxiv.org/abs/2609.37677)|null|
+|**2026-09-29**|**OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport**|Guillaume Besset,...Ajay Suresha Sathya|[2609.36602](http://arxiv.org/abs/2609.36602)|null|
+|**2026-09-29**|**A robust single-sensing-element tactile sensor for concurrent pressure and tackiness detection with real-time signal decoupling capability**|Ying Yang,...Jin Ge|[2609.36558](http://arxiv.org/abs/2609.36558)|null|
+|**2026-09-28**|**HOI-Retarget: Contact-Centric Retargeting for Human-Object Interaction**|Jihwan Shin,...Marco Hutter|[2609.34674](http://arxiv.org/abs/2609.34674)|**[link](http://shinben0327.github.io/hoi-retarget)**|
+|**2026-09-28**|**Model-Informed Safe Reinforcement Learning for Bipedal Locomotion via Step-to-Step Prediction**|Victor Paredes,...Ayonga Hereid|[2609.34486](http://arxiv.org/abs/2609.34486)|null|
+|**2026-09-27**|**SocialHumanoid: Towards Expressive Humanoid Behavior via One-Step Co-Speech Motion Generation**|Chengqun Yang,...Yichao Yan|[2609.33311](http://arxiv.org/abs/2609.33311)|null|
+|**2026-09-27**|**Humanoids for Robot-Assisted Surgery: Bimanual Base Placement and Tool-Mount Optimization via Capability Maps**|Peihan Zhang,...Michael Yip|[2609.33096](http://arxiv.org/abs/2609.33096)|null|
+|**2026-09-27**|**REALM: A Coarse-to-Fine Generative Framework for Embodied Reactive Listening**|Peizhen Li,...Yang Zhang|[2609.33095](http://arxiv.org/abs/2609.33095)|null|
+|**2026-09-26**|**RoboSTAR: Next-Scale Autoregressive Sign Language Translation for Humanoid Robots**|Yujia Zeng,...Masayoshi Tomizuka|[2609.32250](http://arxiv.org/abs/2609.32250)|null|
+|**2026-09-25**|**Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data**|Jingzhi Cui,...Zhongyu Li|[2609.31840](http://arxiv.org/abs/2609.31840)|null|
 |**2026-09-24**|**BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video**|Tianyu Xiong,...Xun Cao|[2609.29850](http://arxiv.org/abs/2609.29850)|null|
-|**2026-09-24**|**Anthropomimetic Soft Robotic Forearm with Independently Articulated Carpal Bones Enabling Human-Like Adaptive Stiffness Modulability**|Yoshinobu Obata,...Shunta Togo|[2609.29176](http://arxiv.org/abs/2609.29176)|**[link](https://github.com/TogoLab/anthropomimetic-forearm-carpal-stiffness)**|
+|**2026-09-28**|**Anthropomimetic Soft Robotic Forearm with Independently Articulated Carpal Bones Enabling Human-Like Adaptive Stiffness Modulability**|Yoshinobu Obata,...Shunta Togo|[2609.29176](http://arxiv.org/abs/2609.29176)|**[link](https://github.com/TogoLab/anthropomimetic-forearm-carpal-stiffness)**|
 |**2026-09-24**|**Echo in the Steps: Learning Perceptive Humanoid Parkour with Gated Memory**|Ming-Ju Lee,...Yiming Li|[2609.28960](http://arxiv.org/abs/2609.28960)|null|
 |**2026-09-24**|**TactileStep: Sole Tactile Learning for Regulating Foot-Terrain Interaction in Humanoid Locomotion**|Zizhuo Wang,...Yiming Li|[2609.28959](http://arxiv.org/abs/2609.28959)|null|
 |**2026-09-23**|**ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control**|Xukun Luan,...Jinyan Liu|[2609.28378](http://arxiv.org/abs/2609.28378)|**[link](https://github.com/Zili1000/ForgetMimic)**|
