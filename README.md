@@ -1,4 +1,4 @@
-## Updated on 2026.10.16
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -292,7 +292,7 @@
 |**2019-09-05**|**Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense**|Yixin Chen,...Song-Chun Zhu|[1909.01507](http://arxiv.org/abs/1909.01507)|null|
 |**2016-05-30**|**Low-Cost Scene Modeling using a Density Function Improves Segmentation Performance**|Vivek Sharma,...Luc Van Gool|[1605.08464](http://arxiv.org/abs/1605.08464)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## World Model
 
@@ -1534,12 +1534,32 @@
 |**2024-01-19**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang,...Jiwen Lu|[2401.09985](http://arxiv.org/abs/2401.09985)|**[link](https://world-dreamer.github.io/)**|
 |**2016-04-04**|**A General World Model with Poiesis: Poppers Three Worlds updated with Software**|Walter Hehl,...Walter Hehl|[1604.00360](http://arxiv.org/abs/1604.00360)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## VLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-16**|**FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization**|Syed Md. Ahnaf Hasan,...AKM Mahbubur Rahman|[2610.23705](http://arxiv.org/abs/2610.23705)|null|
+|**2026-10-16**|**FlexPart: Text-Controlled Semantics-Aware 3D Part Segmentation at Flexible Granularity**|Yiqun Zhao,...Shenghua Gao|[2610.23659](http://arxiv.org/abs/2610.23659)|null|
+|**2026-10-16**|**A Language-Informed Loss for Visual Generation**|Suchir Agarwal,...Jiajun Wu|[2610.23653](http://arxiv.org/abs/2610.23653)|**[link](https://suchiragarwal.com/lilie)**|
+|**2026-10-16**|**Not Every Mention Is a Claim: Rethinking Object Hallucination Detection in Vision-Language Models**|Hsin-Ling Hsu,...Kuan-Hao Huang|[2610.23610](http://arxiv.org/abs/2610.23610)|null|
+|**2026-10-16**|**Enhancing RAG-based Medical VQA with Gated Multimodal Representations**|Daniela Jimenez-Pano,...Delia Irazú Hernández-Farías|[2610.23588](http://arxiv.org/abs/2610.23588)|null|
+|**2026-10-16**|**HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents**|Hongcheng Gao,...Xiao He|[2610.23479](http://arxiv.org/abs/2610.23479)|**[link](https://github.com/HexaFuture/HexaShell)**|
+|**2026-10-16**|**When Evidence Vanishes: Distilling Visual-Evidence Dependency in Medical Vision-Language Models**|Qizhen Lan,...Xiaoqian Jiang|[2610.23469](http://arxiv.org/abs/2610.23469)|null|
+|**2026-10-16**|**HydraLLM: Adaptive Width Slicing for Elastic Text and Vision-Language Models**|Oscar Kemme,...Olaf Landsiedel|[2610.23455](http://arxiv.org/abs/2610.23455)|null|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo,...Zhiwen Yu|[2610.23419](http://arxiv.org/abs/2610.23419)|null|
+|**2026-10-16**|**FloodVLM-Pix: Language-Guided Pixel-Level Flood Understanding**|Chengyang Zhang,...Gang Li|[2610.23377](http://arxiv.org/abs/2610.23377)|null|
+|**2026-10-16**|**LAW: Unifying Language, Action, and World Modeling for Agentic Physical Intelligence**|Jiajun Cao,...Shanghang Zhang|[2610.23334](http://arxiv.org/abs/2610.23334)|null|
+|**2026-10-16**|**CatchUp: Depth-Aware Re-Admission of Visual Tokens for Efficient Large Vision-Language Models**|Eunju Park,...Uiwon Hwang|[2610.23324](http://arxiv.org/abs/2610.23324)|**[link](https://github.com/pej0918/CatchUp)**|
+|**2026-10-16**|**Look, Reason, Draw a Region: Recursive Refinement for Spatial Context Prediction**|Wajeeha Tahir,...Thorir Mar Ingolfsson|[2610.23302](http://arxiv.org/abs/2610.23302)|null|
+|**2026-10-16**|**MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025**|Andreas Goulas,...Vasileios Mezaris|[2610.23214](http://arxiv.org/abs/2610.23214)|null|
+|**2026-10-16**|**Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection**|Jiyul Ham,...Jun-Geol Baek|[2610.23172](http://arxiv.org/abs/2610.23172)|null|
+|**2026-10-16**|**Domain-specific language alignment of multimodal embeddings towards explainable predictions**|Gabrielė Tijūnaitytė,...Ioannis N. Athanasiadis|[2610.23110](http://arxiv.org/abs/2610.23110)|null|
+|**2026-10-16**|**How Murky Before a VLM Knows It Cannot See? Accuracy, Confidence and Abstention on a Physical Visibility Axis**|Mochamad Rizal Fauzan,...Irgi Surya|[2610.22981](http://arxiv.org/abs/2610.22981)|null|
+|**2026-10-16**|**Query-adaptive Recurrent Tokenization**|Bavesh Balaji,...Sirisha Rambhatla|[2610.22957](http://arxiv.org/abs/2610.22957)|null|
+|**2026-10-16**|**MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models**|Khuyen Pham,...Cesare Stefanini|[2610.22951](http://arxiv.org/abs/2610.22951)|null|
+|**2026-10-16**|**DICL-Qwen3VL: Decoupled Confidence Calibration for Interpretable Workwear Detection**|Meng Wang,...Chao He|[2610.22929](http://arxiv.org/abs/2610.22929)|null|
 |**2026-10-06**|**World Models' Last Exam in Physics**|Mingju Gao,...Qinhuai Na|[2610.08791](http://arxiv.org/abs/2610.08791)|null|
 |**2026-10-06**|**PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation**|Kun Song,...Jia Pan|[2610.08784](http://arxiv.org/abs/2610.08784)|**[link](https://song-kun.github.io/pears)**|
 |**2026-10-06**|**ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing**|Zhenghong Zhou,...Yuqian Zhou|[2610.08779](http://arxiv.org/abs/2610.08779)|**[link](https://real-time-video-research.github.io/alive/)**|
@@ -3414,7 +3434,7 @@
 |**2024-04-19**|**VLP: A Survey on Vision-Language Pre-training**|Feilong Chen,...Bo Xu|[2202.09061](http://arxiv.org/abs/2202.09061)|null|
 |**2022-10-07**|**Learning to Prompt for Vision-Language Models**|Kaiyang Zhou,...Ziwei Liu|[2109.01134](http://arxiv.org/abs/2109.01134)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## VLA
 
@@ -4462,7 +4482,7 @@
 |**2022-08-16**|**A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility**|Andrea Burns,...Bryan A. Plummer|[2202.02312](http://arxiv.org/abs/2202.02312)|null|
 |**2017-04-25**|**An Analysis of Action Recognition Datasets for Language and Vision Tasks**|Spandana Gella,...Frank Keller|[1704.07129](http://arxiv.org/abs/1704.07129)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## Humanoid
 
@@ -4921,7 +4941,7 @@
 |**2016-07-19**|**Design and implementation of computational platform for social-humanoid robot Lumen as an exhibition guide in Electrical Engineering Days 2015**|Ahmad Syarif,...Ary Setijadi Prihatmanto|[1607.04763](http://arxiv.org/abs/1607.04763)|null|
 |**2016-11-18**|**Gaze Stabilization for Humanoid Robots: a Comprehensive Framework**|Alessandro Roncone,...Lorenzo Natale|[1411.3525](http://arxiv.org/abs/1411.3525)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 ## 3DGS/NeRF
 
@@ -6016,5 +6036,5 @@
 |**2023-08-09**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl,...George Drettakis|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)**|
 |**2025-08-12**|**NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review (Updated Post-Gaussian Splatting)**|Kyle Gao,...Jonathan Li|[2210.00379](http://arxiv.org/abs/2210.00379)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
