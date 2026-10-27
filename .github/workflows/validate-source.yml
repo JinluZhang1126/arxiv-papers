@@ -1,0 +1,14 @@
+name: Validate source without credentials
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest -v test_regressions.py
+      - run: node --check docs/assets/date-index.js

@@ -8,7 +8,6 @@ import argparse
 import datetime
 import time
 import requests
-import subprocess
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -28,7 +27,7 @@ def load_config(config_file:str) -> dict:
         keywords = dict()
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
+        OR = ' OR ' # TODO
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
@@ -174,8 +173,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
             break
         except arxiv.HTTPError as err:
             if attempt == max_attempts - 1:
-                logging.warning(f"Skip topic '{topic}' after {max_attempts} failed arxiv requests: {err}")
-                break
+                logging.error(f"Failed topic '{topic}' after {max_attempts} failed arxiv requests: {err}")
+                raise
             wait_seconds = retry_wait_seconds * (attempt + 1)
             logging.warning(f"arXiv request failed for topic '{topic}' (attempt {attempt + 1}/{max_attempts}), retry after {wait_seconds}s: {err}")
             time.sleep(wait_seconds)
@@ -273,8 +272,8 @@ def json_to_md(filename,md_filename,
             return s
         math_start,math_end = match.span()
         space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
+        if s[:math_start] and s[:math_start][-1] not in (' ', '*'): space_trail = ' '
+        if s[math_end:] and s[math_end:][0] not in (' ', '*'): space_leading = ' '
         ret += s[:math_start] 
         ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
         ret += s[math_end:]
@@ -456,12 +455,3 @@ if __name__ == "__main__":
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
 
-    try:
-        subprocess.run(["git", "add", "."], check=True)
-        subprocess.run(["git", "commit", "-m", "commit"], check=True)
-        subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-        print("Git commands executed successfully.")
-    except subprocess.CalledProcessError as e:
-        pass
-
-    
