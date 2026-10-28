@@ -8,6 +8,7 @@ import argparse
 import datetime
 import time
 import requests
+from email.utils import parsedate_to_datetime
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -87,7 +88,32 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
   
-def get_daily_papers(topic,query="slam", max_results=2):
+def create_arxiv_client(max_results):
+    # One shared client preserves pacing across topics; retries have one owner.
+    client = arxiv.Client(page_size=min(max_results, 100),
+                          delay_seconds=10, num_retries=0)
+    client.retry_after_seconds = 0
+
+    def remember_retry_after(response, *args, **kwargs):
+        client.retry_after_seconds = 0
+        value = response.headers.get('Retry-After')
+        if value:
+            try:
+                client.retry_after_seconds = max(0, float(value))
+            except ValueError:
+                try:
+                    until = parsedate_to_datetime(value)
+                    client.retry_after_seconds = max(0, (until - datetime.datetime.now(datetime.timezone.utc)).total_seconds())
+                except (TypeError, ValueError):
+                    pass
+        return response
+
+    # arxiv.py does not include Retry-After in HTTPError. Keep its response hook.
+    client._session.hooks['response'].append(remember_retry_after)
+    return client
+
+
+def get_daily_papers(topic,query="slam", max_results=2, client=None):
     """
     @param topic: str
     @param query: str
@@ -96,20 +122,22 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+    client = client if client is not None else create_arxiv_client(max_results)
     def build_results_iter():
         search_engine = arxiv.Search(
             query = query,
             max_results = max_results,
             sort_by = arxiv.SortCriterion.SubmittedDate
         )
-        if hasattr(search_engine, "results"):
-            return search_engine.results()
-        return arxiv.Client().results(search_engine)
+        return client.results(search_engine)
 
-    retry_wait_seconds = 30
-    max_attempts = 3
+    retry_wait_seconds = 60
+    max_attempts = 4
     for attempt in range(max_attempts):
         try:
+            # Discard incomplete attempts; never publish a partially fetched topic.
+            content.clear()
+            content_to_web.clear()
             results_iter = build_results_iter()
             for result in results_iter:
 
@@ -172,10 +200,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
                     content_to_web[paper_key] += f"\n"
             break
         except arxiv.HTTPError as err:
+            if err.status not in (429, 500, 502, 503, 504):
+                raise
             if attempt == max_attempts - 1:
                 logging.error(f"Failed topic '{topic}' after {max_attempts} failed arxiv requests: {err}")
                 raise
-            wait_seconds = retry_wait_seconds * (attempt + 1)
+            wait_seconds = max(retry_wait_seconds * (2 ** attempt), client.retry_after_seconds)
+            if wait_seconds > 900:
+                logging.error('Server requests a cooldown beyond this run; preserving existing index.')
+                raise
             logging.warning(f"arXiv request failed for topic '{topic}' (attempt {attempt + 1}/{max_attempts}), retry after {wait_seconds}s: {err}")
             time.sleep(wait_seconds)
 
@@ -396,10 +429,11 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
+        client = create_arxiv_client(max_results)
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results)
+                                            max_results = max_results, client=client)
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
