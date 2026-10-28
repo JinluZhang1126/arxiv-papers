@@ -9,6 +9,7 @@ import datetime
 import time
 import requests
 from email.utils import parsedate_to_datetime
+from rss_source import collect_recent_rss
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -113,7 +114,7 @@ def create_arxiv_client(max_results):
     return client
 
 
-def get_daily_papers(topic,query="slam", max_results=2, client=None):
+def get_daily_papers(topic,query="slam", max_results=2, client=None, fallback_on_rate_limit=False):
     """
     @param topic: str
     @param query: str
@@ -200,6 +201,8 @@ def get_daily_papers(topic,query="slam", max_results=2, client=None):
                     content_to_web[paper_key] += f"\n"
             break
         except arxiv.HTTPError as err:
+            if err.status == 429 and fallback_on_rate_limit:
+                raise
             if err.status not in (429, 500, 502, 503, 504):
                 raise
             if attempt == max_attempts - 1:
@@ -260,7 +263,7 @@ def update_paper_links(filename):
         with open(filename,"w") as f:
             json.dump(json_data,f)
 
-def update_json_file(filename,data_dict):
+def update_json_file(filename,data_dict,replace_existing=True):
     '''
     daily update json file using data_dict
     '''
@@ -279,7 +282,11 @@ def update_json_file(filename,data_dict):
             papers = data[keyword]
 
             if keyword in json_data.keys():
-                json_data[keyword].update(papers)
+                if replace_existing:
+                    json_data[keyword].update(papers)
+                else:
+                    for paper_id, row in papers.items():
+                        json_data[keyword].setdefault(paper_id, row)
             else:
                 json_data[keyword] = papers
 
@@ -292,7 +299,7 @@ def json_to_md(filename,md_filename,
                use_title = True, 
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True, collection_status=None):
     """
     @param filename: str
     @param md_filename: str
@@ -345,6 +352,9 @@ def json_to_md(filename,md_filename,
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
+
+        if collection_status and collection_status.get('notice'):
+            f.write('\n> ' + collection_status['notice'] + '\n\n')
 
         # TODO: add usage
         f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
@@ -426,17 +436,32 @@ def demo(**config):
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
+    collection_status = None
+    status_path = 'docs/collection-status.json'
+    if b_update and os.path.exists(status_path):
+        with open(status_path) as f:
+            collection_status = json.load(f)
+    replace_existing = True
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
         client = create_arxiv_client(max_results)
-        for topic, keyword in keywords.items():
-            logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic, query = keyword,
-                                            max_results = max_results, client=client)
-            data_collector.append(data)
-            data_collector_web.append(data_web)
-            print("\n")
+        try:
+            for topic, keyword in keywords.items():
+                logging.info(f"Keyword: {topic}")
+                data, data_web = get_daily_papers(topic, query=keyword,
+                    max_results=max_results, client=client, fallback_on_rate_limit=True)
+                data_collector.append(data)
+                data_collector_web.append(data_web)
+            collection_status = {'mode': 'api', 'retrieved_at': datetime.datetime.now(datetime.timezone.utc).isoformat()}
+        except arxiv.HTTPError as err:
+            if err.status != 429:
+                raise
+            logging.warning('Search API rate-limited; stop API requests and use the official recent RSS feed with partial coverage.')
+            data_collector, data_collector_web, collection_status = collect_recent_rss(config['keywords'], max_results)
+            replace_existing = False
+            logging.warning(collection_status['notice'])
+            logging.info('RSS candidate counts: %s', collection_status['topics'])
         logging.info(f"GET daily papers end")
 
     # 1. update README.md file
@@ -448,10 +473,10 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             # update json data
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector,replace_existing=replace_existing)
         # json data to markdown
         json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+            show_badge = show_badge, collection_status=collection_status)
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -461,10 +486,10 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
-            update_json_file(json_file,data_collector)
+            update_json_file(json_file,data_collector,replace_existing=replace_existing)
         json_to_md(json_file, md_file, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+            use_tc=False, use_b2t=False, collection_status=collection_status)
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -474,9 +499,14 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:    
-            update_json_file(json_file, data_collector_web)
+            update_json_file(json_file, data_collector_web, replace_existing=replace_existing)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge) 
+            to_web=False, use_title= False, show_badge = show_badge, collection_status=collection_status)
+
+    if collection_status is not None:
+        with open(status_path, 'w') as f:
+            json.dump(collection_status, f, indent=2)
+            f.write('\n')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

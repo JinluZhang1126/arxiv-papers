@@ -6,6 +6,8 @@ import types
 import unittest
 import datetime
 from email.utils import parsedate_to_datetime
+from unittest.mock import mock_open
+from rss_source import parse_feed, matches
 from pathlib import Path
 
 SOURCE = Path(__file__).with_name('daily_arxiv.py').read_text()
@@ -81,12 +83,64 @@ class Regressions(unittest.TestCase):
             obj = object(); clients.append(obj); return obj
         def collect(topic, **kwargs):
             used.append(kwargs['client']); return {}, {}
-        env = {'logging': logging, 'create_arxiv_client': create, 'get_daily_papers': collect}
+        env = {'logging': logging, 'create_arxiv_client': create, 'get_daily_papers': collect,
+               'datetime': datetime, 'json': json, 'open': mock_open(),
+               'arxiv': types.SimpleNamespace(HTTPError=RuntimeError)}
         function('demo', env)(kv={'one': 'a', 'two': 'b'}, max_results=20,
             publish_readme=False, publish_gitpage=False, publish_wechat=False,
             show_badge=False, update_paper_links=False)
         self.assertEqual(len(clients), 1)
         self.assertEqual(used, [clients[0], clients[0]])
+
+    def test_rate_limit_hands_off_without_extra_api_calls(self):
+        collect, client, calls, sleeps, error = self.collector([429])
+        with self.assertRaises(error): collect('topic', client=client, fallback_on_rate_limit=True)
+        self.assertEqual(calls, [429])
+        self.assertEqual(sleeps, [])
+
+    def test_rss_does_not_overwrite_existing_api_records(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            p = Path(tmp) / 'index.json'
+            p.write_text(json.dumps({'topic': {'old': 'original'}}))
+            update = function('update_json_file', {'json': json})
+            update(str(p), [{'topic': {'old': 'rss date', 'new': 'rss row'}}], replace_existing=False)
+            self.assertEqual(json.loads(p.read_text()), {'topic': {'old': 'original', 'new': 'rss row'}})
+
+    def test_rss_keyword_boundaries(self):
+        self.assertTrue(matches('A Vision-Language-Action method', ['Vision Language Action']))
+        self.assertFalse(matches('a nonhumanoid example', ['Humanoid']))
+
+    def test_rss_partial_coverage_dates_and_duplicates(self):
+        item = '''<item><title>Human-Object Interaction | a test</title>
+          <link>https://arxiv.org/abs/2610.12345</link><description>abstract</description>
+          <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+          <dc:creator>First Author, Last Author</dc:creator><arxiv:announce_type>replace</arxiv:announce_type></item>'''
+        xml = ('''<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom"><channel>
+          <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>''' + item + item + '</channel></rss>').encode()
+        now = datetime.datetime(2026, 10, 28, 5, tzinfo=datetime.timezone.utc)
+        rows, _, status = parse_feed(xml, {'HOI': {'filters': ['Human Object Interaction']}}, 20, now)
+        self.assertEqual(len(rows[0]['HOI']), 1)
+        self.assertIn('RSS replace', rows[0]['HOI']['2610.12345'])
+        self.assertIn('&#124;', rows[0]['HOI']['2610.12345'])
+        self.assertEqual(status['mode'], 'partial_recent_rss')
+        self.assertIn('NOT been recovered', status['notice'])
+        stale = now + datetime.timedelta(days=5)
+        with self.assertRaises(ValueError): parse_feed(xml, {}, 20, stale)
+        with self.assertRaises(ValueError): parse_feed(b'<html>unavailable</html>', {}, 20, now)
+
+    def test_failed_fallback_does_not_write_archive(self):
+        class HTTPError(Exception): status = 429
+        def collect(*a, **kw): raise HTTPError()
+        def rss(*a, **kw): raise ValueError('feed unavailable')
+        output = mock_open()
+        env = {'logging': logging, 'create_arxiv_client': lambda _: object(),
+               'get_daily_papers': collect, 'collect_recent_rss': rss,
+               'arxiv': types.SimpleNamespace(HTTPError=HTTPError), 'open': output}
+        with self.assertRaises(ValueError):
+            function('demo', env)(kv={'test': 'q'}, keywords={}, max_results=20,
+                publish_readme=True, publish_gitpage=True, publish_wechat=False,
+                show_badge=False, update_paper_links=False)
+        output.assert_not_called()
 
     def test_query_has_operator_boundaries(self):
         config = {'keywords': {'test': {'filters': ['NeRF', 'Gaussian Splatting', 'Vision-Language-Action']}}}
