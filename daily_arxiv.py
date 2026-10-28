@@ -458,7 +458,10 @@ def demo(**config):
             if err.status != 429:
                 raise
             logging.warning('Search API rate-limited; stop API requests and use the official recent RSS feed with partial coverage.')
-            data_collector, data_collector_web, collection_status = collect_recent_rss(config['keywords'], max_results)
+            rss_collector, rss_collector_web, collection_status = collect_recent_rss(config['keywords'], max_results)
+            collected_topics = {k for d in data_collector for k in d}
+            data_collector.extend([d for d in rss_collector if not (set(d) & collected_topics)])
+            data_collector_web.extend([d for d in rss_collector_web if not (set(d) & collected_topics)])
             replace_existing = False
             logging.warning(collection_status['notice'])
             logging.info('RSS candidate counts: %s', collection_status['topics'])

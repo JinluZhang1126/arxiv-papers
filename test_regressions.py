@@ -154,5 +154,13 @@ class Regressions(unittest.TestCase):
         workflow=Path('.github/workflows/cv-arxiv-3days.yml').read_text()
         self.assertIn('git config user.name',workflow)
         self.assertIn('git push origin HEAD:main',workflow)
+        weekly=Path('.github/workflows/update_paper_links.yml').read_text()
+        self.assertNotIn('github-actions-x/commit',weekly)
+        self.assertIn('git push origin HEAD:main',weekly)
+
+    def test_date_index_matches_rss_labels(self):
+        js=Path('docs/assets/date-index.js').read_text()
+        self.assertIn(r'match(/^\d{4}-\d{2}-\d{2}/)',js)
+        self.assertNotIn(r'match(/^\d{4}-\d{2}-\d{2}$/)',js)
 
 if __name__ == '__main__': unittest.main()

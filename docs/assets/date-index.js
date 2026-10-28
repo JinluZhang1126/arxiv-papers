@@ -4,7 +4,7 @@
   function init() {
     const groups = new Map();
     document.querySelectorAll('table tbody tr').forEach(row => {
-      const date = row.cells[0]?.textContent.trim().match(/^\d{4}-\d{2}-\d{2}$/)?.[0];
+      const date = row.cells[0]?.textContent.trim().match(/^\d{4}-\d{2}-\d{2}/)?.[0];
       if (date) {
         if (!groups.has(date)) groups.set(date, []);
         groups.get(date).push(row);

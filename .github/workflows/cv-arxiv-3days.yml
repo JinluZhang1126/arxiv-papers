@@ -13,7 +13,9 @@ on:
       - 'rss_source.py'
       - 'test_regressions.py'
       - 'config.yaml'
+      - 'docs/assets/date-index.js'
       - '.github/workflows/cv-arxiv-3days.yml'
+      - '.github/workflows/update_paper_links.yml'
   schedule:
     - cron:  "0 0 */3 * *"  # daily: "0 0/12 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
