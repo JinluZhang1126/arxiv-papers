@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Interaction
@@ -558,8 +558,8 @@ layout: default
 |**2026-08-13**|**PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives**|Kaixin Ding,...Hengshuang Zhao|[2608.13552](http://arxiv.org/abs/2608.13552)|**[link](https://kxding.github.io/project/PlayWorld/)**|
 |**2026-08-13**|**Alaya-EVOKE: From Linear-Scaling Supervision to Endless World**|Yuanyang Yin,...Feng Zhao|[2608.13546](http://arxiv.org/abs/2608.13546)|null|
 |**2026-08-13**|**Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology**|Yunsung Chung,...Jihun Hamm|[2608.13518](http://arxiv.org/abs/2608.13518)|null|
-|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**| AlayaWorld Team,...Zihui Gao|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
-|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**| DreamX Team,...Pengfei Zhang|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
+|**2026-08-13**|**AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)**|AlayaWorld Team,...Zihui Gao|[2608.13492](http://arxiv.org/abs/2608.13492)|null|
+|**2026-08-13**|**DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation**|DreamX Team,...Pengfei Zhang|[2608.13489](http://arxiv.org/abs/2608.13489)|**[link](https://github.com/AMAP-ML/DreamX-Phi)**|
 |**2026-08-13**|**A Unifying Perspective on Causal World Models: From Observations to Representations to Structure**|Avinash Kori,...Fabrizio Russo|[2608.13456](http://arxiv.org/abs/2608.13456)|null|
 |**2026-08-13**|**ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models**|Gehan Zheng,...Weiming Zhi|[2608.13438](http://arxiv.org/abs/2608.13438)|null|
 |**2026-08-13**|**S2-HWM: Sparse Event-Structured Hierarchical World Model for Long-Horizon Surgical Robot Manipulation**|Shuzhe Zhang,...Qiong Wang|[2608.13103](http://arxiv.org/abs/2608.13103)|null|
@@ -581,7 +581,7 @@ layout: default
 |**2026-07-31**|**WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning**|Senyu Fei,...Xipeng Qiu|[2607.29613](http://arxiv.org/abs/2607.29613)|null|
 |**2026-07-31**|**DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search**|Jiayang Niu,...Yongli Ren|[2607.29491](http://arxiv.org/abs/2607.29491)|null|
 |**2026-07-31**|**AquaJEPA: Action-Conditioned Multimodal Predictive Representations for Underwater Robot Dynamics**|Alan-Barsag Gazzaev,...Sergey Muravyov|[2607.29393](http://arxiv.org/abs/2607.29393)|null|
-|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**| BWM Team,... BWM Team|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
+|**2026-07-31**|**BWM: A Low-Cost High-Fidelity World Simulator for Robot Learning**|BWM Team,... BWM Team|[2607.29302](http://arxiv.org/abs/2607.29302)|null|
 |**2026-07-31**|**Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving**|Jiwei Yang,...Jun Li|[2607.29031](http://arxiv.org/abs/2607.29031)|null|
 |**2026-07-30**|**Mirror Learning**|Yunpeng Liu,...Frank Wood|[2607.28737](http://arxiv.org/abs/2607.28737)|null|
 |**2026-07-30**|**ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine**|Yukang Cao,...Ziwei Liu|[2607.28625](http://arxiv.org/abs/2607.28625)|**[link](https://ace-data-engine.github.io/ACE-Data-0/)**|
@@ -628,7 +628,7 @@ layout: default
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao,...Zhongyu Li|[2607.06558](http://arxiv.org/abs/2607.06558)|**[link](https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io)**|
 |**2026-07-07**|**Hypothesis-driven Model Expansion under Uncertainty for Open-World Robot Planning**|Anxing Xiao,...David Hsu|[2607.06501](http://arxiv.org/abs/2607.06501)|null|
 |**2026-07-07**|**A Definition and Roadmap for World Models**|Xinyuan Chen,...Ming Zhou|[2607.06401](http://arxiv.org/abs/2607.06401)|null|
-|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**| AlayaWorld Team,...Zihui Gao|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
+|**2026-07-07**|**AlayaWorld: Long-Horizon and Playable Video World Generation**|AlayaWorld Team,...Zihui Gao|[2607.06291](http://arxiv.org/abs/2607.06291)|null|
 |**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin,...Lingyun Sun|[2607.06216](http://arxiv.org/abs/2607.06216)|**[link](https://moxin-tech.github.io/moworld/)**|
 |**2026-07-07**|**SparseCtrl-HOI: Sparse Temporal Control for Human-Object Interaction Video Generation**|Shenbo Xie,...Changxing Ding|[2607.05994](http://arxiv.org/abs/2607.05994)|**[link](https://mpi-lab.github.io/SparseCtrl-HOI)**|
 |**2026-07-07**|**Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure**|Finn Rasmus Schäfer,...Johannes Betz|[2607.05966](http://arxiv.org/abs/2607.05966)|null|
@@ -3288,7 +3288,7 @@ layout: default
 |**2025-10-22**|**XBench: A Comprehensive Benchmark for Visual-Language Explanations in Chest Radiography**|Haozhe Luo,...Mauricio Reyes|[2510.19599](http://arxiv.org/abs/2510.19599)|null|
 |**2025-10-22**|**Can You Trust What You See? Alpha Channel No-Box Attacks on Video Object Detection**|Ariana Yi,...Qiben Yan|[2510.19574](http://arxiv.org/abs/2510.19574)|null|
 |**2025-10-22**|**A Matter of Time: Revealing the Structure of Time in Vision-Language Models**|Nidham Tekaya,...Matthias Zeppelzauer|[2510.19559](http://arxiv.org/abs/2510.19559)|null|
-|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Simone Alghisi,...Giuseppe Riccardi|[2510.19555](http://arxiv.org/abs/2510.19555)|null|
+|**2025-10-22**|**[De|Re]constructing VLMs' Reasoning in Counting**|Simone Alghisi,...Giuseppe Riccardi|[2510.19555](http://arxiv.org/abs/2510.19555)|
 |**2025-10-22**|**CARES: Context-Aware Resolution Selector for VLMs**|Moshe Kimhi,...Eli Schwartz|[2510.19496](http://arxiv.org/abs/2510.19496)|null|
 |**2025-10-22**|**Seeing Across Views: Benchmarking Spatial Reasoning of Vision-Language Models in Robotic Scenes**|Zhiyuan Feng,...Baining Guo|[2510.19400](http://arxiv.org/abs/2510.19400)|**[link](https://github.com/microsoft/MV-RoboBench)**|
 |**2025-10-22**|**A Training-Free Framework for Open-Vocabulary Image Segmentation and Recognition with EfficientNet and CLIP**|Ying Dai,...Wei Yu Chen|[2510.19333](http://arxiv.org/abs/2510.19333)|null|
@@ -3853,12 +3853,12 @@ layout: default
 |**2026-08-17**|**$τ_0$ -VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation**|Xiaowei Cai,...Yue Zhou|[2608.16885](http://arxiv.org/abs/2608.16885)|**[link](https://tau0-vla.github.io/)**|
 |**2026-08-17**|**HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL**|Langzhe Gu,...Shanghang Zhang|[2608.16837](http://arxiv.org/abs/2608.16837)|**[link](https://grange007.github.io/HAF)**|
 |**2026-08-17**|**When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents**|Jiawei Liu,...Hongxin Hu|[2608.16806](http://arxiv.org/abs/2608.16806)|null|
-|**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**| Aniri,...Yunpu Ma|[2608.16697](http://arxiv.org/abs/2608.16697)|null|
+|**2026-08-17**|**FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy**|Aniri,...Yunpu Ma|[2608.16697](http://arxiv.org/abs/2608.16697)|null|
 |**2026-08-17**|**NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation**|Cong Zhao,...Ri Yang|[2608.16503](http://arxiv.org/abs/2608.16503)|null|
 |**2026-08-17**|**Exposing the Long-tail in Embodied Urban Navigation via Scalable Learning from In-the-Wild Videos**|Bingyi Xia,...Jiankun Wang|[2608.16476](http://arxiv.org/abs/2608.16476)|null|
 |**2026-08-17**|**SparkVLA: Stop-Aware Hierarchical VLA with Adaptive Action Chunking for Long-Horizon Manipulation**|Xunyao Lei,...Xuesong Li|[2608.16172](http://arxiv.org/abs/2608.16172)|null|
 |**2026-08-17**|**US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdomina**|Cheng Zhang,...Qing Cai|[2608.16074](http://arxiv.org/abs/2608.16074)|null|
-|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**| GigaBrain Team,...Zheng Zhu|[2608.15875](http://arxiv.org/abs/2608.15875)|**[link](https://gigaai.cc/blog/gigabrain07)**|
+|**2026-08-16**|**GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture**|GigaBrain Team,...Zheng Zhu|[2608.15875](http://arxiv.org/abs/2608.15875)|**[link](https://gigaai.cc/blog/gigabrain07)**|
 |**2026-08-16**|**ViTaR: Visuo-Tactile Residual Adaptation for Foundation VLA Manipulation**|Yi Wang,...Xuesong Li|[2608.15816](http://arxiv.org/abs/2608.15816)|null|
 |**2026-08-16**|**Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation**|Yijie Xu,...Shanghang Zhang|[2608.15680](http://arxiv.org/abs/2608.15680)|null|
 |**2026-08-16**|**Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification**|Chunyu Qi,...Haibing Guan|[2608.15636](http://arxiv.org/abs/2608.15636)|null|
@@ -3880,7 +3880,7 @@ layout: default
 |**2026-08-12**|**Policy-Induced Hand Priors in Humanoid Dual-Arm Manipulation: Diagnosing and Mitigating Initial-Pose Dependence**|Chaeyeon Jung,...Juyoun Park|[2608.11769](http://arxiv.org/abs/2608.11769)|null|
 |**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu,...Hang Zhao|[2608.11739](http://arxiv.org/abs/2608.11739)|null|
 |**2026-08-12**|**StellaVLA: In-Context Structured Demonstration for Generalizable Vision-Language-Action Models**|Siyu Xu,...Chang Xu|[2608.11671](http://arxiv.org/abs/2608.11671)|null|
-|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**| Foundation Model Team,...XPeng Inc|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team,...XPeng Inc|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Neural Introspection Gating for Adaptive KV-Cache Reuse in Vision-Language-Action Models**|Zhijie Wu,...Kei Okada|[2608.10824](http://arxiv.org/abs/2608.10824)|**[link](https://zjw4321.github.io/neural-introspection-gating-page/)**|
 |**2026-08-11**|**Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting**|Huosen Ou,...Yiding Ji|[2608.10756](http://arxiv.org/abs/2608.10756)|null|
 |**2026-08-11**|**Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models**|Li Wenjie,...Yonatan Bisk|[2608.10484](http://arxiv.org/abs/2608.10484)|null|
