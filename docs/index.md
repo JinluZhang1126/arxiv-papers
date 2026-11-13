@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.13
 
 > Partial coverage: arXiv search API returned HTTP 429. Used the official recent cs.CV/cs.RO/cs.AI/cs.LG RSS announcement feed only. RSS dates in new rows are announcement/update dates, not submission dates. Existing records are preserved; historical gaps and categories outside this feed have NOT been recovered.
 
