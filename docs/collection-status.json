@@ -1,37 +1,4 @@
 {
-  "mode": "partial_recent_rss",
-  "api_status": 429,
-  "source": "https://rss.arxiv.org/rss/cs.CV+cs.RO+cs.AI+cs.LG",
-  "retrieved_at": "2026-11-22T04:28:22.197069+00:00",
-  "feed_announcement_date": "2026-11-21T00:00:00-05:00",
-  "feed_items": 0,
-  "unique_items": 0,
-  "feed_cap_reached": false,
-  "topics": {
-    "Interaction": {
-      "matched": 0,
-      "selected": 0
-    },
-    "World Model": {
-      "matched": 0,
-      "selected": 0
-    },
-    "VLM": {
-      "matched": 0,
-      "selected": 0
-    },
-    "VLA": {
-      "matched": 0,
-      "selected": 0
-    },
-    "Humanoid": {
-      "matched": 0,
-      "selected": 0
-    },
-    "3DGS/NeRF": {
-      "matched": 0,
-      "selected": 0
-    }
-  },
-  "notice": "Partial coverage: arXiv search API returned HTTP 429. Used the official recent cs.CV/cs.RO/cs.AI/cs.LG RSS announcement feed only. RSS dates in new rows are announcement/update dates, not submission dates. Existing records are preserved; historical gaps and categories outside this feed have NOT been recovered."
+  "mode": "api",
+  "retrieved_at": "2026-11-25T06:25:02.996490+00:00"
 }
